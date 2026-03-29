@@ -1,0 +1,739 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-e39448-white-glue.html",
+    "https://www.deliworld.com/product/deli-6354-white-glue.html",
+    "https://www.deliworld.com/product/deli-9071-white-glue.html",
+    "https://www.deliworld.com/product/deli-9621-white-glue.html",
+    "https://www.deliworld.com/product/deli-9070-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea74813-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea259-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea260-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea74913-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea567-plant-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea261-white-glue.html",
+    "https://www.deliworld.com/product/deli-e39447-white-glue.html",
+    "https://www.deliworld.com/product/deli-ea566-plant-white-glue.html",
+    "https://www.deliworld.com/product/deli-e39446-white-glue.html",
+    "https://www.deliworld.com/product/deli-9624-white-glue.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-6354 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100011793",
+      "url": "https://www.deliworld.com/product/deli-6354-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100011793"
+            },
+            {
+              "key": "Specification",
+              "value": "35ml"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100011793-6354/1.jpg",
+        "https://www.deliworld.com/uploads/image/100011793-6354/2.jpg",
+        "https://www.deliworld.com/uploads/image/100011793-6354/3.jpg",
+        "https://www.deliworld.com/uploads/image/100011793-6354/4.jpg",
+        "https://www.deliworld.com/uploads/image/100011793-6354/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-9071 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100004283",
+      "url": "https://www.deliworld.com/product/deli-9071-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100004283"
+            },
+            {
+              "key": "Specification",
+              "value": "60ml"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100004283-9071/1.jpg",
+        "https://www.deliworld.com/uploads/image/100004283-9071/2.jpg",
+        "https://www.deliworld.com/uploads/image/100004283-9071/3.jpg",
+        "https://www.deliworld.com/uploads/image/100004283-9071/4.jpg",
+        "https://www.deliworld.com/uploads/image/100004283-9071/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-9070 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100004282",
+      "url": "https://www.deliworld.com/product/deli-9070-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100004282"
+            },
+            {
+              "key": "Specification",
+              "value": "40ml"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100004282-9070/1.jpg",
+        "https://www.deliworld.com/uploads/image/100004282-9070/2.jpg",
+        "https://www.deliworld.com/uploads/image/100004282-9070/3.jpg",
+        "https://www.deliworld.com/uploads/image/100004282-9070/4.jpg",
+        "https://www.deliworld.com/uploads/image/100004282-9070/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-9624 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100119585",
+      "url": "https://www.deliworld.com/product/deli-9624-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100119585"
+            },
+            {
+              "key": "Specification",
+              "value": "60ml"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100119585-9624/1.jpg",
+        "https://www.deliworld.com/uploads/image/100119585-9624/2.jpg",
+        "https://www.deliworld.com/uploads/image/100119585-9624/3.jpg",
+        "https://www.deliworld.com/uploads/image/100119585-9624/4.jpg",
+        "https://www.deliworld.com/uploads/image/100119585-9624/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-9621 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100119586",
+      "url": "https://www.deliworld.com/product/deli-9621-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100119586"
+            },
+            {
+              "key": "Specification",
+              "value": "40ml"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100119586-9621/1.jpg",
+        "https://www.deliworld.com/uploads/image/100119586-9621/2.jpg",
+        "https://www.deliworld.com/uploads/image/100119586-9621/3.jpg",
+        "https://www.deliworld.com/uploads/image/100119586-9621/4.jpg",
+        "https://www.deliworld.com/uploads/image/100119586-9621/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA74913 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100124465",
+      "url": "https://www.deliworld.com/product/deli-ea74913-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100124465"
+            },
+            {
+              "key": "Specification",
+              "value": "1000ml"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100124465-EA74913/1.jpg",
+        "https://www.deliworld.com/uploads/image/100124465-EA74913/2.jpg",
+        "https://www.deliworld.com/uploads/image/100124465-EA74913/3.jpg",
+        "https://www.deliworld.com/uploads/image/100124465-EA74913/4.jpg",
+        "https://www.deliworld.com/uploads/image/100124465-EA74913/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA74813 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100124466",
+      "url": "https://www.deliworld.com/product/deli-ea74813-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100124466"
+            },
+            {
+              "key": "Specification",
+              "value": "500ml"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100124466-EA74813/1.jpg",
+        "https://www.deliworld.com/uploads/image/100124466-EA74813/2.jpg",
+        "https://www.deliworld.com/uploads/image/100124466-EA74813/3.jpg",
+        "https://www.deliworld.com/uploads/image/100124466-EA74813/4.jpg",
+        "https://www.deliworld.com/uploads/image/100124466-EA74813/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E39447 White glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100141506",
+      "url": "https://www.deliworld.com/product/deli-e39447-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100141506"
+            },
+            {
+              "key": "Specification",
+              "value": "120ML"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100141506-E39447/1.jpg",
+        "https://www.deliworld.com/uploads/image/100141506-E39447/2.jpg",
+        "https://www.deliworld.com/uploads/image/100141506-E39447/3.jpg",
+        "https://www.deliworld.com/uploads/image/100141506-E39447/4.jpg",
+        "https://www.deliworld.com/uploads/image/100141506-E39447/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E39446 White glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100141505",
+      "url": "https://www.deliworld.com/product/deli-e39446-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100141505"
+            },
+            {
+              "key": "Specification",
+              "value": "80ML"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100141505-E39446/1.jpg",
+        "https://www.deliworld.com/uploads/image/100141505-E39446/2.jpg",
+        "https://www.deliworld.com/uploads/image/100141505-E39446/3.jpg",
+        "https://www.deliworld.com/uploads/image/100141505-E39446/4.jpg",
+        "https://www.deliworld.com/uploads/image/100141505-E39446/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E39448 White glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "100141512",
+      "url": "https://www.deliworld.com/product/deli-e39448-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100141512"
+            },
+            {
+              "key": "Specification",
+              "value": "230ML"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100141512-E39448/1.jpg",
+        "https://www.deliworld.com/uploads/image/100141512-E39448/2.jpg",
+        "https://www.deliworld.com/uploads/image/100141512-E39448/3.jpg",
+        "https://www.deliworld.com/uploads/image/100141512-E39448/4.jpg",
+        "https://www.deliworld.com/uploads/image/100141512-E39448/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA259 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-ea259-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "120ml"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20170313/12/macbook.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA260 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-ea260-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "250ml"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea260-white-glue1.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea260-white-glue2.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea260-white-glue3.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea260-white-glue4.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea260-white-glue5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA261 White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-ea261-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "500ml"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea261-white-glue1.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea261-white-glue2.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea261-white-glue3.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea261-white-glue4.webp",
+        "https://www.deliworld.com/uploads/image/20230703/14/deli-ea261-white-glue5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA567 Plant White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "140025890",
+      "url": "https://www.deliworld.com/product/deli-ea567-plant-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: BLUE/YELLOW/PINK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE/YELLOW/PINK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "140025890"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE/YELLOW/PINK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20250411/deli-ea567-plant-white-glue.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA566 Plant White Glue",
+      "subtitle": "White Glue",
+      "brand": "Deli",
+      "sku": "140026245",
+      "url": "https://www.deliworld.com/product/deli-ea566-plant-white-glue.html",
+      "category": "White Glue",
+      "overview": "Color: BLUE/YELLOW/PINK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE/YELLOW/PINK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "140026245"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE/YELLOW/PINK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20250411/deli-ea566-plant-white-glue.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

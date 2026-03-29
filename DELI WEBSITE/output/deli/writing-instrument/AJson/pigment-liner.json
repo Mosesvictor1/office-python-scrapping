@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Deli-EU302 Pigment Liner",
+    "subtitle": "Pigment Liner",
+    "brand": "Deli",
+    "sku": "",
+    "url": "https://www.deliworld.com/product/deli-eu302-pigment-liner.html",
+    "category": "Pigment Liner",
+    "overview": "Color: Black, Red, Blue, Green, Dark blue, Dark",
+    "price": "N/A",
+    "currency": "N/A",
+    "color": [
+      "Black",
+      "Red",
+      "Blue",
+      "Green",
+      "Dark blue",
+      "Dark"
+    ],
+    "rating": "4.4/5",
+    "review_count": "1",
+    "availability": true,
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Product Details",
+        "specs": [
+          {
+            "key": "Specification",
+            "value": "Tip: 0.5mm/1.0mm;"
+          },
+          {
+            "key": "Color",
+            "value": "Black, Red, Blue, Green, Dark blue, Dark"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://www.deliworld.com/uploads/image/20230705/16/deli-eu302-pigment-liner1.webp",
+      "https://www.deliworld.com/uploads/image/20230705/16/deli-eu302-pigment-liner2.webp",
+      "https://www.deliworld.com/uploads/image/20230705/16/deli-eu302-pigment-liner3.webp",
+      "https://www.deliworld.com/uploads/image/20230705/16/deli-eu302-pigment-liner4.webp",
+      "https://www.deliworld.com/uploads/image/20230705/16/deli-eu302-pigment-liner5.webp"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "featured_product": false,
+    "new_arrival": false,
+    "best_seller": false,
+    "is_deleted": false
+  }
+]

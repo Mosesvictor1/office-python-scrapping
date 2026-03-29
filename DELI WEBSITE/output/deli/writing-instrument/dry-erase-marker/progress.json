@@ -1,0 +1,2090 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-eu00330-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00620-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6801-whiteboard-marker-100001564.html",
+    "https://www.deliworld.com/product/deli-eu00240-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink-100003692.html",
+    "https://www.deliworld.com/product/deli-6801-whiteboard-marker-100001565.html",
+    "https://www.deliworld.com/product/deli-s506-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6811-whiteboard-marker-100001573.html",
+    "https://www.deliworld.com/product/deli-eu00403-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00140-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu008-bk-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink.html",
+    "https://www.deliworld.com/product/deli-s507-dry-erase-marker-100115580.html",
+    "https://www.deliworld.com/product/deli-eu008-bl-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00120-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s536-whiteboard-marker-100135119.html",
+    "https://www.deliworld.com/product/deli-6801-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00220-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s507-dry-erase-marker-100115579.html",
+    "https://www.deliworld.com/product/deli-eu00640-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s504-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00320-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu008-re-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu009-bk-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6817-whiteboard-marker-100001576.html",
+    "https://www.deliworld.com/product/deli-eu00130-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00340-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu009-bl-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00101-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00150-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6811-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink-100003691.html",
+    "https://www.deliworld.com/product/deli-eu00650-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu00630-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6811-whiteboard-marker-100001574.html",
+    "https://www.deliworld.com/product/deli-s536-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-s536-whiteboard-marker-100135120.html",
+    "https://www.deliworld.com/product/deli-6817-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-6817-whiteboard-marker-100001577.html",
+    "https://www.deliworld.com/product/deli-s507-dry-erase-marker.html",
+    "https://www.deliworld.com/product/deli-eu00230-whiteboard-marker.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-6801 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001565",
+      "url": "https://www.deliworld.com/product/deli-6801-whiteboard-marker-100001565.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001565"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001565-6801/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001565-6801/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001565-6801/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001565-6801/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001565-6801/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6801 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001564",
+      "url": "https://www.deliworld.com/product/deli-6801-whiteboard-marker-100001564.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001564"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001564-6801/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001564-6801/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001564-6801/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001564-6801/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001564-6801/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6801 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001563",
+      "url": "https://www.deliworld.com/product/deli-6801-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001563"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001563-6801/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001563-6801/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001563-6801/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001563-6801/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001563-6801/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6811 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001572",
+      "url": "https://www.deliworld.com/product/deli-6811-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001572"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001572-6811/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001572-6811/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001572-6811/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001572-6811/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001572-6811/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6811 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001573",
+      "url": "https://www.deliworld.com/product/deli-6811-whiteboard-marker-100001573.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001573"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001573-6811/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001573-6811/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001573-6811/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001573-6811/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001573-6811/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6811 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001574",
+      "url": "https://www.deliworld.com/product/deli-6811-whiteboard-marker-100001574.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001574"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001574-6811/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001574-6811/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001574-6811/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001574-6811/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001574-6811/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6817 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001575",
+      "url": "https://www.deliworld.com/product/deli-6817-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001575"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001575-6817/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001575-6817/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001575-6817/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001575-6817/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001575-6817/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6817 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001576",
+      "url": "https://www.deliworld.com/product/deli-6817-whiteboard-marker-100001576.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001576"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001576-6817/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001576-6817/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001576-6817/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001576-6817/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001576-6817/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-6817 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100001577",
+      "url": "https://www.deliworld.com/product/deli-6817-whiteboard-marker-100001577.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001577"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001577-6817/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001577-6817/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001577-6817/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001577-6817/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001577-6817/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S630 Whiteboard Marker Ink",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100003690",
+      "url": "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003690"
+            },
+            {
+              "key": "Specification",
+              "value": "12ml"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003690-S630/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003690-S630/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003690-S630/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003690-S630/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003690-S630/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S630 Whiteboard Marker Ink",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100003691",
+      "url": "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink-100003691.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003691"
+            },
+            {
+              "key": "Specification",
+              "value": "12ml"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003691-S630/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003691-S630/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003691-S630/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003691-S630/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003691-S630/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S504 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100017358",
+      "url": "https://www.deliworld.com/product/deli-s504-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100017358"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100017358-S504/1.jpg",
+        "https://www.deliworld.com/uploads/image/100017358-S504/2.jpg",
+        "https://www.deliworld.com/uploads/image/100017358-S504/3.jpg",
+        "https://www.deliworld.com/uploads/image/100017358-S504/4.jpg",
+        "https://www.deliworld.com/uploads/image/100017358-S504/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S630 Whiteboard Marker Ink",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100003692",
+      "url": "https://www.deliworld.com/product/deli-s630-whiteboard-marker-ink-100003692.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003692"
+            },
+            {
+              "key": "Specification",
+              "value": "12ml"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003692-S630/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003692-S630/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003692-S630/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003692-S630/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003692-S630/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00120 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019702",
+      "url": "https://www.deliworld.com/product/deli-eu00120-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019702"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019702-EU00120/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019702-EU00120/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019702-EU00120/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019702-EU00120/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019702-EU00120/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00130 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019703",
+      "url": "https://www.deliworld.com/product/deli-eu00130-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019703"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019703-EU00130/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019703-EU00130/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019703-EU00130/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019703-EU00130/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019703-EU00130/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00150 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019706",
+      "url": "https://www.deliworld.com/product/deli-eu00150-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019706"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019706-EU00150/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019706-EU00150/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019706-EU00150/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019706-EU00150/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00140 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019705",
+      "url": "https://www.deliworld.com/product/deli-eu00140-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019705"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019705-EU00140/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019705-EU00140/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019705-EU00140/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019705-EU00140/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S506 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100017359",
+      "url": "https://www.deliworld.com/product/deli-s506-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100017359"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100017359-S506/1.jpg",
+        "https://www.deliworld.com/uploads/image/100017359-S506/2.jpg",
+        "https://www.deliworld.com/uploads/image/100017359-S506/3.jpg",
+        "https://www.deliworld.com/uploads/image/100017359-S506/4.jpg",
+        "https://www.deliworld.com/uploads/image/100017359-S506/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00220 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019716",
+      "url": "https://www.deliworld.com/product/deli-eu00220-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019716"
+            },
+            {
+              "key": "Specification",
+              "value": "Chisel tip: 2-5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019716-EU00220/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019716-EU00220/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019716-EU00220/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019716-EU00220/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019716-EU00220/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00240 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019718",
+      "url": "https://www.deliworld.com/product/deli-eu00240-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019718"
+            },
+            {
+              "key": "Specification",
+              "value": "Chisel tip: 2-5mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019718-EU00240/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019718-EU00240/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019718-EU00240/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019718-EU00240/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019718-EU00240/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00320 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019805",
+      "url": "https://www.deliworld.com/product/deli-eu00320-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019805"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019805-EU00320/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019805-EU00320/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019805-EU00320/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019805-EU00320/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00230 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019717",
+      "url": "https://www.deliworld.com/product/deli-eu00230-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019717"
+            },
+            {
+              "key": "Specification",
+              "value": "Chisel tip: 2-5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019717-EU00230/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019717-EU00230/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019717-EU00230/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019717-EU00230/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019717-EU00230/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00340 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019807",
+      "url": "https://www.deliworld.com/product/deli-eu00340-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019807"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019807-EU00340/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019807-EU00340/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019807-EU00340/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019807-EU00340/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00403 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019864",
+      "url": "https://www.deliworld.com/product/deli-eu00403-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019864"
+            },
+            {
+              "key": "Specification",
+              "value": "Chisel tip: 1-5mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019864-EU00403/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019864-EU00403/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019864-EU00403/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019864-EU00403/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019864-EU00403/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00101 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019855",
+      "url": "https://www.deliworld.com/product/deli-eu00101-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019855"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019855-EU00101/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019855-EU00101/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019855-EU00101/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019855-EU00101/4.jpg",
+        "https://www.deliworld.com/uploads/image/100019855-EU00101/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00330 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100019806",
+      "url": "https://www.deliworld.com/product/deli-eu00330-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100019806"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100019806-EU00330/1.jpg",
+        "https://www.deliworld.com/uploads/image/100019806-EU00330/2.jpg",
+        "https://www.deliworld.com/uploads/image/100019806-EU00330/3.jpg",
+        "https://www.deliworld.com/uploads/image/100019806-EU00330/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S507 Dry Erase Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100115579",
+      "url": "https://www.deliworld.com/product/deli-s507-dry-erase-marker-100115579.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100115579"
+            },
+            {
+              "key": "Specification",
+              "value": "1-3mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100115579-S507/1.jpg",
+        "https://www.deliworld.com/uploads/image/100115579-S507/2.jpg",
+        "https://www.deliworld.com/uploads/image/100115579-S507/3.jpg",
+        "https://www.deliworld.com/uploads/image/100115579-S507/4.jpg",
+        "https://www.deliworld.com/uploads/image/100115579-S507/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00630 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100127949",
+      "url": "https://www.deliworld.com/product/deli-eu00630-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127949"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1-1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127949-EU00630/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127949-EU00630/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127949-EU00630/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127949-EU00630/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S507 Dry Erase Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100115580",
+      "url": "https://www.deliworld.com/product/deli-s507-dry-erase-marker-100115580.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100115580"
+            },
+            {
+              "key": "Specification",
+              "value": "1-3mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100115580-S507/1.jpg",
+        "https://www.deliworld.com/uploads/image/100115580-S507/2.jpg",
+        "https://www.deliworld.com/uploads/image/100115580-S507/3.jpg",
+        "https://www.deliworld.com/uploads/image/100115580-S507/4.jpg",
+        "https://www.deliworld.com/uploads/image/100115580-S507/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S507 Dry Erase Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100115578",
+      "url": "https://www.deliworld.com/product/deli-s507-dry-erase-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100115578"
+            },
+            {
+              "key": "Specification",
+              "value": "1-3mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100115578-S507/1.jpg",
+        "https://www.deliworld.com/uploads/image/100115578-S507/2.jpg",
+        "https://www.deliworld.com/uploads/image/100115578-S507/3.jpg",
+        "https://www.deliworld.com/uploads/image/100115578-S507/4.jpg",
+        "https://www.deliworld.com/uploads/image/100115578-S507/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00640 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100127950",
+      "url": "https://www.deliworld.com/product/deli-eu00640-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127950"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1-1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127950-EU00640/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127950-EU00640/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127950-EU00640/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127950-EU00640/4.jpg",
+        "https://www.deliworld.com/uploads/image/100127950-EU00640/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00650 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100127951",
+      "url": "https://www.deliworld.com/product/deli-eu00650-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127951"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1-1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127951-EU00650/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127951-EU00650/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127951-EU00650/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127951-EU00650/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU00620 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100127961",
+      "url": "https://www.deliworld.com/product/deli-eu00620-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127961"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1-1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127961-EU00620/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127961-EU00620/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127961-EU00620/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127961-EU00620/4.jpg",
+        "https://www.deliworld.com/uploads/image/100127961-EU00620/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S536 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100135119",
+      "url": "https://www.deliworld.com/product/deli-s536-whiteboard-marker-100135119.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100135119"
+            },
+            {
+              "key": "Specification",
+              "value": "1-2mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100135119-S536/1.jpg",
+        "https://www.deliworld.com/uploads/image/100135119-S536/2.jpg",
+        "https://www.deliworld.com/uploads/image/100135119-S536/3.jpg",
+        "https://www.deliworld.com/uploads/image/100135119-S536/4.jpg",
+        "https://www.deliworld.com/uploads/image/100135119-S536/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S536 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100135117",
+      "url": "https://www.deliworld.com/product/deli-s536-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100135117"
+            },
+            {
+              "key": "Specification",
+              "value": "1-2mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100135117-S536/1.jpg",
+        "https://www.deliworld.com/uploads/image/100135117-S536/2.jpg",
+        "https://www.deliworld.com/uploads/image/100135117-S536/3.jpg",
+        "https://www.deliworld.com/uploads/image/100135117-S536/4.jpg",
+        "https://www.deliworld.com/uploads/image/100135117-S536/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S536 Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100135120",
+      "url": "https://www.deliworld.com/product/deli-s536-whiteboard-marker-100135120.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100135120"
+            },
+            {
+              "key": "Specification",
+              "value": "1-2mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100135120-S536/1.jpg",
+        "https://www.deliworld.com/uploads/image/100135120-S536/2.jpg",
+        "https://www.deliworld.com/uploads/image/100135120-S536/3.jpg",
+        "https://www.deliworld.com/uploads/image/100135120-S536/4.jpg",
+        "https://www.deliworld.com/uploads/image/100135120-S536/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU008-BK Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100139403",
+      "url": "https://www.deliworld.com/product/deli-eu008-bk-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139403"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139403-EU008-BK/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139403-EU008-BK/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139403-EU008-BK/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139403-EU008-BK/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139403-EU008-BK/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU008-RE Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100139402",
+      "url": "https://www.deliworld.com/product/deli-eu008-re-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139402"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139402-EU008-RE/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139402-EU008-RE/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139402-EU008-RE/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139402-EU008-RE/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139402-EU008-RE/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU008-BL Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100139404",
+      "url": "https://www.deliworld.com/product/deli-eu008-bl-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139404"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip：1.8mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139404-EU008-BL/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139404-EU008-BL/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139404-EU008-BL/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139404-EU008-BL/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139404-EU008-BL/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU009-BK Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100150382",
+      "url": "https://www.deliworld.com/product/deli-eu009-bk-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100150382"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet Tip: 2mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100150382-EU009-BK/1.jpg",
+        "https://www.deliworld.com/uploads/image/100150382-EU009-BK/2.jpg",
+        "https://www.deliworld.com/uploads/image/100150382-EU009-BK/3.jpg",
+        "https://www.deliworld.com/uploads/image/100150382-EU009-BK/4.jpg",
+        "https://www.deliworld.com/uploads/image/100150382-EU009-BK/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU009-BL Whiteboard Marker",
+      "subtitle": "Dry Erase Marker",
+      "brand": "Deli",
+      "sku": "100150383",
+      "url": "https://www.deliworld.com/product/deli-eu009-bl-whiteboard-marker.html",
+      "category": "Dry Erase Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100150383"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet Tip: 2mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100150383-EU009-BL/1.jpg",
+        "https://www.deliworld.com/uploads/image/100150383-EU009-BL/2.jpg",
+        "https://www.deliworld.com/uploads/image/100150383-EU009-BL/3.jpg",
+        "https://www.deliworld.com/uploads/image/100150383-EU009-BL/4.jpg",
+        "https://www.deliworld.com/uploads/image/100150383-EU009-BL/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

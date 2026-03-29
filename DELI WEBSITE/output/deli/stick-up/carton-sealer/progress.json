@@ -1,0 +1,710 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-0823-carton-sealer-100127535.html",
+    "https://www.deliworld.com/product/deli-e801-packing-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-0824-carton-sealer-100127537.html",
+    "https://www.deliworld.com/product/deli-53250-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-803-carton-sealer.html",
+    "https://www.deliworld.com/product/deli-53251-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-e800-packing-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-802-carton-sealer-100120570.html",
+    "https://www.deliworld.com/product/deli-802-carton-sealer-100120571.html",
+    "https://www.deliworld.com/product/deli-800-packing-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-0824-carton-sealer-100127536.html",
+    "https://www.deliworld.com/product/deli-e804-packing-tape-dispenser.html",
+    "https://www.deliworld.com/product/deli-803-carton-sealer-100118233.html",
+    "https://www.deliworld.com/product/deli-0823-carton-sealer-100127534.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-E801 Packing Tape Dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100003423",
+      "url": "https://www.deliworld.com/product/deli-e801-packing-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003423"
+            },
+            {
+              "key": "Specification",
+              "value": "150×60×85mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003423-E801/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003423-E801/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003423-E801/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003423-E801/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003423-E801/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E800 Packing Tape Dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100003419",
+      "url": "https://www.deliworld.com/product/deli-e800-packing-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003419"
+            },
+            {
+              "key": "Specification",
+              "value": "251×67×160mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003419-E800/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003419-E800/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003419-E800/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003419-E800/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003419-E800/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-800 Packing Tape Dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100000292",
+      "url": "https://www.deliworld.com/product/deli-800-packing-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100000292"
+            },
+            {
+              "key": "Specification",
+              "value": "251×67×160mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100000292-800/1.jpg",
+        "https://www.deliworld.com/uploads/image/100000292-800/2.jpg",
+        "https://www.deliworld.com/uploads/image/100000292-800/3.jpg",
+        "https://www.deliworld.com/uploads/image/100000292-800/4.jpg",
+        "https://www.deliworld.com/uploads/image/100000292-800/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-803 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100118233",
+      "url": "https://www.deliworld.com/product/deli-803-carton-sealer-100118233.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100118233"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100118233-803/1.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-803 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100118232",
+      "url": "https://www.deliworld.com/product/deli-803-carton-sealer.html",
+      "category": "Carton Sealer",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100118232"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100118232-803/1.jpg",
+        "https://www.deliworld.com/uploads/image/100118232-803/2.jpg",
+        "https://www.deliworld.com/uploads/image/100118232-803/3.jpg",
+        "https://www.deliworld.com/uploads/image/100118232-803/4.jpg",
+        "https://www.deliworld.com/uploads/image/100118232-803/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E804 Packing Tape Dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100004486",
+      "url": "https://www.deliworld.com/product/deli-e804-packing-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100004486"
+            },
+            {
+              "key": "Specification",
+              "value": "233×65×159mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100004486-E804/1.jpg",
+        "https://www.deliworld.com/uploads/image/100004486-E804/2.jpg",
+        "https://www.deliworld.com/uploads/image/100004486-E804/3.jpg",
+        "https://www.deliworld.com/uploads/image/100004486-E804/4.jpg",
+        "https://www.deliworld.com/uploads/image/100004486-E804/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-802 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100120570",
+      "url": "https://www.deliworld.com/product/deli-802-carton-sealer-100120570.html",
+      "category": "Carton Sealer",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100120570"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100120570-802/1.jpg",
+        "https://www.deliworld.com/uploads/image/100120570-802/2.jpg",
+        "https://www.deliworld.com/uploads/image/100120570-802/3.jpg",
+        "https://www.deliworld.com/uploads/image/100120570-802/4.jpg",
+        "https://www.deliworld.com/uploads/image/100120570-802/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-802 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100120571",
+      "url": "https://www.deliworld.com/product/deli-802-carton-sealer-100120571.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100120571"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100120571-802/1.jpg",
+        "https://www.deliworld.com/uploads/image/100120571-802/2.jpg",
+        "https://www.deliworld.com/uploads/image/100120571-802/3.jpg",
+        "https://www.deliworld.com/uploads/image/100120571-802/4.jpg",
+        "https://www.deliworld.com/uploads/image/100120571-802/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-0823 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100127534",
+      "url": "https://www.deliworld.com/product/deli-0823-carton-sealer-100127534.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127534"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127534-0823/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127534-0823/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127534-0823/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127534-0823/4.jpg",
+        "https://www.deliworld.com/uploads/image/100127534-0823/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-0823 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100127535",
+      "url": "https://www.deliworld.com/product/deli-0823-carton-sealer-100127535.html",
+      "category": "Carton Sealer",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127535"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127535-0823/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127535-0823/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127535-0823/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127535-0823/4.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-0824 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100127537",
+      "url": "https://www.deliworld.com/product/deli-0824-carton-sealer-100127537.html",
+      "category": "Carton Sealer",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127537"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127537-0824/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127537-0824/2.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-0824 Carton Sealer",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100127536",
+      "url": "https://www.deliworld.com/product/deli-0824-carton-sealer-100127536.html",
+      "category": "Carton Sealer",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127536"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127536-0824/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127536-0824/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127536-0824/3.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-53251 Tape dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100142913",
+      "url": "https://www.deliworld.com/product/deli-53251-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: /",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "/"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100142913"
+            },
+            {
+              "key": "Specification",
+              "value": "Regular Core Adaptable"
+            },
+            {
+              "key": "Color",
+              "value": "/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100142913-53251/1.jpg",
+        "https://www.deliworld.com/uploads/image/100142913-53251/2.jpg",
+        "https://www.deliworld.com/uploads/image/100142913-53251/3.jpg",
+        "https://www.deliworld.com/uploads/image/100142913-53251/4.jpg",
+        "https://www.deliworld.com/uploads/image/100142913-53251/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-53250 Tape dispenser",
+      "subtitle": "Carton Sealer",
+      "brand": "Deli",
+      "sku": "100142914",
+      "url": "https://www.deliworld.com/product/deli-53250-tape-dispenser.html",
+      "category": "Carton Sealer",
+      "overview": "Color: /",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "/"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100142914"
+            },
+            {
+              "key": "Specification",
+              "value": "Small Core Adaptable"
+            },
+            {
+              "key": "Color",
+              "value": "/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100142914-53250/1.jpg",
+        "https://www.deliworld.com/uploads/image/100142914-53250/2.jpg",
+        "https://www.deliworld.com/uploads/image/100142914-53250/3.jpg",
+        "https://www.deliworld.com/uploads/image/100142914-53250/4.jpg",
+        "https://www.deliworld.com/uploads/image/100142914-53250/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

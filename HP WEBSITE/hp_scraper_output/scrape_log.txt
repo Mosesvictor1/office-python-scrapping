@@ -1,0 +1,495 @@
+[01:24:14] 📁 Output folder ready: hp_scraper_output\laptops
+[01:24:14]   Already scraped: 0 URLs, 0 products saved
+[01:24:14] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[01:24:14]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[01:24:14]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[01:24:14]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[01:24:43]   🔗 Found 19 URLs
+[01:24:43]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[01:24:51]   🔗 Found 19 URLs
+[01:24:51]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[01:24:52]   🔗 Found 0 URLs
+[01:24:52]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[01:25:27]   🔗 Found 22 URLs
+[01:25:27]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[01:25:42]   🔗 Found 18 URLs
+[01:25:48]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fform%3DConvertible&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[01:26:19]   🔗 Found 0 URLs
+[01:26:19] 
+✅ Total unique new product URLs: 30
+[01:26:19]   New URLs to scrape: 30
+[01:26:19] 
+🖥️  PHASE 2 — Scraping 30 product pages (5 at a time)
+[01:26:50]   [1/30] ✅ HP ZBook Fury G1i 16 Mobile Workstation PC with 3 Yr Warrant | 3299 USD
+[01:26:52]   [2/30] ✅ HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC Wolf Pro S | 1395 USD
+[01:27:00]   [3/30] ✅ HP ZBook X G1i 16 Mobile Workstation PC with 3 Yr Warranty & | 2799 USD
+[01:27:16]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-x-flip-14-inch-2-in-1-laptop-next-gen-ai-pc-ak4z4av-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-14-inch-2-in-1-laptop-next-
+[01:27:16]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-x-flipngai-16-as0047n&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flipngai-16-as0047n
+[01:27:16]   [4/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-14-inch
+[01:27:16]   [5/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flipngai-16-
+[01:27:16]   [6/30] ✅ HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC Wolf Pro S | 1395 USD
+[01:27:47]   [7/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16-as0047nr 16" | 899.99 USD
+[01:27:58]   [8/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16-as0047nr 16" | 899.99 USD
+[01:28:01]   [9/30] ✅ HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC Wolf Pro S | 1395 USD
+[01:28:03]   [10/30] ✅ HP ZBook Fury G1i 16 Mobile Workstation PC with 3 Yr Warrant | 3299 USD
+[01:28:12]   [11/30] ✅ HP ZBook X G1i 16 Mobile Workstation PC with 3 Yr Warranty & | 2799 USD
+[01:28:23]   [12/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-fm000, 14" | 999.99 USD
+[01:28:26]   [13/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-fm000, 14" | 40.00 USD
+[01:28:51]   [14/30] ✅ HP OmniBook 7 Laptop Next Gen AI PC 17t-dc000, 17.3" Touch S | 1449.99 USD
+[01:28:53]   [15/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as000, 16" | 1099.99 USD
+[01:28:58]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition-p-cp3m2ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook
+[01:28:58]   [16/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch
+[01:29:01]   [17/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16" | 799.99 USD
+[01:29:08]   [18/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-omnibook-5-ngai-14-he00
+[01:29:26]   [19/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16" | 40.00 USD
+[01:29:36]   [20/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as000, 16" | 1099.99 USD
+[01:29:43]   [21/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16" | 799.99 USD
+[01:29:45]   [22/30] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as000, 16" | 40.00 USD
+[01:29:55]   [23/30] ✅ HP OmniBook 7 Laptop Next Gen AI PC 17t-dc000, 17.3" Touch S | 1449.99 USD
+[01:29:56]   [24/30] ✅ HP OmniBook 7 Laptop Next Gen AI PC 17t-dc000, 17.3" Touch S | 40.00 USD
+[01:30:21]   [25/30] ✅ HP OmniBook 5 Laptop Next Gen AI 14-he0017nr 14", Windows 11 | 1049.99 USD
+[01:30:32]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-5-ngai-14-he0017nr&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-5-ngai-14-he0017nr
+[01:30:32]   [26/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-omnibook-5-ngai-14-he00
+[01:30:33]   [27/30] ✅ HP ProBook 4 G1i 16 inch Notebook AI PC  Wolf Pro Security E | 1549 USD
+[01:30:37]   [28/30] ✅ HP ZBook X G1i 16 Mobile Workstation PC with 3 Yr Warranty & | 3349 USD
+[01:30:42]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44z4ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-w
+[01:30:42]   [29/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mob
+[01:31:18]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-probook-4-g1i-16-inch-notebook-ai-pc-wolf-pro-security-edition%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-probook-4-g1i-16-inch-notebook-ai-pc-wolf-p
+[01:31:18]   [30/30] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-probook-4-g1i-16-inch-n
+[01:31:18] 💾 JSON → hp_scraper_output\laptops\hp.json  (23 products)
+[01:31:18] 📄 Summary → hp_scraper_output\summary.txt
+[08:38:41] 📁 Output folder ready: hp_scraper_output\laptops
+[08:38:41] ♻️  Resuming — 30 URLs already scraped
+[08:38:41]   Already scraped: 30 URLs, 23 products
+[08:38:41] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[08:38:41]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[08:38:42]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[08:38:42]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[08:39:20]   🔗 Found 0 URLs
+[08:39:20]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[08:39:30]   🔗 Found 19 URLs
+[08:39:30]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[08:39:38]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops
+[08:39:38]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[08:40:18]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fsegm%3DHome&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[08:40:18]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[08:40:28]   🔗 Found 18 URLs
+[08:40:35]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fform%3DConvertible&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[08:41:06]   🔗 Found 0 URLs
+[08:41:06] 
+✅ Total unique new product URLs: 0
+[08:41:06] ⚠️  No new URLs found.
+[08:41:06] 💾 JSON → hp_scraper_output\laptops\hp.json  (23 products)
+[08:41:06] 📄 Summary → hp_scraper_output\summary.txt
+[09:00:49] 📁 Output folder ready: hp_scraper_output\laptops
+[09:00:49] ♻️  Resuming — 30 URLs already scraped
+[09:00:49]   Already scraped: 30 URLs, 23 products
+[09:00:49] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[09:00:50]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[09:00:50]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[09:00:50]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[09:01:25]   🔗 Found 0 URLs
+[09:01:25]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[09:01:46]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops
+[09:01:46]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[09:01:46]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Ftype%3Dlaptop&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[09:01:46]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[09:02:21]   🔗 Found 22 URLs
+[09:02:21]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[09:02:43]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fsegm%3DBusiness&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[09:02:43]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fform%3DConvertible&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[09:02:53]   🔗 Found 0 URLs
+[09:02:53] 
+✅ Total unique new product URLs: 0
+[09:02:53] ⚠️  No new URLs found.
+[09:02:53] 💾 JSON → hp_scraper_output\laptops\hp.json  (23 products)
+[09:02:53] 📄 Summary → hp_scraper_output\summary.txt
+[09:31:09]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-16-inch-mob
+[09:31:19]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 30 specs
+[10:16:56]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fk4ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-p
+[10:17:04]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-16-inch-mob
+[10:17:08]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 30 specs
+[10:22:22] 📁 Output folder ready: hp_scraper_output\laptops
+[10:22:22]   Already scraped: 0 URLs, 0 products
+[10:22:22] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[10:22:22]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[10:22:22]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[10:22:22]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[10:23:07]   🔗 Found 18 URLs
+[10:23:07]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[10:23:08]   🔗 Found 0 URLs
+[10:23:08]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[10:23:19]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Ftype%3Dlaptop&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[10:23:19]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[10:23:50]   🔗 Found 18 URLs
+[10:23:50]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[10:24:04]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fsegm%3DHome&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[10:24:07]   🔗 Found 20 URLs
+[10:24:50]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcat%2Fgaming-3074457345617980168--1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[10:24:50] 
+✅ Total unique new product URLs: 28
+[10:24:50]   New URLs to scrape: 28
+[10:24:50] 
+🖥️  PHASE 2 — Scraping 28 product pages (5 concurrent)
+[10:25:23]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-16-inch-mob
+[10:25:24]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:25:24]   [1/28] ✅ HP ZBook Fury G1i 16 Mobile Workstation PC with 3  | 6879 USD | 2 groups / 31 specs
+[10:25:29]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-16-inch-mobile
+[10:25:32]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:25:32]   [2/28] ✅ HP ZBook 8 G1i 16 Mobile Workstation PC with 3 Yr  | 3879 USD | 2 groups / 31 specs
+[10:25:46]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-14-inch-mobile
+[10:25:46]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-14-inch-mobile
+[10:25:47]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl4ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-p
+[10:25:48]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:25:48]   [3/28] ✅ HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf | 3459 USD | 2 groups / 31 specs
+[10:25:49]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:25:49]   [4/28] ✅ HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf | 3299 USD | 2 groups / 31 specs
+[10:25:53]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-16-inch-mob
+[10:26:14]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:26:14]   [5/28] ✅ hp zbook fury g1i 16 inch mobile workstation pc wo |  USD | 2 groups / 31 specs
+[10:26:21]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-18-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fj2ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-18-inch-mobile-workstation-p
+[10:26:24]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-18-inch-mob
+[10:26:28]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-14-inch-mobile
+[10:26:32]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:26:32]   [6/28] ✅ hp zbook fury g1i 18 inch mobile workstation pc wo |  USD | 2 groups / 31 specs
+[10:26:33]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:26:33]   [7/28] ✅ HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf | 3459 USD | 2 groups / 31 specs
+[10:26:45]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl4ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-p
+[10:26:46]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fk9ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-p
+[10:26:46]   ❌ HTTP 429 Client Error: Too Many Requests for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fapp%2Fapi%2Fweb%2Fgraphql%2Fpage%2Fpdp%252Fhp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fk9ua-aba-1%2Fasync&render=false&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-1
+[10:26:46]   [8/28] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-
+[10:26:47]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-16-inch-mob
+[10:27:07]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:27:07]   [9/28] ✅ hp zbook fury g1i 16 inch mobile workstation pc wo |  USD | 2 groups / 31 specs
+[10:27:09]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-14-inch-mobile
+[10:27:11]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:27:11]   [10/28] ✅ HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf | 3299 USD | 2 groups / 31 specs
+[10:27:29]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-8-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c01cwua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g1i-16-inch-mobile-workstation-pc-w
+[10:27:29]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-zbook-fury-g1i-18-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fj2ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-18-inch-mobile-workstation-p
+[10:27:32]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-8-g1i-16-inch-mobile
+[10:27:34]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:27:34]   [11/28] ✅ hp zbook 8 g1i 16 inch mobile workstation pc wolf  |  USD | 2 groups / 31 specs
+[10:27:36]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-zbook-fury-g1i-18-inch-mob
+[10:27:38]   [12/28] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flipngai-16-
+[10:27:44]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[10:27:44]   [13/28] ✅ hp zbook fury g1i 18 inch mobile workstation pc wo |  USD | 2 groups / 31 specs
+[10:28:04]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition-p-cp3m0ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook
+[10:28:09]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flip-14-inch-2-
+[10:28:10]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-x360-1040-14-inch-g1
+[10:28:22]   ✅ Async specs via component['pdpTechSpecs'] — 1 groups, 21 specs
+[10:28:22]   [14/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-f | 999.99 USD | 1 groups / 21 specs
+[10:28:31]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition-p-cp3m2ua-aba-1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook
+[10:28:32]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:28:32]   [15/28] ✅ hp elite x360 1040 14 inch g11 2 in 1 notebook pc  |  USD | 2 groups / 29 specs
+[10:28:37]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-x360-1040-14-inch-g1
+[10:28:41]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flip-16-inch-2-
+[10:28:41]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-7-flipngai-16-au0017n&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-flipngai-16-au0017n
+[10:28:43]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:28:43]   [16/28] ✅ hp elite x360 1040 14 inch g11 2 in 1 notebook pc  |  USD | 2 groups / 29 specs
+[10:28:44]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-7-flipngai-16-au0
+[10:28:47]   [17/28] ✅ hp omnibook 7 flipngai 16 au0017n |  USD | 0 groups / 0 specs
+[10:28:49]   ✅ Async specs via component['pdpTechSpecs'] — 1 groups, 27 specs
+[10:28:49]   [18/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-a | 799.99 USD | 1 groups / 27 specs
+[10:29:17]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flipngai-16-as0
+[10:29:28]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 30 specs
+[10:29:28]   [19/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16-as | 899.99 USD | 2 groups / 30 specs
+[10:29:30]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-x-flipngai-16-as0047nr%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flipngai-16-as0047nr#reviews
+[10:29:40]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition-p-cp3m0ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook
+[10:29:40]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flip-14-inch-2-
+[10:29:43]   ✅ Async specs via component['pdpTechSpecs'] — 1 groups, 21 specs
+[10:29:43]   [20/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-f | 999.99 USD | 1 groups / 21 specs
+[10:29:43]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flipngai-16-as0
+[10:29:44]   ✅ Specs from HTML <table> — 1 groups
+[10:29:44]   [21/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-f | 40.00 USD | 1 groups / 6 specs
+[10:29:49]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 30 specs
+[10:29:50]   [22/28] ✅ hp omnibook x flipngai 16 as0047nr |  USD | 2 groups / 30 specs
+[10:29:52]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-x360-1040-14-inch-g1
+[10:30:25]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:30:25]   [23/28] ✅ hp elite x360 1040 14 inch g11 2 in 1 notebook pc  |  USD | 2 groups / 29 specs
+[10:30:25]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-wolf-pro-security-edition-p-cp3m2ua-aba-1%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-elite-x360-1040-14-inch-g11-2-in-1-notebook
+[10:30:27]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-x360-1040-14-inch-g1
+[10:30:31]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:30:31]   [24/28] ✅ hp elite x360 1040 14 inch g11 2 in 1 notebook pc  |  USD | 2 groups / 29 specs
+[10:30:33]   ✅ Specs from HTML <table> — 1 groups
+[10:30:33]   [25/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-a | 40.00 USD | 1 groups / 6 specs
+[10:30:36]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-x-flip-16-inch-2-
+[10:30:46]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-7-flipngai-16-au0017nr&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-flipngai-16-au0017nr
+[10:30:49]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-7-flipngai-16-au0
+[10:30:56]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:30:56]   [26/28] ✅ hp omnibook 7 flipngai 16 au0017nr |  USD | 2 groups / 29 specs
+[10:31:11]   ✅ Async specs via component['pdpTechSpecs'] — 1 groups, 27 specs
+[10:31:11]   [27/28] ✅ HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-a | 799.99 USD | 1 groups / 27 specs
+[10:31:22]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-7-flipngai-16-au0017nr%23reviews&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-flipngai-16-au0017nr#reviews
+[10:31:35]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-omnibook-7-flipngai-16-au0
+[10:31:39]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:31:39]   [28/28] ✅ hp omnibook 7 flipngai 16 au0017nr |  USD | 2 groups / 29 specs
+[10:31:39] 💾 JSON → hp_scraper_output\laptops\hp.json  (26 products)
+[10:31:39] 📄 Summary → hp_scraper_output\summary.txt
+[10:53:31] 📁 Output folder ready: hp_scraper_output\laptops
+[10:53:31] ♻️  Resuming — 28 URLs already scraped
+[10:53:31]   Already scraped: 28 URLs, 26 products
+[10:53:31] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops
+op/vwa/laptops/type=laptop
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcat%2Flaptops&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/cat/laptops
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fsegm%3DHome&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fsegm%3DBusiness&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[10:53:31]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fvwa%2Flaptops%2Fform%3DConvertible&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[10:53:31]   ❌ HTTP 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcat%2Fgaming-3074457345617980168--1&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[10:53:31] 
+✅ Total unique new product URLs: 0
+[10:53:31] ⚠️  No new URLs found.
+[10:53:31] 💾 JSON → hp_scraper_output\laptops\hp.json  (26 products)
+[10:53:31] 📄 Summary → hp_scraper_output\summary.txt
+[10:53:58] 📁 Output folder ready: hp_scraper_output\laptops
+[10:53:58] ♻️  Resuming — 28 URLs already scraped
+[10:53:58]   Already scraped: 28 URLs, 26 products
+[10:53:58] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[10:53:58]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[10:53:58]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[10:53:58]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[10:54:06]   🔗 Found 18 URLs
+[10:54:06]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[10:54:08]   🔗 Found 0 URLs
+[10:54:08]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[10:54:10]   🔗 Found 18 URLs
+[10:54:10]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[10:54:12]   🔗 Found 18 URLs
+[10:54:12]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[10:54:16]   🔗 Found 18 URLs
+[10:54:20]   🔗 Found 0 URLs
+[10:54:21]   🔗 Found 18 URLs
+[10:54:21] 
+✅ Total unique new product URLs: 18
+[10:54:21]   New URLs to scrape: 18
+[10:54:21] 
+🖥️  PHASE 2 — Scraping 18 product pages (5 concurrent)
+[10:54:54]   [1/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/omen-gaming-laptop-16-ap00
+[10:54:58]   [2/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hyperx-omen-15-inch-gaming
+[10:55:00]   [3/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/omen-max-gaming-laptop-16-
+[10:55:02]   [4/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hyperx-omen-15-inch-gaming
+[10:55:12]   [5/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/omen-max-gaming-laptop-16-
+[10:55:30]   [6/18] ⚠️  Skipped: https://www.hp.com/us-en/shop/pdp/hp-laptop-17-cn3057n
+[10:55:38]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-max-gaming-laptop-16-ak0
+[10:55:42]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 28 specs
+[10:55:42]   [7/18] ✅ OMEN MAX Gaming Laptop 16-ak0047nr 16", Windows 11 | 1899.99 USD | 2 groups / 28 specs
+[10:55:45]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-max-gaming-laptop-16-ak0
+[10:55:50]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-max-gaming-laptop-16-ak0
+[10:55:52]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:55:52]   [8/18] ✅ OMEN MAX Gaming Laptop 16, Windows 11 Home, 16", A | 2699.99 USD | 2 groups / 29 specs
+[10:55:55]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:55:55]   [9/18] ✅ OMEN MAX Gaming Laptop 16, Windows 11 Home, 16", A | 2699.99 USD | 2 groups / 29 specs
+[10:55:59]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-max-gaming-laptop-16-ak0
+[10:56:06]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 28 specs
+[10:56:06]   [10/18] ✅ OMEN MAX Gaming Laptop 16-ak0047nr 16", Windows 11 | 1899.99 USD | 2 groups / 28 specs
+[10:56:29]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-gaming-laptop-16-ap0097n
+[10:56:37]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhyperx-omen-15-inch-gaming-la
+[10:56:39]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:56:39]   [11/18] ✅ OMEN Gaming Laptop 16-ap0097nr 16", Windows 11 Hom | 1799.99 USD | 2 groups / 29 specs
+[10:56:44]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-gaming-laptop-16-ap0097n
+[10:56:48]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhyperx-omen-15-inch-gaming-la
+[10:56:50]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[10:56:50]   [12/18] ✅ OMEN Gaming Laptop 16-ap0097nr 16", Windows 11 Hom | 1799.99 USD | 2 groups / 29 specs
+[10:57:03]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhyperx-omen-15-inch-gaming-laptop-pc-15-ga0762nr&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hyperx-omen-15-inch-gaming-laptop-pc-15-ga0762
+[10:57:03]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 28 specs
+[10:57:03]   [13/18] ✅ HyperX OMEN 15 inch Gaming Laptop PC 15-gb0261nr | 1399.99 USD | 2 groups / 28 specs
+[10:57:05]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 28 specs
+[10:57:05]   [14/18] ✅ HyperX OMEN 15 inch Gaming Laptop PC 15-gb0261nr | 1399.99 USD | 2 groups / 28 specs
+[10:57:11]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhyperx-omen-15-inch-gaming-la
+[10:57:17]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 25 specs
+[10:57:17]   [15/18] ✅ hyperx omen 15 inch gaming laptop pc 15 ga0762nr |  USD | 2 groups / 25 specs
+[10:57:21]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhyperx-omen-15-inch-gaming-la
+[10:57:33]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 25 specs
+[10:57:33]   [16/18] ✅ HyperX OMEN 15 inch Gaming Laptop PC 15-ga0762nr | 1399.99 USD | 2 groups / 25 specs
+[10:57:46]   ❌ HTTP 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=74516ff476f866b13129e249ca1fe471&url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-laptop-17-cn3057nr&render=true&country_code=us&keep_headers=true — https://www.hp.com/us-en/shop/pdp/hp-laptop-17-cn3057nr
+[10:58:06]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-laptop-17-cn3057nr/async
+[10:58:09]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-laptop-17-cn3057nr/async
+[10:58:10]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 27 specs
+[10:58:10]   [17/18] ✅ hp laptop 17 cn3057nr |  USD | 2 groups / 27 specs
+[10:58:12]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 27 specs
+[10:58:12]   [18/18] ✅ HP Laptop 17, Windows 11 Home, 17.3", Intel® Core™ | 999.99 USD | 2 groups / 27 specs
+[10:58:12] 💾 JSON → hp_scraper_output\laptops\hp.json  (38 products)
+[10:58:12] 📄 Summary → hp_scraper_output\summary.txt
+[11:00:48] 📁 Output folder ready: hp_scraper_output\laptops
+[11:00:48] ♻️  Resuming — 46 URLs already scraped
+[11:00:48]   Already scraped: 46 URLs, 38 products
+[11:00:48] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[11:00:48]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[11:00:48]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[11:00:48]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[11:00:51]   🔗 Found 0 URLs
+[11:00:51]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[11:00:56]   🔗 Found 18 URLs
+[11:00:56]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[11:00:57]   🔗 Found 18 URLs
+[11:00:57]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[11:01:00]   🔗 Found 18 URLs
+[11:01:00]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[11:01:03]   🔗 Found 18 URLs
+[11:01:05]   🔗 Found 0 URLs
+[11:01:05]   🔗 Found 18 URLs
+[11:01:06] 
+✅ Total unique new product URLs: 0
+[11:01:06] ⚠️  No new URLs found.
+[11:01:06] 💾 JSON → hp_scraper_output\laptops\hp.json  (38 products)
+[11:01:06] 📄 Summary → hp_scraper_output\summary.txt
+[11:13:14] 📁 Output folder ready: hp_scraper_output\laptops
+[11:13:14] ♻️  Resuming — 46 URLs already scraped
+[11:13:14]   Already scraped: 46 URLs, 38 products
+[11:13:14] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[11:13:14]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[11:13:14]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[11:13:14]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[11:13:17]   🔗 Found 0 URLs
+[11:13:17]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[11:13:25]   🔗 Found 6 URLs
+[11:13:25]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[11:13:26]   🔗 Found 6 URLs
+[11:13:26]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Enterprise
+[11:13:30]   🔗 Found 6 URLs
+[11:13:30]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-Office
+[11:13:31]   🔗 Found 0 URLs
+[11:13:31]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-medium-business
+[11:13:36]   🔗 Found 0 URLs
+[11:13:36]   🔗 Found 6 URLs
+[11:13:36]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[11:13:36]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-workstation
+[11:13:38]   🔗 Found 0 URLs
+[11:13:38]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-thin-client
+[11:13:41]   🔗 Found 6 URLs
+[11:13:41]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Standard-laptop
+[11:13:42]   🔗 Found 6 URLs
+[11:13:42]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[11:13:45]   🔗 Found 0 URLs
+[11:13:47]   🔗 Found 6 URLs
+[11:13:49]   🔗 Found 6 URLs
+[11:13:49] 
+✅ Total unique new product URLs: 12
+[11:13:49]   New URLs to scrape: 12
+[11:13:49] 
+🖥️  PHASE 2 — Scraping 12 product pages (5 concurrent)
+[11:14:20]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-gaming-laptop-16-am0065n
+[11:14:27]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fomen-transcend-laptop-14-fb10
+[11:14:28]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-pro-mt440-g3-mobile-thin-c
+[11:14:29]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 29 specs
+[11:14:29]   [1/12] ✅ OMEN Gaming Laptop 16, Windows 11 Home, 16", Intel | 1599.99 USD | 2 groups / 29 specs
+[11:14:34]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 22 specs
+[11:14:34]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-pro-mt440-g3-mobile-thin-c
+[11:14:34]   [2/12] ✅ HP mt440 G3 Mobile Thin Client | 815 USD | 2 groups / 22 specs
+[11:14:36]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 23 specs
+[11:14:36]   [3/12] ✅ HP mt440 G3 Mobile Thin Client | 1009 USD | 2 groups / 23 specs
+[11:14:37]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-pro-mt440-g3-mobile-thin-c
+[11:14:42]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 22 specs
+[11:14:42]   [4/12] ✅ HP mt440 G3 Mobile Thin Client | 929 USD | 2 groups / 22 specs
+[11:14:44]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 27 specs
+[11:14:44]   [5/12] ✅ OMEN Transcend Laptop 14-fb1047nr 14", Windows 11  | 1799.99 USD | 2 groups / 27 specs
+[11:15:15]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-mt645-g8-mobile-thin
+[11:15:26]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 22 specs
+[11:15:26]   [6/12] ✅ HP mt645 G8 Mobile Thin Client Wi-Fi | 1019 USD | 2 groups / 22 specs
+[11:15:28]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-mt645-g8-mobile-thin
+[11:15:36]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 21 specs
+[11:15:36]   [7/12] ✅ HP mt645 G8 Mobile Thin Client Wi-Fi | 1019 USD | 2 groups / 21 specs
+[11:15:37]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elite-mt645-g8-mobile-thin
+[11:15:40]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elitebook-6-g1i-14-inch-no
+[11:15:42]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 22 specs
+[11:15:42]   [8/12] ✅ HP mt645 G8 Mobile Thin Client Wi-Fi | 1019 USD | 2 groups / 22 specs
+[11:15:45]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elitebook-6-g1i-14-inch-no
+[11:15:51]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 31 specs
+[11:15:51]   [9/12] ✅ HP EliteBook 6 G1i 14 Notebook AI PC with 3 Yr War | 1099 USD | 2 groups / 31 specs
+[11:15:54]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 32 specs
+[11:15:54]   [10/12] ✅ HP EliteBook 6 G1i 14 Notebook AI PCTouch with 3 Y | 1799 USD | 2 groups / 32 specs
+[11:16:05]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elitebook-6-g1i-14-inch-no
+[11:16:13]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 32 specs
+[11:16:13]   [11/12] ✅ HP EliteBook 6 G1i 14 Notebook AI PC with 3 Yr War | 1999 USD | 2 groups / 32 specs
+[11:16:31]   🔌 Async API: https://www.hp.com/us-en/shop/app/api/web/graphql/page/pdp%2Fhp-elitebook-x-g1i-14-inch-no
+[11:16:34]   ✅ Async specs via component['pdpTechSpecs'] — 2 groups, 27 specs
+[11:16:34]   [12/12] ✅ HP EliteBook X G1i 14 inch Touch Notebook Next Gen | 1499 USD | 2 groups / 27 specs
+[11:16:34] 💾 JSON → hp_scraper_output\laptops\hp.json  (50 products)
+[11:16:34] 📄 Summary → hp_scraper_output\summary.txt
+[11:20:55] 📁 Output folder ready: hp_scraper_output\laptops
+[11:20:55] ♻️  Resuming — 58 URLs already scraped
+[11:20:55]   Already scraped: 58 URLs, 50 products
+[11:20:55] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[11:20:55]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[11:20:55]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[11:20:55]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[11:20:57]   🔗 Found 0 URLs
+[11:20:57]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[11:20:59]   🔗 Found 6 URLs
+[11:20:59]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[11:21:04]   🔗 Found 6 URLs
+[11:21:04]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Enterprise
+[11:21:06]   🔗 Found 6 URLs
+[11:21:06]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-Office
+[11:21:07]   🔗 Found 0 URLs
+[11:21:07]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-medium-business
+[11:21:11]   🔗 Found 0 URLs
+[11:21:11]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[11:21:13]   🔗 Found 0 URLs
+[11:21:13]   🔗 Found 6 URLs
+[11:21:13]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-workstation
+[11:21:13]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-thin-client
+[11:21:20]   🔗 Found 6 URLs
+[11:21:20]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Standard-laptop
+[11:21:22]   🔗 Found 6 URLs
+[11:21:22]   🔗 Found 6 URLs
+[11:21:22]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[11:21:27]   🔗 Found 6 URLs
+[11:21:27]   🔗 Found 0 URLs
+[11:21:27] 
+✅ Total unique new product URLs: 0
+[11:21:27] ⚠️  No new URLs found.
+[11:21:27] 💾 JSON → hp_scraper_output\laptops\hp.json  (50 products)
+[11:21:27] 📄 Summary → hp_scraper_output\summary.txt
+[11:32:49] 📁 Output folder ready: hp_scraper_output\laptops
+[11:32:49] ♻️  Resuming — 58 URLs already scraped
+[11:32:49]   Already scraped: 58 URLs, 50 products
+[11:32:49] 
+📋 PHASE 1 — Collecting product URLs from listing pages
+[11:32:49]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops
+[11:32:49]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/type=laptop
+[11:32:49]   📡 Listing: https://www.hp.com/us-en/shop/cat/laptops
+[11:32:53]   🔗 Found 0 URLs
+[11:32:53]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Home
+[11:32:55]   🔗 Found 6 URLs
+[11:32:55]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Business
+[11:32:58]   🔗 Found 6 URLs
+[11:32:58]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Enterprise
+[11:32:59]   🔗 Found 6 URLs
+[11:32:59]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-Office
+[11:33:00]   🔗 Found 6 URLs
+[11:33:00]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/segm=Small-medium-business
+[11:33:04]   🔗 Found 0 URLs
+[11:33:05]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Convertible
+[11:33:05]   🔗 Found 0 URLs
+[11:33:05]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-workstation
+[11:33:09]   🔗 Found 6 URLs
+[11:33:09]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Mobile-thin-client
+[11:33:11]   🔗 Found 0 URLs
+[11:33:11]   📡 Listing: https://www.hp.com/us-en/shop/vwa/laptops/form=Standard-laptop
+[11:33:15]   🔗 Found 6 URLs
+[11:33:15]   📡 Listing: https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1
+[11:33:18]   🔗 Found 6 URLs
+[11:33:19]   🔗 Found 6 URLs
+[11:33:22]   🔗 Found 0 URLs
+[11:33:22] 
+✅ Total unique new product URLs: 0
+[11:33:22] ⚠️  No new URLs found.
+[11:33:22] 💾 JSON → hp_scraper_output\laptops\hp.json  (50 products)
+[11:33:22] 📄 Summary → hp_scraper_output\summary.txt

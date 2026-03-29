@@ -1,0 +1,2546 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-5301-file-folder-100001040.html",
+    "https://www.deliworld.com/product/deli-9252-clipboard.html",
+    "https://www.deliworld.com/product/deli-5622-box-file-100001269.html",
+    "https://www.deliworld.com/product/deli-5925-box-file.html",
+    "https://www.deliworld.com/product/deli-5342-file-folder.html",
+    "https://www.deliworld.com/product/deli-e9259-clipboard.html",
+    "https://www.deliworld.com/product/deli-5610-file-box.html",
+    "https://www.deliworld.com/product/deli-5612-box-file.html",
+    "https://www.deliworld.com/product/deli-5387-ring-binder.html",
+    "https://www.deliworld.com/product/deli-e9226-clipboard.html",
+    "https://www.deliworld.com/product/deli-5602-box-file.html",
+    "https://www.deliworld.com/product/deli-e9256-clipboard.html",
+    "https://www.deliworld.com/product/deli-63211-box-file-100139411.html",
+    "https://www.deliworld.com/product/deli-64504-clipboard.html",
+    "https://www.deliworld.com/product/deli-5602-box-file-100001257.html",
+    "https://www.deliworld.com/product/deli-63210-box-file.html",
+    "https://www.deliworld.com/product/deli-5682-box-file.html",
+    "https://www.deliworld.com/product/deli-5924-box-file.html",
+    "https://www.deliworld.com/product/deli-5301-file-folder.html",
+    "https://www.deliworld.com/product/deli-9227-clipboard.html",
+    "https://www.deliworld.com/product/deli-5916-ring-binder.html",
+    "https://www.deliworld.com/product/deli-5620-file-box.html",
+    "https://www.deliworld.com/product/deli-63211-box-file-100139412.html",
+    "https://www.deliworld.com/product/deli-e9258-clipboard.html",
+    "https://www.deliworld.com/product/deli-63210-box-file-100139414.html",
+    "https://www.deliworld.com/product/deli-5623-box-file.html",
+    "https://www.deliworld.com/product/deli-63210-box-file-100139413.html",
+    "https://www.deliworld.com/product/deli-5606-box-file-100001265.html",
+    "https://www.deliworld.com/product/deli-5383-ring-binder.html",
+    "https://www.deliworld.com/product/deli-5309-file-folder.html",
+    "https://www.deliworld.com/product/deli-5603-box-file.html",
+    "https://www.deliworld.com/product/deli-5606-box-file.html",
+    "https://www.deliworld.com/product/deli-5363-file-folder.html",
+    "https://www.deliworld.com/product/deli-5604-box-file.html",
+    "https://www.deliworld.com/product/deli-5603-box-file-100001259.html",
+    "https://www.deliworld.com/product/deli-5604-box-file-100001261.html",
+    "https://www.deliworld.com/product/deli-5302-file-folder.html",
+    "https://www.deliworld.com/product/deli-5608-box-file.html",
+    "https://www.deliworld.com/product/deli-5923-box-file.html",
+    "https://www.deliworld.com/product/deli-5341-file-folder.html",
+    "https://www.deliworld.com/product/deli-5922-box-file.html",
+    "https://www.deliworld.com/product/deli-5623-box-file-100001271.html",
+    "https://www.deliworld.com/product/deli-5622-box-file.html",
+    "https://www.deliworld.com/product/deli-5683-box-file.html",
+    "https://www.deliworld.com/product/deli-63211-box-file-100139410.html",
+    "https://www.deliworld.com/product/deli-5609-box-file.html",
+    "https://www.deliworld.com/product/deli-5611-box-file.html",
+    "https://www.deliworld.com/product/deli-5309-file-folder-100001050.html",
+    "https://www.deliworld.com/product/deli-e9253-clipboard.html",
+    "https://www.deliworld.com/product/deli-5684-box-file.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-9252 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100002418",
+      "url": "https://www.deliworld.com/product/deli-9252-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: LIGHT BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "LIGHT BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100002418"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "LIGHT BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100002418-9252/1.jpg",
+        "https://www.deliworld.com/uploads/image/100002418-9252/2.jpg",
+        "https://www.deliworld.com/uploads/image/100002418-9252/3.jpg",
+        "https://www.deliworld.com/uploads/image/100002418-9252/4.jpg",
+        "https://www.deliworld.com/uploads/image/100002418-9252/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-9227 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100002402",
+      "url": "https://www.deliworld.com/product/deli-9227-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: BROWN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BROWN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100002402"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BROWN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100002402-9227/1.jpg",
+        "https://www.deliworld.com/uploads/image/100002402-9227/2.jpg",
+        "https://www.deliworld.com/uploads/image/100002402-9227/4.jpg",
+        "https://www.deliworld.com/uploads/image/100002402-9227/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E9226 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100003514",
+      "url": "https://www.deliworld.com/product/deli-e9226-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: BROWN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BROWN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003514"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BROWN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003514-E9226/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003514-E9226/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003514-E9226/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003514-E9226/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003514-E9226/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E9253 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100003519",
+      "url": "https://www.deliworld.com/product/deli-e9253-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003519"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003519-E9253/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003519-E9253/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003519-E9253/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003519-E9253/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003519-E9253/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E9256 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100003520",
+      "url": "https://www.deliworld.com/product/deli-e9256-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003520"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003520-E9256/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003520-E9256/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003520-E9256/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003520-E9256/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E9258 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100003521",
+      "url": "https://www.deliworld.com/product/deli-e9258-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: LIGHT GREY",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "LIGHT GREY"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100003521"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "LIGHT GREY"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100003521-E9258/1.jpg",
+        "https://www.deliworld.com/uploads/image/100003521-E9258/2.jpg",
+        "https://www.deliworld.com/uploads/image/100003521-E9258/3.jpg",
+        "https://www.deliworld.com/uploads/image/100003521-E9258/4.jpg",
+        "https://www.deliworld.com/uploads/image/100003521-E9258/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-E9259 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100004069",
+      "url": "https://www.deliworld.com/product/deli-e9259-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: GRAY",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GRAY"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100004069"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "GRAY"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100004069-E9259/1.jpg",
+        "https://www.deliworld.com/uploads/image/100004069-E9259/2.jpg",
+        "https://www.deliworld.com/uploads/image/100004069-E9259/3.jpg",
+        "https://www.deliworld.com/uploads/image/100004069-E9259/4.jpg",
+        "https://www.deliworld.com/uploads/image/100004069-E9259/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5602 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001256",
+      "url": "https://www.deliworld.com/product/deli-5602-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001256"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001256-5602/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001256-5602/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001256-5602/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001256-5602/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001256-5602/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-64504 Clipboard",
+      "subtitle": "Clipboards",
+      "brand": "Deli",
+      "sku": "100136020",
+      "url": "https://www.deliworld.com/product/deli-64504-clipboard.html",
+      "category": "File & Folder",
+      "overview": "Color: SILVER",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "SILVER"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100136020"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "SILVER"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100136020-64504/1.jpg",
+        "https://www.deliworld.com/uploads/image/100136020-64504/2.jpg",
+        "https://www.deliworld.com/uploads/image/100136020-64504/3.jpg",
+        "https://www.deliworld.com/uploads/image/100136020-64504/4.jpg",
+        "https://www.deliworld.com/uploads/image/100136020-64504/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5602 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001257",
+      "url": "https://www.deliworld.com/product/deli-5602-box-file-100001257.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001257"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001257-5602/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001257-5602/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001257-5602/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001257-5602/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5603 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001258",
+      "url": "https://www.deliworld.com/product/deli-5603-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001258"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001258-5603/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001258-5603/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001258-5603/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001258-5603/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001258-5603/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5603 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001259",
+      "url": "https://www.deliworld.com/product/deli-5603-box-file-100001259.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001259"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001259-5603/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001259-5603/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001259-5603/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001259-5603/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001259-5603/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5604 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001260",
+      "url": "https://www.deliworld.com/product/deli-5604-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001260"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*75mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001260-5604/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001260-5604/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001260-5604/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001260-5604/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001260-5604/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5604 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001261",
+      "url": "https://www.deliworld.com/product/deli-5604-box-file-100001261.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001261"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*75mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001261-5604/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001261-5604/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001261-5604/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001261-5604/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5606 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001264",
+      "url": "https://www.deliworld.com/product/deli-5606-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: GREY",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREY"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001264"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "GREY"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001264-5606/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001264-5606/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001264-5606/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001264-5606/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001264-5606/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5606 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001265",
+      "url": "https://www.deliworld.com/product/deli-5606-box-file-100001265.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001265"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001265-5606/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001265-5606/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001265-5606/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001265-5606/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001265-5606/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5608 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001266",
+      "url": "https://www.deliworld.com/product/deli-5608-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001266"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001266-5608/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001266-5608/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001266-5608/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001266-5608/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5609 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001267",
+      "url": "https://www.deliworld.com/product/deli-5609-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001267"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001267-5609/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001267-5609/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001267-5609/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001267-5609/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5622 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001268",
+      "url": "https://www.deliworld.com/product/deli-5622-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001268"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001268-5622/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001268-5622/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001268-5622/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001268-5622/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001268-5622/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5622 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001269",
+      "url": "https://www.deliworld.com/product/deli-5622-box-file-100001269.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001269"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001269-5622/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001269-5622/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001269-5622/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001269-5622/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001269-5622/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5623 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001270",
+      "url": "https://www.deliworld.com/product/deli-5623-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001270"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*50mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001270-5623/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001270-5623/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001270-5623/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001270-5623/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001270-5623/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5623 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001271",
+      "url": "https://www.deliworld.com/product/deli-5623-box-file-100001271.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001271"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*50mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001271-5623/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001271-5623/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001271-5623/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001271-5623/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5682 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001293",
+      "url": "https://www.deliworld.com/product/deli-5682-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001293"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001293-5682/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001293-5682/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001293-5682/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001293-5682/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001293-5682/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5683 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001294",
+      "url": "https://www.deliworld.com/product/deli-5683-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001294"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001294-5683/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001294-5683/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001294-5683/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001294-5683/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001294-5683/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5684 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001295",
+      "url": "https://www.deliworld.com/product/deli-5684-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001295"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*75mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001295-5684/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001295-5684/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001295-5684/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001295-5684/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001295-5684/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5922 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001409",
+      "url": "https://www.deliworld.com/product/deli-5922-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001409"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*50mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001409-5922/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001409-5922/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001409-5922/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001409-5922/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001409-5922/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5923 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001410",
+      "url": "https://www.deliworld.com/product/deli-5923-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001410"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*30mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001410-5923/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001410-5923/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001410-5923/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001410-5923/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001410-5923/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5924 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001411",
+      "url": "https://www.deliworld.com/product/deli-5924-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001411"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*40mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001411-5924/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001411-5924/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001411-5924/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001411-5924/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001411-5924/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5610 File Box",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100016821",
+      "url": "https://www.deliworld.com/product/deli-5610-file-box.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100016821"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*30mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100016821-5610/1.jpg",
+        "https://www.deliworld.com/uploads/image/100016821-5610/2.jpg",
+        "https://www.deliworld.com/uploads/image/100016821-5610/3.jpg",
+        "https://www.deliworld.com/uploads/image/100016821-5610/4.jpg",
+        "https://www.deliworld.com/uploads/image/100016821-5610/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5925 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100001412",
+      "url": "https://www.deliworld.com/product/deli-5925-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001412"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*50mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001412-5925/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001412-5925/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001412-5925/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001412-5925/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001412-5925/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5611 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100016822",
+      "url": "https://www.deliworld.com/product/deli-5611-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100016822"
+            },
+            {
+              "key": "Specification",
+              "value": "A4 40mm, 10pcs pack"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100016822-5611/1.jpg",
+        "https://www.deliworld.com/uploads/image/100016822-5611/2.jpg",
+        "https://www.deliworld.com/uploads/image/100016822-5611/3.jpg",
+        "https://www.deliworld.com/uploads/image/100016822-5611/4.jpg",
+        "https://www.deliworld.com/uploads/image/100016822-5611/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5612 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100016823",
+      "url": "https://www.deliworld.com/product/deli-5612-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100016823"
+            },
+            {
+              "key": "Specification",
+              "value": "A4 50mm, 10pcs pack"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100016823-5612/1.jpg",
+        "https://www.deliworld.com/uploads/image/100016823-5612/2.jpg",
+        "https://www.deliworld.com/uploads/image/100016823-5612/3.jpg",
+        "https://www.deliworld.com/uploads/image/100016823-5612/4.jpg",
+        "https://www.deliworld.com/uploads/image/100016823-5612/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5620 File Box",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100115830",
+      "url": "https://www.deliworld.com/product/deli-5620-file-box.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100115830"
+            },
+            {
+              "key": "Specification",
+              "value": "310*220*60mm"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100115830-5620/1.jpg",
+        "https://www.deliworld.com/uploads/image/100115830-5620/2.jpg",
+        "https://www.deliworld.com/uploads/image/100115830-5620/3.jpg",
+        "https://www.deliworld.com/uploads/image/100115830-5620/4.jpg",
+        "https://www.deliworld.com/uploads/image/100115830-5620/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63210 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139409",
+      "url": "https://www.deliworld.com/product/deli-63210-box-file.html",
+      "category": "File & Folder",
+      "overview": "Color: TRANSPARENT",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "TRANSPARENT"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139409"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "TRANSPARENT"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139409-63210/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139409-63210/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139409-63210/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139409-63210/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139409-63210/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63211 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139410",
+      "url": "https://www.deliworld.com/product/deli-63211-box-file-100139410.html",
+      "category": "File & Folder",
+      "overview": "Color: TRANSPARENT",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "TRANSPARENT"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139410"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "TRANSPARENT"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139410-63211/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139410-63211/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139410-63211/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139410-63211/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139410-63211/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63211 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139411",
+      "url": "https://www.deliworld.com/product/deli-63211-box-file-100139411.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139411"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139411-63211/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139411-63211/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139411-63211/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139411-63211/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139411-63211/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63211 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139412",
+      "url": "https://www.deliworld.com/product/deli-63211-box-file-100139412.html",
+      "category": "File & Folder",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139412"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*55mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139412-63211/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139412-63211/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139412-63211/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139412-63211/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139412-63211/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63210 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139413",
+      "url": "https://www.deliworld.com/product/deli-63210-box-file-100139413.html",
+      "category": "File & Folder",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139413"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139413-63210/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139413-63210/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139413-63210/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139413-63210/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139413-63210/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-63210 Box File",
+      "subtitle": "Box File",
+      "brand": "Deli",
+      "sku": "100139414",
+      "url": "https://www.deliworld.com/product/deli-63210-box-file-100139414.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139414"
+            },
+            {
+              "key": "Specification",
+              "value": "320*240*35mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139414-63210/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139414-63210/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139414-63210/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139414-63210/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139414-63210/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5301 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001039",
+      "url": "https://www.deliworld.com/product/deli-5301-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001039"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001039-5301/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001039-5301/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001039-5301/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001039-5301/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001039-5301/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5302 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001041",
+      "url": "https://www.deliworld.com/product/deli-5302-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001041"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001041-5302/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001041-5302/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001041-5302/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001041-5302/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001041-5302/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5301 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001040",
+      "url": "https://www.deliworld.com/product/deli-5301-file-folder-100001040.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001040"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001040-5301/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001040-5301/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001040-5301/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001040-5301/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001040-5301/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5341 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001055",
+      "url": "https://www.deliworld.com/product/deli-5341-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001055"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001055-5341/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001055-5341/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001055-5341/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001055-5341/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5309 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001050",
+      "url": "https://www.deliworld.com/product/deli-5309-file-folder-100001050.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001050"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001050-5309/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001050-5309/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001050-5309/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001050-5309/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5309 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001049",
+      "url": "https://www.deliworld.com/product/deli-5309-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001049"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001049-5309/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001049-5309/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001049-5309/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001049-5309/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001049-5309/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5342 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001056",
+      "url": "https://www.deliworld.com/product/deli-5342-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001056"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001056-5342/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001056-5342/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001056-5342/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001056-5342/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5363 File Folder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001065",
+      "url": "https://www.deliworld.com/product/deli-5363-file-folder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001065"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001065-5363/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001065-5363/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001065-5363/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001065-5363/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001065-5363/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5383 Ring Binder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001092",
+      "url": "https://www.deliworld.com/product/deli-5383-ring-binder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001092"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001092-5383/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001092-5383/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001092-5383/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001092-5383/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001092-5383/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5387 Ring Binder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001095",
+      "url": "https://www.deliworld.com/product/deli-5387-ring-binder.html",
+      "category": "File & Folder",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001095"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001095-5387/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001095-5387/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001095-5387/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001095-5387/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001095-5387/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-5916 Ring Binder",
+      "subtitle": "Folder",
+      "brand": "Deli",
+      "sku": "100001405",
+      "url": "https://www.deliworld.com/product/deli-5916-ring-binder.html",
+      "category": "File & Folder",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100001405"
+            },
+            {
+              "key": "Specification",
+              "value": "A4"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100001405-5916/1.jpg",
+        "https://www.deliworld.com/uploads/image/100001405-5916/2.jpg",
+        "https://www.deliworld.com/uploads/image/100001405-5916/3.jpg",
+        "https://www.deliworld.com/uploads/image/100001405-5916/4.jpg",
+        "https://www.deliworld.com/uploads/image/100001405-5916/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

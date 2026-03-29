@@ -1,0 +1,608 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-eu101-mt-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu052-bl-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu053-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu017-bl-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu016-rd-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu052-rd-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu021-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu052-gn-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu017-rd-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu016-bk-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu016-bl-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu052-bk-whiteboard-marker.html",
+    "https://www.deliworld.com/product/deli-eu017-bk-whiteboard-marker.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-EU052-BL Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu052-bl-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Blue ink",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Color",
+              "value": "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20240806/11/1_1722915279.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/2_1722915279.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/3_1722915279.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/4_1722915281.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/5_1722915280.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/6_1722915279.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU052-RD Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu052-rd-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Red ink",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Color",
+              "value": "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20240806/11/1_1722915325.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/2_1722915325.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/3_1722915325.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/4_1722915326.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/5_1722915325.webp",
+        "https://www.deliworld.com/uploads/image/20240806/11/6_1722915326.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU052-BK Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu052-bk-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Black ink",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Color",
+              "value": "1. Bullet tip: 1.8mm 2. Capped 3. Round barrel"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20240806/11/1_1722915242.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU016-BK Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu016-bk-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 2.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bk-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bk-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bk-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bk-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bk-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU016-BL Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu016-bl-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 2.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bl-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bl-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bl-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bl-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-bl-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU016-RD Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu016-rd-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 2.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-rd-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-rd-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-rd-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-rd-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu016-rd-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU021 Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu021-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: Black Red Blue Green Pink Orange Purple",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "Black Red Blue Green Pink Orange Purple"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Soft tip"
+            },
+            {
+              "key": "Color",
+              "value": "Black Red Blue Green Pink Orange Purple"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu021-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu021-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu021-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu021-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu021-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU101-MT Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu101-mt-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: Blue, Black",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "Blue, Black"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu101-mt-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu101-mt-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu101-mt-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu101-mt-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu101-mt-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU017-BL Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu017-bl-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: Blue",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "Blue"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "Blue"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bl-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bl-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bl-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bl-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bl-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU017-BK Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu017-bk-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: Black",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "Black"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "Black"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bk-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bk-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bk-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bk-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-bk-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU017-RD Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu017-rd-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: Red",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "Red"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 1.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "Red"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-rd-whiteboard-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-rd-whiteboard-marker2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-rd-whiteboard-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-rd-whiteboard-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/16/deli-eu017-rd-whiteboard-marker5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU052-GN Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "140022874",
+      "url": "https://www.deliworld.com/product/deli-eu052-gn-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "140022874"
+            },
+            {
+              "key": "Color",
+              "value": "GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-1.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-2.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-6.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-3.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-4.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu052-gn-whiteboard-marker-5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU053 Whiteboard Marker",
+      "subtitle": "Whiteboard Marker",
+      "brand": "Deli",
+      "sku": "140023481",
+      "url": "https://www.deliworld.com/product/deli-eu053-whiteboard-marker.html",
+      "category": "Whiteboard Marker",
+      "overview": "Color: BLACK, RED, BLUE, GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK",
+        "RED",
+        "BLUE",
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "140023481"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK, RED, BLUE, GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu053-whiteboard-marker-1.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu053-whiteboard-marker-5.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu053-whiteboard-marker-3.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu053-whiteboard-marker-2.webp",
+        "https://www.deliworld.com/uploads/image/20250416/deli-eu053-whiteboard-marker-4.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

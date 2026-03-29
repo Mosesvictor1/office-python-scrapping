@@ -1,0 +1,37 @@
+{
+  "title": "HP ZBook X G1i 16 Mobile Workstation PC with 3 Yr Warranty & Wolf Pro Security",
+  "subtitle": "HP ZBook X G1i",
+  "brand": "HP",
+  "sku": "C44Z4UA#ABA",
+  "url": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44z4ua-aba-1#reviews",
+  "category": "workstations",
+  "overview": "Upgrade to professional ISV certified performance at an affordable price. Power up your productivity on this durable yet premium AI workstation. Pro-grade components deliver exceptional performance to work with generative AI to explore design concepts, or complete 3D modeling and conceptual design.",
+  "price": "3349",
+  "currency": "USD",
+  "color": [],
+  "rating": "3.5/5",
+  "review_count": "4",
+  "availability": true,
+  "key_features": [
+    "Power through professional workflows.: Tackle complex projects and blaze through 3D modeling with an Intel® CPU,[1]with a dedicated NPU,[1]and integrated or discrete graphics.[2]With up to 80W max TDP, get the most performance for rendering and AI-accelerated workflows.",
+    "Advanced workflows. Anywhere.: With an all-aluminum chassis and MIL-STD 810 durability,[3]this PC is built to last. Take complex projects on the go with a device that runs quiet and cool. The redesigned thermal solution supports even more power to ensure the device runs at its best.",
+    "Accelerate AI workflows: Speed up AI inferencing on the HP ZBook X, with pro-level graphics designed for advanced AI workflows. Focus on the work that matters and enable productivity without diverting resources from your most demanding work.",
+    "Help protect our shared future with PCs that drive towards increasing sustainability.: At HP, we care about the impact our products have on our people, communities, and the planet. That’s why this device is EPEAT® Gold registered[4]and the outer box packaging is 100% sustainably sourced.[5]"
+  ],
+  "specifications": [],
+  "images": [
+    "https://hp.widen.net/content/gqt3etjp6c/webp/gqt3etjp6c.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/or4wzai9ue/webp/or4wzai9ue.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/ppqwmd6gw5/webp/ppqwmd6gw5.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/othmtzwddu/webp/othmtzwddu.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/yujiifcn0y/webp/yujiifcn0y.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/rlynjkrwb9/webp/rlynjkrwb9.png?w=573&h=430&dpi=72&color=ffffff00",
+    "https://hp.widen.net/content/6nnziemveo/webp/6nnziemveo.png?w=573&h=430&dpi=72&color=ffffff00"
+  ],
+  "warranty": "3 year (3/3/0) limited warranty includes 3 years of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply.",
+  "is_active": true,
+  "featured_product": false,
+  "new_arrival": false,
+  "best_seller": false,
+  "is_deleted": false
+}

@@ -1,0 +1,358 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-7328-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-ea49201-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-7325-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-ea151-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-ea49112-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-7326-adhesive-roller.html",
+    "https://www.deliworld.com/product/deli-ea49011-adhesive-roller.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-7326 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100127312",
+      "url": "https://www.deliworld.com/product/deli-7326-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: COLORFUL",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "COLORFUL"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127312"
+            },
+            {
+              "key": "Specification",
+              "value": "6mm*8m"
+            },
+            {
+              "key": "Color",
+              "value": "COLORFUL"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127312-7326/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127312-7326/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127312-7326/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127312-7326/4.jpg",
+        "https://www.deliworld.com/uploads/image/100127312-7326/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA49112 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100128109",
+      "url": "https://www.deliworld.com/product/deli-ea49112-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: TRANSPARENT",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "TRANSPARENT"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100128109"
+            },
+            {
+              "key": "Specification",
+              "value": "8M*6mm"
+            },
+            {
+              "key": "Color",
+              "value": "TRANSPARENT"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100128109-EA49112/1.jpg",
+        "https://www.deliworld.com/uploads/image/100128109-EA49112/2.jpg",
+        "https://www.deliworld.com/uploads/image/100128109-EA49112/3.jpg",
+        "https://www.deliworld.com/uploads/image/100128109-EA49112/4.jpg",
+        "https://www.deliworld.com/uploads/image/100128109-EA49112/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-7325 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100127314",
+      "url": "https://www.deliworld.com/product/deli-7325-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: COLORFUL",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "COLORFUL"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100127314"
+            },
+            {
+              "key": "Specification",
+              "value": "8mm*6m"
+            },
+            {
+              "key": "Color",
+              "value": "COLORFUL"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100127314-7325/1.jpg",
+        "https://www.deliworld.com/uploads/image/100127314-7325/2.jpg",
+        "https://www.deliworld.com/uploads/image/100127314-7325/3.jpg",
+        "https://www.deliworld.com/uploads/image/100127314-7325/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA49011 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100128115",
+      "url": "https://www.deliworld.com/product/deli-ea49011-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100128115"
+            },
+            {
+              "key": "Specification",
+              "value": "8M*6mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100128115-EA49011/1.jpg",
+        "https://www.deliworld.com/uploads/image/100128115-EA49011/2.jpg",
+        "https://www.deliworld.com/uploads/image/100128115-EA49011/3.jpg",
+        "https://www.deliworld.com/uploads/image/100128115-EA49011/4.jpg",
+        "https://www.deliworld.com/uploads/image/100128115-EA49011/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-7328 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100129599",
+      "url": "https://www.deliworld.com/product/deli-7328-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: COLORFUL",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "COLORFUL"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100129599"
+            },
+            {
+              "key": "Specification",
+              "value": "8.4mm*8m"
+            },
+            {
+              "key": "Color",
+              "value": "COLORFUL"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100129599-7328/1.jpg",
+        "https://www.deliworld.com/uploads/image/100129599-7328/2.jpg",
+        "https://www.deliworld.com/uploads/image/100129599-7328/3.jpg",
+        "https://www.deliworld.com/uploads/image/100129599-7328/4.jpg",
+        "https://www.deliworld.com/uploads/image/100129599-7328/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA49201 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "100132617",
+      "url": "https://www.deliworld.com/product/deli-ea49201-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100132617"
+            },
+            {
+              "key": "Specification",
+              "value": "8M*6mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100132617-EA49201/1.jpg",
+        "https://www.deliworld.com/uploads/image/100132617-EA49201/2.jpg",
+        "https://www.deliworld.com/uploads/image/100132617-EA49201/3.jpg",
+        "https://www.deliworld.com/uploads/image/100132617-EA49201/4.jpg",
+        "https://www.deliworld.com/uploads/image/100132617-EA49201/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EA151 Adhesive Roller",
+      "subtitle": "Adhesive Roller",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-ea151-adhesive-roller.html",
+      "category": "Adhesive Roller",
+      "overview": "Color: YELLOW",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "YELLOW"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "5mm*8m"
+            },
+            {
+              "key": "Color",
+              "value": "YELLOW"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230705/15/deli-ea151-adhesive-roller1.webp",
+        "https://www.deliworld.com/uploads/image/20230705/15/deli-ea151-adhesive-roller2.webp",
+        "https://www.deliworld.com/uploads/image/20230705/15/deli-ea151-adhesive-roller3.webp",
+        "https://www.deliworld.com/uploads/image/20230705/15/deli-ea151-adhesive-roller4.webp",
+        "https://www.deliworld.com/uploads/image/20230705/15/deli-ea151-adhesive-roller5.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

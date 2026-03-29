@@ -1,0 +1,204 @@
+HP Laptop Scraper v3 — 2026-03-26 11:33
+Output : hp_scraper_output\laptops\hp.json
+Total  : 50 products
+
+  1. HP ZBook Fury G1i 16 Mobile Workstation PC with 3 Yr Warranty & Wolf P
+     SKU: C3FK9UA#ABA | $6879 | 2.3/5 (3 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  2. HP ZBook 8 G1i 16 Mobile Workstation PC with 3 Yr Warranty & Wolf Pro 
+     SKU: C01CWUA#ABA | $3879 | 3.3/5 (3 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  3. HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf Pro Security Editio
+     SKU: C01F3UA#ABA | $3459 | 3/5 (1 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  4. HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf Pro Security Editio
+     SKU: C01F1UA#ABA | $3299 | 5/5 (1 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  5. hp zbook fury g1i 16 inch mobile workstation pc wolf pro security edit
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  6. hp zbook fury g1i 18 inch mobile workstation pc wolf pro security edit
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  7. HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf Pro Security Editio
+     SKU: C01F3UA#ABA | $3459 | 3/5 (1 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  8. hp zbook fury g1i 16 inch mobile workstation pc wolf pro security edit
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+  9. HP ZBook 8 G1i 14 inch Mobile Workstation PC  Wolf Pro Security Editio
+     SKU: C01F1UA#ABA | $3299 | 5/5 (1 reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+ 10. hp zbook 8 g1i 16 inch mobile workstation pc wolf pro security edition
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+ 11. hp zbook fury g1i 18 inch mobile workstation pc wolf pro security edit
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+ 12. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-fm000, 14"
+     SKU: AK4Z4AV_1 | $999.99 | 4.2/5 (145 reviews)
+     Features: 0 | Spec groups: 1 / 21 specs
+
+ 13. hp elite x360 1040 14 inch g11 2 in 1 notebook pc wolf pro security ed
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 14. hp elite x360 1040 14 inch g11 2 in 1 notebook pc wolf pro security ed
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 15. hp omnibook 7 flipngai 16 au0017n
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 0 / 0 specs
+
+ 16. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16"
+     SKU: B88CWAV_1 | $799.99 | 4.2/5 (199 reviews)
+     Features: 0 | Spec groups: 1 / 27 specs
+
+ 17. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16-as0047nr 16", Touch sc
+     SKU: B88BZUA#ABA | $899.99 | 4.2/5 (199 reviews)
+     Features: 0 | Spec groups: 2 / 30 specs
+
+ 18. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-fm000, 14"
+     SKU: AK4Z4AV_1 | $999.99 | 4.2/5 (145 reviews)
+     Features: 0 | Spec groups: 1 / 21 specs
+
+ 19. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 14t-fm000, 14"
+     SKU:  | $40.00 |  ( reviews)
+     Features: 0 | Spec groups: 1 / 6 specs
+
+ 20. hp omnibook x flipngai 16 as0047nr
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 30 specs
+
+ 21. hp elite x360 1040 14 inch g11 2 in 1 notebook pc wolf pro security ed
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 22. hp elite x360 1040 14 inch g11 2 in 1 notebook pc wolf pro security ed
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 23. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16"
+     SKU:  | $40.00 |  ( reviews)
+     Features: 0 | Spec groups: 1 / 6 specs
+
+ 24. hp omnibook 7 flipngai 16 au0017nr
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 25. HP OmniBook X Flip 2-in-1 Laptop Next Gen AI 16t-as00, 16"
+     SKU: B88CWAV_1 | $799.99 | 4.2/5 (199 reviews)
+     Features: 0 | Spec groups: 1 / 27 specs
+
+ 26. hp omnibook 7 flipngai 16 au0017nr
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 27. OMEN MAX Gaming Laptop 16-ak0047nr 16", Windows 11 Home, Windows Lapto
+     SKU: B96S7UA#ABA | $1899.99 | 3.9/5 (39 reviews)
+     Features: 0 | Spec groups: 2 / 28 specs
+
+ 28. OMEN MAX Gaming Laptop 16, Windows 11 Home, 16", AMD Ryzen™ AI 9, 32GB
+     SKU: CG6Y7UA#ABA | $2699.99 | 3.9/5 (39 reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 29. OMEN MAX Gaming Laptop 16, Windows 11 Home, 16", AMD Ryzen™ AI 9, 32GB
+     SKU: CG6Y7UA#ABA | $2699.99 | 3.9/5 (39 reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 30. OMEN MAX Gaming Laptop 16-ak0047nr 16", Windows 11 Home, Windows Lapto
+     SKU: B96S7UA#ABA | $1899.99 | 3.9/5 (39 reviews)
+     Features: 0 | Spec groups: 2 / 28 specs
+
+ 31. OMEN Gaming Laptop 16-ap0097nr 16", Windows 11 Home,  AMD Ryzen™ AI 9,
+     SKU: B96S8UA#ABA | $1799.99 | 4.1/5 (76 reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 32. OMEN Gaming Laptop 16-ap0097nr 16", Windows 11 Home,  AMD Ryzen™ AI 9,
+     SKU: B96S8UA#ABA | $1799.99 | 4.1/5 (76 reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 33. HyperX OMEN 15 inch Gaming Laptop PC 15-gb0261nr
+     SKU: D1UE0UA#ABA | $1399.99 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 28 specs
+
+ 34. HyperX OMEN 15 inch Gaming Laptop PC 15-gb0261nr
+     SKU: D1UE0UA#ABA | $1399.99 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 28 specs
+
+ 35. hyperx omen 15 inch gaming laptop pc 15 ga0762nr
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 25 specs
+
+ 36. HyperX OMEN 15 inch Gaming Laptop PC 15-ga0762nr
+     SKU: D20KPUA#ABA | $1399.99 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 25 specs
+
+ 37. hp laptop 17 cn3057nr
+     SKU:  | $ |  ( reviews)
+     Features: 0 | Spec groups: 2 / 27 specs
+
+ 38. HP Laptop 17, Windows 11 Home, 17.3", Intel® Core™ 5, 8GB RAM, 256GB S
+     SKU: CN4D3UA#ABA | $999.99 | 4.4/5 (76 reviews)
+     Features: 0 | Spec groups: 2 / 27 specs
+
+ 39. OMEN Gaming Laptop 16, Windows 11 Home, 16", Intel® Core™ i7, 32GB RAM
+     SKU: C77ZLUA#ABA | $1599.99 | 4.4/5 (107 reviews)
+     Features: 0 | Spec groups: 2 / 29 specs
+
+ 40. HP mt440 G3 Mobile Thin Client
+     SKU: 73U45UT#ABA | $815 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 22 specs
+
+ 41. HP mt440 G3 Mobile Thin Client
+     SKU: 73U51UT#ABA | $1009 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 23 specs
+
+ 42. HP mt440 G3 Mobile Thin Client
+     SKU: 768Y3UT#ABA | $929 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 22 specs
+
+ 43. OMEN Transcend Laptop 14-fb1047nr 14", Windows 11 Home,  Intel® Core™ 
+     SKU: B98D2UA#ABA | $1799.99 | 4.5/5 (30 reviews)
+     Features: 0 | Spec groups: 2 / 27 specs
+
+ 44. HP mt645 G8 Mobile Thin Client Wi-Fi
+     SKU: AR0E2UT#ABA | $1019 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 22 specs
+
+ 45. HP mt645 G8 Mobile Thin Client Wi-Fi
+     SKU: AW3Z7UT#ABA | $1019 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 21 specs
+
+ 46. HP mt645 G8 Mobile Thin Client Wi-Fi
+     SKU: AR0C6UT#ABA | $1019 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 22 specs
+
+ 47. HP EliteBook 6 G1i 14 Notebook AI PC with 3 Yr Warranty & Wolf Pro Sec
+     SKU: C03PSUA#ABA | $1099 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 31 specs
+
+ 48. HP EliteBook 6 G1i 14 Notebook AI PCTouch with 3 Yr Warranty & Wolf Pr
+     SKU: C03PYUA#ABA | $1799 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 32 specs
+
+ 49. HP EliteBook 6 G1i 14 Notebook AI PC with 3 Yr Warranty & Wolf Pro Sec
+     SKU: C03Q1UA#ABA | $1999 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 32 specs
+
+ 50. HP EliteBook X G1i 14 inch Touch Notebook Next Gen AI PC 3 Yr Warranty
+     SKU: B89BWUA#ABA | $1499 |  ( reviews)
+     Features: 0 | Spec groups: 2 / 27 specs
+

@@ -1,0 +1,206 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-eu500-wh-paint-marker.html",
+    "https://www.deliworld.com/product/deli-eu500-sl-paint-marker.html",
+    "https://www.deliworld.com/product/deli-eu500-bk-paint-marker.html",
+    "https://www.deliworld.com/product/deli-eu500-gd-paint-marker.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-EU500-BK Paint Marker",
+      "subtitle": "Paint Marker",
+      "brand": "Deli",
+      "sku": "100157692",
+      "url": "https://www.deliworld.com/product/deli-eu500-bk-paint-marker.html",
+      "category": "Paint Marker",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100157692"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip:2mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-bk-paint-marker1.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-bk-paint-marker3.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-bk-paint-marker5.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-bk-paint-marker4.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-bk-paint-marker2.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU500-SL Paint Marker",
+      "subtitle": "Paint Marker",
+      "brand": "Deli",
+      "sku": "100157695",
+      "url": "https://www.deliworld.com/product/deli-eu500-sl-paint-marker.html",
+      "category": "Paint Marker",
+      "overview": "Color: SILVER",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "SILVER"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100157695"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip:2mm"
+            },
+            {
+              "key": "Color",
+              "value": "SILVER"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-sl-paint-marker1.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-sl-paint-marker2.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-sl-paint-marker3.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-sl-paint-marker4.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-sl-paint-marker5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU500-WH Paint Marker",
+      "subtitle": "Paint Marker",
+      "brand": "Deli",
+      "sku": "100157694",
+      "url": "https://www.deliworld.com/product/deli-eu500-wh-paint-marker.html",
+      "category": "Paint Marker",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100157694"
+            },
+            {
+              "key": "Specification",
+              "value": "Bullet tip:2mm"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-wh-paint-marker1.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-wh-paint-marker2.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-wh-paint-marker3.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-wh-paint-marker4.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-eu500-wh-paint-marker5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-EU500-GD Paint Marker",
+      "subtitle": "Paint Marker",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-eu500-gd-paint-marker.html",
+      "category": "Paint Marker",
+      "overview": "Color: GOLDEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GOLDEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "Specification",
+              "value": "Bullet tip: 2.0mm"
+            },
+            {
+              "key": "Color",
+              "value": "GOLDEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230704/13/deli-eu500-gd-paint-marker1.webp",
+        "https://www.deliworld.com/uploads/image/20230704/13/deli-eu500-gd-paint-marker5.webp",
+        "https://www.deliworld.com/uploads/image/20230704/13/deli-eu500-gd-paint-marker3.webp",
+        "https://www.deliworld.com/uploads/image/20230704/13/deli-eu500-gd-paint-marker4.webp",
+        "https://www.deliworld.com/uploads/image/20230704/13/deli-eu500-gd-paint-marker2.webp"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}

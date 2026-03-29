@@ -1,0 +1,953 @@
+{
+  "scraped_urls": [
+    "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac-100154702.html",
+    "https://www.deliworld.com/product/deli-s153-roller-pen-100137426.html",
+    "https://www.deliworld.com/product/deli-a952-fountain-pen-100152326.html",
+    "https://www.deliworld.com/product/deli-s691-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a932-fountain-pen-100139577.html",
+    "https://www.deliworld.com/product/deli-s692-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a952-fountain-pen-100152325.html",
+    "https://www.deliworld.com/product/deli-a922-school-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a936-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a932-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a932-fountain-pen-100139576.html",
+    "https://www.deliworld.com/product/deli-a932-fountain-pen-100139575.html",
+    "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac.html",
+    "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac-100154701.html",
+    "https://www.deliworld.com/product/deli-a952-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a938-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-a952-fountain-pen-100152324.html",
+    "https://www.deliworld.com/product/deli-cq881-fountain-pen.html",
+    "https://www.deliworld.com/product/deli-s153-roller-pen.html",
+    "https://www.deliworld.com/product/deli-s681-fountain-pen.html"
+  ],
+  "products": [
+    {
+      "title": "Deli-S681 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100016983",
+      "url": "https://www.deliworld.com/product/deli-s681-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100016983"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100016983-S681/1.jpg",
+        "https://www.deliworld.com/uploads/image/100016983-S681/2.jpg",
+        "https://www.deliworld.com/uploads/image/100016983-S681/3.jpg",
+        "https://www.deliworld.com/uploads/image/100016983-S681/4.jpg",
+        "https://www.deliworld.com/uploads/image/100016983-S681/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S692 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100018322",
+      "url": "https://www.deliworld.com/product/deli-s692-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100018322"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100018322-S692/1.jpg",
+        "https://www.deliworld.com/uploads/image/100018322-S692/2.jpg",
+        "https://www.deliworld.com/uploads/image/100018322-S692/3.jpg",
+        "https://www.deliworld.com/uploads/image/100018322-S692/4.jpg",
+        "https://www.deliworld.com/uploads/image/100018322-S692/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S691 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100018321",
+      "url": "https://www.deliworld.com/product/deli-s691-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100018321"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100018321-S691/1.jpg",
+        "https://www.deliworld.com/uploads/image/100018321-S691/2.jpg",
+        "https://www.deliworld.com/uploads/image/100018321-S691/3.jpg",
+        "https://www.deliworld.com/uploads/image/100018321-S691/4.jpg",
+        "https://www.deliworld.com/uploads/image/100018321-S691/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S153 Roller Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100137425",
+      "url": "https://www.deliworld.com/product/deli-s153-roller-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLACK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLACK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100137425"
+            },
+            {
+              "key": "Specification",
+              "value": "0.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "BLACK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100137425-S153/1.jpg",
+        "https://www.deliworld.com/uploads/image/100137425-S153/2.jpg",
+        "https://www.deliworld.com/uploads/image/100137425-S153/3.jpg",
+        "https://www.deliworld.com/uploads/image/100137425-S153/4.jpg",
+        "https://www.deliworld.com/uploads/image/100137425-S153/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A922 School Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100130098",
+      "url": "https://www.deliworld.com/product/deli-a922-school-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100130098"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100130098-A922/1.jpg",
+        "https://www.deliworld.com/uploads/image/100130098-A922/2.jpg",
+        "https://www.deliworld.com/uploads/image/100130098-A922/3.jpg",
+        "https://www.deliworld.com/uploads/image/100130098-A922/4.jpg",
+        "https://www.deliworld.com/uploads/image/100130098-A922/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-S153 Roller Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100137426",
+      "url": "https://www.deliworld.com/product/deli-s153-roller-pen-100137426.html",
+      "category": "Fountain Pen",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100137426"
+            },
+            {
+              "key": "Specification",
+              "value": "0.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100137426-S153/1.jpg",
+        "https://www.deliworld.com/uploads/image/100137426-S153/2.jpg",
+        "https://www.deliworld.com/uploads/image/100137426-S153/3.jpg",
+        "https://www.deliworld.com/uploads/image/100137426-S153/4.jpg",
+        "https://www.deliworld.com/uploads/image/100137426-S153/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A932 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100139575",
+      "url": "https://www.deliworld.com/product/deli-a932-fountain-pen-100139575.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139575"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139575-A932/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139575-A932/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139575-A932/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139575-A932/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139575-A932/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A932 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100139576",
+      "url": "https://www.deliworld.com/product/deli-a932-fountain-pen-100139576.html",
+      "category": "Fountain Pen",
+      "overview": "Color: PINK",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "PINK"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139576"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "PINK"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139576-A932/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139576-A932/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139576-A932/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139576-A932/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139576-A932/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A932 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100139574",
+      "url": "https://www.deliworld.com/product/deli-a932-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139574"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139574-A932/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139574-A932/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139574-A932/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139574-A932/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139574-A932/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A932 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100139577",
+      "url": "https://www.deliworld.com/product/deli-a932-fountain-pen-100139577.html",
+      "category": "Fountain Pen",
+      "overview": "Color: GREY",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREY"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100139577"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "GREY"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100139577-A932/1.jpg",
+        "https://www.deliworld.com/uploads/image/100139577-A932/2.jpg",
+        "https://www.deliworld.com/uploads/image/100139577-A932/3.jpg",
+        "https://www.deliworld.com/uploads/image/100139577-A932/4.jpg",
+        "https://www.deliworld.com/uploads/image/100139577-A932/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A936 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100141622",
+      "url": "https://www.deliworld.com/product/deli-a936-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100141622"
+            },
+            {
+              "key": "Specification",
+              "value": "/"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100141622-A936/1.jpg",
+        "https://www.deliworld.com/uploads/image/100141622-A936/3.jpg",
+        "https://www.deliworld.com/uploads/image/100141622-A936/4.jpg",
+        "https://www.deliworld.com/uploads/image/100141622-A936/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A938 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100142314",
+      "url": "https://www.deliworld.com/product/deli-a938-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100142314"
+            },
+            {
+              "key": "Specification",
+              "value": "EF(0.3mm-0.45mm)"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100142314-A938/1.jpg",
+        "https://www.deliworld.com/uploads/image/100142314-A938/2.jpg",
+        "https://www.deliworld.com/uploads/image/100142314-A938/3.jpg",
+        "https://www.deliworld.com/uploads/image/100142314-A938/4.jpg",
+        "https://www.deliworld.com/uploads/image/100142314-A938/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A952 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100152323",
+      "url": "https://www.deliworld.com/product/deli-a952-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: RED",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "RED"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100152323"
+            },
+            {
+              "key": "Specification",
+              "value": "EF"
+            },
+            {
+              "key": "Color",
+              "value": "RED"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100152323-A952/1.jpg",
+        "https://www.deliworld.com/uploads/image/100152323-A952/2.jpg",
+        "https://www.deliworld.com/uploads/image/100152323-A952/3.jpg",
+        "https://www.deliworld.com/uploads/image/100152323-A952/4.jpg",
+        "https://www.deliworld.com/uploads/image/100152323-A952/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A952 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100152324",
+      "url": "https://www.deliworld.com/product/deli-a952-fountain-pen-100152324.html",
+      "category": "Fountain Pen",
+      "overview": "Color: WHITE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "WHITE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100152324"
+            },
+            {
+              "key": "Specification",
+              "value": "EF"
+            },
+            {
+              "key": "Color",
+              "value": "WHITE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100152324-A952/1.jpg",
+        "https://www.deliworld.com/uploads/image/100152324-A952/2.jpg",
+        "https://www.deliworld.com/uploads/image/100152324-A952/3.jpg",
+        "https://www.deliworld.com/uploads/image/100152324-A952/4.jpg",
+        "https://www.deliworld.com/uploads/image/100152324-A952/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A952 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100152325",
+      "url": "https://www.deliworld.com/product/deli-a952-fountain-pen-100152325.html",
+      "category": "Fountain Pen",
+      "overview": "Color: GREEN",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "GREEN"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100152325"
+            },
+            {
+              "key": "Specification",
+              "value": "EF"
+            },
+            {
+              "key": "Color",
+              "value": "GREEN"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100152325-A952/1.jpg",
+        "https://www.deliworld.com/uploads/image/100152325-A952/2.jpg",
+        "https://www.deliworld.com/uploads/image/100152325-A952/3.jpg",
+        "https://www.deliworld.com/uploads/image/100152325-A952/4.jpg",
+        "https://www.deliworld.com/uploads/image/100152325-A952/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-A952 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100152326",
+      "url": "https://www.deliworld.com/product/deli-a952-fountain-pen-100152326.html",
+      "category": "Fountain Pen",
+      "overview": "Color: BLUE",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "BLUE"
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100152326"
+            },
+            {
+              "key": "Specification",
+              "value": "EF"
+            },
+            {
+              "key": "Color",
+              "value": "BLUE"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/100152326-A952/1.jpg",
+        "https://www.deliworld.com/uploads/image/100152326-A952/2.jpg",
+        "https://www.deliworld.com/uploads/image/100152326-A952/3.jpg",
+        "https://www.deliworld.com/uploads/image/100152326-A952/4.jpg",
+        "https://www.deliworld.com/uploads/image/100152326-A952/5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "Deli-CQ881 Fountain Pen",
+      "subtitle": "Pen/Pearl Pen",
+      "brand": "Deli",
+      "sku": "100159300",
+      "url": "https://www.deliworld.com/product/deli-cq881-fountain-pen.html",
+      "category": "Fountain Pen",
+      "overview": "Color: ASST.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [
+        "ASST."
+      ],
+      "rating": "4.4/5",
+      "review_count": "1",
+      "availability": true,
+      "key_features": [],
+      "specifications": [
+        {
+          "title": "Product Details",
+          "specs": [
+            {
+              "key": "SAP",
+              "value": "100159300"
+            },
+            {
+              "key": "Specification",
+              "value": "0.4mm-0.5mm"
+            },
+            {
+              "key": "Color",
+              "value": "ASST."
+            }
+          ]
+        }
+      ],
+      "images": [
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-cq881-fountain-pen1.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-cq881-fountain-pen2.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-cq881-fountain-pen3.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-cq881-fountain-pen4.jpg",
+        "https://www.deliworld.com/uploads/image/20230106/09/deli-cq881-fountain-pen5.jpg"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac.html",
+      "category": "Fountain Pen",
+      "overview": "Deli tools is a professional manufacturer and well-known brand of power tools, hand tools, hardware tools, garden tools and more from China. Check Deli Tools Product Catalog, and register to be a distributor.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [],
+      "rating": "N/A",
+      "review_count": "0",
+      "availability": true,
+      "key_features": [],
+      "specifications": [],
+      "images": [
+        "https://www.delitoolsglobal.com/themes/simple/img/logo.png"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac-100154702.html",
+      "category": "Fountain Pen",
+      "overview": "Deli tools is a professional manufacturer and well-known brand of power tools, hand tools, hardware tools, garden tools and more from China. Check Deli Tools Product Catalog, and register to be a distributor.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [],
+      "rating": "N/A",
+      "review_count": "0",
+      "availability": true,
+      "key_features": [],
+      "specifications": [],
+      "images": [
+        "https://www.delitoolsglobal.com/themes/simple/img/logo.png"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "brand": "Deli",
+      "sku": "",
+      "url": "https://www.deliworld.com/product/deli-cq888-fountain-pen-ink-sac-100154701.html",
+      "category": "Fountain Pen",
+      "overview": "Deli tools is a professional manufacturer and well-known brand of power tools, hand tools, hardware tools, garden tools and more from China. Check Deli Tools Product Catalog, and register to be a distributor.",
+      "price": "N/A",
+      "currency": "N/A",
+      "color": [],
+      "rating": "N/A",
+      "review_count": "0",
+      "availability": true,
+      "key_features": [],
+      "specifications": [],
+      "images": [
+        "https://www.delitoolsglobal.com/themes/simple/img/logo.png"
+      ],
+      "warranty": "N/A",
+      "is_active": true,
+      "featured_product": false,
+      "new_arrival": false,
+      "best_seller": false,
+      "is_deleted": false
+    }
+  ]
+}
