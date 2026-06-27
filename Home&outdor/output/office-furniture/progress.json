@@ -206,6 +206,22 @@
       "https://cdn.media.amplience.net/i/currysprod/10236807_002?$l-large$&fmt=auto",
       "https://cdn.media.amplience.net/i/currysprod/10236807_003?$l-large$&fmt=auto"
     ],
+   
+      "filters": {
+        "types": [
+          {
+              "name": "Office Chairs",
+              "type": "Office Chairs",
+              "sub_category": "office"
+            },
+            {
+              "name": "Executive Office Chairs",
+              "type": "Office Chairs",
+              "sub_category": "office"
+            }
+        ]
+      },
+
     "warranty": "1 year",
     "is_active": true,
     "featured_product": false,

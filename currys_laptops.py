@@ -25,41 +25,41 @@ import random
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 CATEGORIES = [
-    # {
-    #     "name": "MacBook",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/apple",
-    #     "json_file": "macbooks.json",
-    # },
-    # {
-    #     "name": "Chromebooks",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/chromebooks",
-    #     "json_file": "chromebooks.json",
-    # },
-    # {
-    #     "name": "Microsoft Surface",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/microsoft/surface",
-    #     "json_file": "surface.json",
-    # },
-    # {
-    #     "name": "2-in-1 Laptops",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/2-in-1-laptops",
-    #     "json_file": "2-in-1-laptops.json",
-    # },
-    # {
-    #     "name": "AI Laptops",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/ai-laptops",
-    #     "json_file": "ai-laptops.json",
-    # },
-    # {
-    #     "name": "Acer Windows Laptops",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/acer/windows-laptops",
-    #     "json_file": "acer-windows-laptops.json",
-    # },
-    # {
-    #     "name": "Asus Windows Laptops",
-    #     "url": "https://www.currys.co.uk/computing/laptops/laptops/asus/windows-laptops",
-    #     "json_file": "asus-windows-laptops.json",
-    # },
+    {
+        "name": "MacBook",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/apple",
+        "json_file": "macbooks.json",
+    },
+    {
+        "name": "Chromebooks",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/chromebooks",
+        "json_file": "chromebooks.json",
+    },
+    {
+        "name": "Microsoft Surface",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/microsoft/surface",
+        "json_file": "surface.json",
+    },
+    {
+        "name": "2-in-1 Laptops",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/2-in-1-laptops",
+        "json_file": "2-in-1-laptops.json",
+    },
+    {
+        "name": "AI Laptops",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/ai-laptops",
+        "json_file": "ai-laptops.json",
+    },
+    {
+        "name": "Acer Windows Laptops",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/acer/windows-laptops",
+        "json_file": "acer-windows-laptops.json",
+    },
+    {
+        "name": "Asus Windows Laptops",
+        "url": "https://www.currys.co.uk/computing/laptops/laptops/asus/windows-laptops",
+        "json_file": "asus-windows-laptops.json",
+    },
     # oppo phone
     {
         "name": "Oppo",
