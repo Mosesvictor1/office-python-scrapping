@@ -21,6 +21,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -68,6 +73,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -117,6 +127,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -164,6 +179,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -217,6 +237,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -241,7 +266,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K016BS.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555018/officeland/new-office-chairs-collection-16/1.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555017/officeland/new-office-chairs-collection-16/2.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555017/officeland/new-office-chairs-collection-16/3.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555017/officeland/new-office-chairs-collection-16/4.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -264,6 +296,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -313,6 +350,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -337,7 +379,10 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-B107BS-61.jpg"
+    ]
   },
   {
     "title": "Office Chairs with Chrome Base",
@@ -365,6 +410,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -389,7 +439,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://officelandng.com/wp-content/uploads/2023/06/00099.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/00097.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/00100.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/00101.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/00102.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -412,6 +469,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -460,6 +522,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -513,6 +580,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -537,7 +609,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555082/officeland/new-office-chairs-collection-17/0.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-B252BHD.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555082/officeland/new-office-chairs-collection-17/2.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555082/officeland/new-office-chairs-collection-17/3.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555082/officeland/new-office-chairs-collection-17/4.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -560,6 +639,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -609,6 +693,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -656,6 +745,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -709,6 +803,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -733,7 +832,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555128/officeland/new-office-chairs-collection-27/0.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555128/officeland/new-office-chairs-collection-27/1.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555128/officeland/new-office-chairs-collection-27/2.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555128/officeland/new-office-chairs-collection-27/3.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-B194CS-4-600x600-1-150x150.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -756,6 +862,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -809,6 +920,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -833,7 +949,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K017BS.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555147/officeland/new-office-chairs-collection-15/1.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555147/officeland/new-office-chairs-collection-15/2.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555147/officeland/new-office-chairs-collection-15/3.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K017BSD-2-600x600-1-150x150.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -856,6 +979,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -905,6 +1033,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -953,6 +1086,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -1000,6 +1138,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -1053,6 +1196,11 @@
     "filters": {
       "types": [
         {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
+        {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
           "sub_category": "office"
@@ -1077,7 +1225,14 @@
     "is_deleted": false,
     "_scraped_from": "pdp",
     "_category_file": "conference_chairs.json",
-    "_primary_category": "Conference Chairs"
+    "_primary_category": "Conference Chairs",
+    "images_original": [
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555197/officeland/new-office-chairs-collection-41/0.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K007BS-41.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K007BS.jpg",
+      "https://res.cloudinary.com/decbrtduj/image/upload/v1782555197/officeland/new-office-chairs-collection-41/3.jpg",
+      "https://officelandng.com/wp-content/uploads/2023/06/CV-K007BS-41-150x150.jpg"
+    ]
   },
   {
     "title": "New office chairs collection",
@@ -1100,6 +1255,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",
@@ -1148,6 +1308,11 @@
     ],
     "filters": {
       "types": [
+        {
+          "name": "Office Chairs",
+          "type": "Office Chairs",
+          "sub_category": "office"
+        },
         {
           "name": "Conference Office Chairs",
           "type": "Office Chairs",

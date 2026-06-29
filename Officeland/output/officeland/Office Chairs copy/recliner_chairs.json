@@ -20,6 +20,11 @@
     ],
     "filters": {
       "types": [
+         {
+              "name": "Office Chairs",
+              "type": "Office Chairs",
+              "sub_category": "office"
+            },
         {
           "name": "Recliner Office Chairs",
           "type": "Office Chairs",
@@ -62,6 +67,11 @@
     ],
     "filters": {
       "types": [
+         {
+              "name": "Office Chairs",
+              "type": "Office Chairs",
+              "sub_category": "office"
+            },
         {
           "name": "Recliner Office Chairs",
           "type": "Office Chairs",
