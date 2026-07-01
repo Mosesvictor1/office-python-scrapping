@@ -1,0 +1,1088 @@
+[
+  {
+    "title": "HP Pro Tower 290 G9 Desktop PC (E1RQ5AT)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E1RQ5AT",
+    "product_id": "2104112682",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104112682",
+    "category": "Desktops",
+    "overview": "Windows 11 Pro 1",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ i3 14th generation processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ i3-14100 (up to 4.7 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 4 cores, 8 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® H670 4"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® UHD Graphics 730"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR4-3200 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 DIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "15.5 x 30.3 x 33.7 cm (System dimensions may fluctuate due to configuration and manufacturing variances.)"
+          },
+          {
+            "key": "Weight",
+            "value": "4.7 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Audio Switch; HP Documentation; HP Setup Integrated OOBE Win10; HP Support Assistant; HP System Event Utility; McAfee LiveSafe™; Buy Office (sold separately); HP JumpStarts; Xerox® DocuShare® 90 day free trial offer"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE (2x2) and Bluetooth® 5.3 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Realtek RTL8111HSH-CG GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Tower"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3867 codec, universal audio jack with CTIA headset support, audio line-out rear ports (3.5 mm), multi-streaming capable"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "2 M.2; 1 PCIe 3 x1; 1 PCIe 4 x16 5 6 7 (1 M.2 slot for WLAN and 1 M.2 2242/2280 slot for storage.)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 4 USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo\n\nRear 4 USB 2.0 Type-A; 1 HDMI; 1 RJ-45; 1 VGA; 1 power connector; 1 line in; 1 line out; 1 Serial (optional) 7"
+          },
+          {
+            "key": "Internal drive bays",
+            "value": "Two 3.5\" HDD"
+          },
+          {
+            "key": "Power",
+            "value": "180 W external power adapter, up to 90% efficiency, active PFC 8"
+          },
+          {
+            "key": "Security management",
+            "value": "Padlock loop; Trusted Platform Module (TPM) 2.0; Integrated accessories cable lock; Slim cable lock 9 10 11"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "15% post-consumer recycled plastic; 80 Plus® Gold power supplies available 12"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/1) limited warranty includes 1 year of parts, labor and on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/wysu4dckjq/png/wysu4dckjq.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/bobourghsm/png/bobourghsm.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/8fz8f2krke/png/8fz8f2krke.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/k0oz4jttbl/png/k0oz4jttbl.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProDesk 4 SFF G1i Desktop AI PC (E1MF1AT)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E1MF1AT",
+    "product_id": "2104107475",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104107475",
+    "category": "Desktops",
+    "overview": "The HP ProDesk 4 SFF G1i Desktop AI PC provides users in evolving conditions with customizable scalability to satisfy business needs — now and in the future.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 5 225 (up to 4.9 GHz with Intel® Turbo Boost Technology, 20 MB L3 cache, 10 cores, 10 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 3"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR5-5600 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 DIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "30.3 x 30.8 x 10 cm"
+          },
+          {
+            "key": "Weight",
+            "value": "4.55 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Available software",
+            "value": "HP Smart Support"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Small form factor"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280; 1 PCIe 4 x16; 1 PCIe 4 x1 4 (1 M.2 2230 slot for WLAN and 2 M.2 2280 slot for storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 1 USB Type-C® 10Gbps signaling rate; 3 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 5Gbps signaling rate; 1 HDMI 2.1; 1 RJ-45; 1 audio-out; 1 power connector; 3 USB Type-A 480Mbps signaling rate; 1 DisplayPort™ 2.1"
+          },
+          {
+            "key": "Internal drive bays",
+            "value": "1 slim ODD"
+          },
+          {
+            "key": "Power",
+            "value": "280 W internal power adapter, up to 92% efficiency, active PFC 5"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Ocean-bound plastic in speaker enclosure and I/O strip; 60% post-consumer recycled plastic; 10% ITE-derived closed loop plastic; 80 Plus® Platinum power supplies available; 100% recycled rare earth elements in speaker 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/dmyixywtsl/png/dmyixywtsl.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/ut0neczkjf/png/ut0neczkjf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/xm6ql619mj/png/xm6ql619mj.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fybfbhcg0b/original/fybfbhcg0b.png",
+      "https://hp.widen.net/content/vrxojfhwcv/png/vrxojfhwcv.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProDesk 2 SFF G1i E Desktop PC (E1MF0AT)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E1MF0AT",
+    "product_id": "2104107469",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104107469",
+    "category": "Desktops",
+    "overview": "The affordable HP ProDesk 2 SFF G1i is equipped with a powerful Intel® processor 1, security features, and essential tools for business.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "13th Generation Intel® Core™ i5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ i5-13400 (up to 4.6 GHz with Intel® Turbo Boost Technology, 20 MB L3 cache, 10 cores, 16 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® H770 3"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® UHD Graphics 730"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR5-4800 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 DIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "10 x 30.8 x 30.35 cm (System dimensions may fluctuate due to configuration and manufacturing variances.)"
+          },
+          {
+            "key": "Weight",
+            "value": "5.7 kg (Configured with 1 HDD and 1 ODD. Weight will vary by configuration.)"
+          },
+          {
+            "key": "Software included",
+            "value": "McAfee LiveSafe™"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Realtek RTL8111K-CG GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Small form factor"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3602-CG codec, combo audio jack with CTIA and OMTP headset support, audio line in and out, microphone in and re- tasking on jacks."
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "2 M.2; 1 PCIe 3 x1; 1 PCIe 4 x16 4 5 6 (1 M.2 slot for WLAN and 1 M.2 2242/2280 slot for storage.)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 1 USB Type-C® 10Gbps signaling rate; 3 USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo\n\nRear 4 USB 2.0 Type-A; 1 HDMI 1.4b; 1 DisplayPort™ 1.4a; 1 RJ-45; 1 power connector; 1 audio line-in/line-out 6"
+          },
+          {
+            "key": "Internal drive bays",
+            "value": "One 3.5\" HDD"
+          },
+          {
+            "key": "Power",
+            "value": "180 W internal power supply, up to 90% efficiency, active PFC 7"
+          },
+          {
+            "key": "Security management",
+            "value": "Padlock loop; Trusted Platform Module (TPM) 2.0; Integrated accessories cable lock; Slim cable lock 8 9 10"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "45% post-consumer recycled plastic 11"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/ucsihjdstc/png/ucsihjdstc.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/wzkb8wlew2/png/wzkb8wlew2.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/rwjrnax3o3/png/rwjrnax3o3.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/wwihmcsi5b/png/wwihmcsi5b.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (E15YCET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E15YCET",
+    "product_id": "2104096495",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104096495",
+    "category": "Desktops",
+    "overview": "The HP ProStudio 4 All-in-One G1i Desktop AI PC boosts collaboration and productivity, thanks to business-grade performance features, including an Intel® CPU 1 with a 13 TOPS NPU 2 and a 5 MP camera.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 5 225T (up to 4.9 GHz with Intel® Turbo Boost Technology, 20 MB L2 Cache, 10 cores, 10 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 (vPro®) 2"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (1 x 16 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM (with support for RAID 1)"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Display",
+            "value": "23.8\" diagonal, FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 99% sRGB"
+          },
+          {
+            "key": "Display",
+            "value": "60.5 cm (23.8\") diagonal, FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 99% sRGB"
+          },
+          {
+            "key": "Color gamut",
+            "value": "99% sRGB"
+          },
+          {
+            "key": "Brightness",
+            "value": "250 nits; 300 nits (touch)"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "53.96 x 31.94 x 5.25 cm (System dimensions may fluctuate due to configuration and manufacturing variances.)"
+          },
+          {
+            "key": "Weight",
+            "value": "6.3 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Notifications; HP PC Hardware Diagnostics UEFI; HP PC Hardware Diagnostics Windows"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "All-in-One"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP RGB fixed camera (pull-up) with integrated dual array microphones (normal SNR) 3"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, internal speaker, combo microphone/headphone jack; 2x2 W down-firing speakers"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280 (1 M.2 2230 slot for WLAN and Bluetooth® combo and 2 M.2 2280 slots for NVMe SSD storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Bottom 1 USB Type-A 10Gbps signaling rate; 1 3.5 mm universal audio jack; 1 USB Type-C® 20Gbps signaling rate (15W charging) 4\n\nRear 1 USB Type-A 10Gbps signaling rate; 1 HDMI-in 1.4; 1 HDMI-out 2.1; 1 RJ-45; 2 USB Type-A 5Gbps signaling rate (keyboard wake capable); 1 USB Type-C® 10Gbps signaling rate (with DisplayPort™ Alt Mode) 5"
+          },
+          {
+            "key": "Power",
+            "value": "280 W internal power adapter, active PFC"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "At least 20% recycled metal in enclosure; 5% recycled rare earth elements magnets in system; At least 60% recycled plastic in system; 35% recycled indium and 20% recycled glass in display panels; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% from certified or recycled sources and recyclable; At least 5% ocean-bound plastic in speaker enclosure; At least 25% ocean-bound plastic in thermal fan module; Bulk packaging available 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/1qvh2qb8lg/png/1qvh2qb8lg.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/or00d1cifu/png/or00d1cifu.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/o8z32tdq8w/png/o8z32tdq8w.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hf5trco8fv/png/hf5trco8fv.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/aq8oijfu2g/png/aq8oijfu2g.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (E15YDET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E15YDET",
+    "product_id": "2104096498",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104096498",
+    "category": "Desktops",
+    "overview": "The HP ProStudio 4 All-in-One G1i Desktop AI PC boosts collaboration and productivity, thanks to business-grade performance features, including an Intel® CPU 1 with a 13 TOPS NPU 2 and a 5 MP camera.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 5 225T (up to 4.9 GHz with Intel® Turbo Boost Technology, 20 MB L2 Cache, 10 cores, 10 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 (vPro®) 2"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (1 x 16 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM (with support for RAID 1)"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Display",
+            "value": "23.8\" diagonal, FHD (1920 x 1080), touch, IPS, anti-glare, Low Blue Light, 250 nits, 72% NTSC"
+          },
+          {
+            "key": "Display",
+            "value": "60.5 cm (23.8\") diagonal, FHD (1920 x 1080), touch, IPS, anti-glare, Low Blue Light, 250 nits, 72% NTSC"
+          },
+          {
+            "key": "Color gamut",
+            "value": "72% NTSC"
+          },
+          {
+            "key": "Brightness",
+            "value": "250 nits; 300 nits (touch)"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "53.96 x 31.94 x 5.25 cm (System dimensions may fluctuate due to configuration and manufacturing variances.)"
+          },
+          {
+            "key": "Weight",
+            "value": "6.3 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Notifications; HP PC Hardware Diagnostics UEFI; HP PC Hardware Diagnostics Windows"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "All-in-One"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP RGB fixed camera (pull-up) with integrated dual array microphones (normal SNR) 3"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, internal speaker, combo microphone/headphone jack; 2x2 W down-firing speakers"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280 (1 M.2 2230 slot for WLAN and Bluetooth® combo and 2 M.2 2280 slots for NVMe SSD storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Bottom 1 USB Type-A 10Gbps signaling rate; 1 3.5 mm universal audio jack; 1 USB Type-C® 20Gbps signaling rate (15W charging) 4\n\nRear 1 USB Type-A 10Gbps signaling rate; 1 HDMI-in 1.4; 1 HDMI-out 2.1; 1 RJ-45; 2 USB Type-A 5Gbps signaling rate (keyboard wake capable); 1 USB Type-C® 10Gbps signaling rate (with DisplayPort™ Alt Mode) 5"
+          },
+          {
+            "key": "Power",
+            "value": "280 W internal power adapter, active PFC"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "At least 20% recycled metal in enclosure; 5% recycled rare earth elements magnets in system; At least 60% recycled plastic in system; 35% recycled indium and 20% recycled glass in display panels; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% from certified or recycled sources and recyclable; At least 5% ocean-bound plastic in speaker enclosure; At least 25% ocean-bound plastic in thermal fan module; Bulk packaging available 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/1qvh2qb8lg/png/1qvh2qb8lg.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/or00d1cifu/png/or00d1cifu.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/o8z32tdq8w/png/o8z32tdq8w.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hf5trco8fv/png/hf5trco8fv.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/aq8oijfu2g/png/aq8oijfu2g.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (E15YGET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E15YGET",
+    "product_id": "2104096501",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104096501",
+    "category": "Desktops",
+    "overview": "The HP ProStudio 4 All-in-One G1i Desktop AI PC boosts collaboration and productivity, thanks to business-grade performance features, including an Intel® CPU 1 with a 13 TOPS NPU 2 and a 5 MP camera.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 7 265T (up to 5.3 GHz with Intel® Turbo Boost Technology, 30 MB L3 cache, 20 cores, 20 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 (vPro®) 2"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (1 x 16 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM (with support for RAID 1)"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Display",
+            "value": "23.8\" diagonal, FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 99% sRGB"
+          },
+          {
+            "key": "Display",
+            "value": "60.5 cm (23.8\") diagonal, FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 99% sRGB"
+          },
+          {
+            "key": "Color gamut",
+            "value": "99% sRGB"
+          },
+          {
+            "key": "Brightness",
+            "value": "250 nits; 300 nits (touch)"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "53.96 x 31.94 x 5.25 cm (System dimensions may fluctuate due to configuration and manufacturing variances.)"
+          },
+          {
+            "key": "Weight",
+            "value": "6.3 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Notifications; HP PC Hardware Diagnostics UEFI; HP PC Hardware Diagnostics Windows"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "All-in-One"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP RGB fixed camera (pull-up) with integrated dual array microphones (normal SNR) 3"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, internal speaker, combo microphone/headphone jack; 2x2 W down-firing speakers"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280 (1 M.2 2230 slot for WLAN and Bluetooth® combo and 2 M.2 2280 slots for NVMe SSD storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Bottom 1 USB Type-A 10Gbps signaling rate; 1 3.5 mm universal audio jack; 1 USB Type-C® 20Gbps signaling rate (15W charging) 4\n\nRear 1 USB Type-A 10Gbps signaling rate; 1 HDMI-in 1.4; 1 HDMI-out 2.1; 1 RJ-45; 2 USB Type-A 5Gbps signaling rate (keyboard wake capable); 1 USB Type-C® 10Gbps signaling rate (with DisplayPort™ Alt Mode) 5"
+          },
+          {
+            "key": "Power",
+            "value": "280 W internal power adapter, active PFC"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "At least 20% recycled metal in enclosure; 5% recycled rare earth elements magnets in system; At least 60% recycled plastic in system; 35% recycled indium and 20% recycled glass in display panels; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% from certified or recycled sources and recyclable; At least 5% ocean-bound plastic in speaker enclosure; At least 25% ocean-bound plastic in thermal fan module; Bulk packaging available 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/1qvh2qb8lg/png/1qvh2qb8lg.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/or00d1cifu/png/or00d1cifu.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/o8z32tdq8w/png/o8z32tdq8w.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hf5trco8fv/png/hf5trco8fv.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/aq8oijfu2g/png/aq8oijfu2g.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProDesk 2 Mini G2i Desktop PC (E04S6AT)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E04S6AT",
+    "product_id": "2104047718",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104047718",
+    "category": "Desktops",
+    "overview": "Blends reliable performance, flexible connectivity, and compact versatility into a cost-conscious design crafted for smooth deployment that adapts to diverse workplaces.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ 7 350 (up to 4.8 GHz with Intel® Turbo Boost Technology, 6 MB L3 cache, 6 cores, 6 threads) 1 2"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics 3"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR5-5600 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "1 SODIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "17.7 x 18.1 x 3.42 cm"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 0.97 kg"
+          },
+          {
+            "key": "Wireless",
+            "value": "Realtek Wi-Fi 6 RTL8852BE-VT 802.11a/b/g/n/ax (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Form factor",
+            "value": "Mini"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 175 Black Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3205 codec, internal speaker, combo microphone/headphone jack"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 175 Black Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 1 M.2 2280 (1 M.2 slot for WLAN and 1 M.2 2280 slots for storage.)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 1 USB Type-C® 10Gbps signaling rate; 2 USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 5Gbps signaling rate; 1 RJ-45; 2 USB Type-A 480Mbps signaling rate; 1 DisplayPort™ 2.1; 1 HDMI 2.1 TMDS"
+          },
+          {
+            "key": "Power",
+            "value": "65 W external power adapter, up to 89% efficiency"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "At least 60% post-consumer recycled plastic; Ocean-bound plastic in speaker enclosure and I/O strip; 100% recycled rare earth elements in speaker; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% from certified or recycled sources and recyclable; Bulk packaging available"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/6ua8vnh2ha/png/6ua8vnh2ha.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/4clxonvsds/png/4clxonvsds.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/uipk4dxo6s/png/uipk4dxo6s.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hjozqort6o/png/hjozqort6o.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProDesk 4 SFF G1i Desktop AI PC (E15YJET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E15YJET",
+    "product_id": "2104096492",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104096492",
+    "category": "Desktops",
+    "overview": "The HP ProDesk 4 SFF G1i Desktop AI PC provides users in evolving conditions with customizable scalability to satisfy business needs — now and in the future.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 5 225 (up to 4.9 GHz with Intel® Turbo Boost Technology, 20 MB L3 cache, 10 cores, 10 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 3"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR5-5600 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 DIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "30.3 x 30.8 x 10 cm"
+          },
+          {
+            "key": "Weight",
+            "value": "4.55 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Available software",
+            "value": "HP Smart Support"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Small form factor"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280; 1 PCIe 4 x16; 1 PCIe 4 x1 4 (1 M.2 2230 slot for WLAN and 2 M.2 2280 slot for storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 1 USB Type-C® 10Gbps signaling rate; 3 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 5Gbps signaling rate; 1 HDMI 2.1; 1 RJ-45; 1 audio-out; 1 power connector; 3 USB Type-A 480Mbps signaling rate; 1 DisplayPort™ 2.1"
+          },
+          {
+            "key": "Internal drive bays",
+            "value": "1 slim ODD"
+          },
+          {
+            "key": "Power",
+            "value": "180 W external power adapter, up to 90% efficiency, active PFC 5"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Ocean-bound plastic in speaker enclosure and I/O strip; 60% post-consumer recycled plastic; 10% ITE-derived closed loop plastic; 80 Plus® Platinum power supplies available; 100% recycled rare earth elements in speaker 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/dmyixywtsl/png/dmyixywtsl.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/ut0neczkjf/png/ut0neczkjf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/xm6ql619mj/png/xm6ql619mj.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fybfbhcg0b/original/fybfbhcg0b.png",
+      "https://hp.widen.net/content/vrxojfhwcv/png/vrxojfhwcv.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ProDesk 4 SFF G1i Desktop AI PC (E15YHET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "E15YHET",
+    "product_id": "2104096491",
+    "url": "https://www.hp.com/ng-en/products/desktops/product-details/2104096491",
+    "category": "Desktops",
+    "overview": "The HP ProDesk 4 SFF G1i Desktop AI PC provides users in evolving conditions with customizable scalability to satisfy business needs — now and in the future.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "FreeDOS"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 5 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 5 235 (up to 5.0 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 14 cores, 14 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® Q870 3"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB DDR5-5600 MT/s (1 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 DIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "30.3 x 30.8 x 10 cm"
+          },
+          {
+            "key": "Weight",
+            "value": "4.55 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Available software",
+            "value": "HP Smart Support"
+          },
+          {
+            "key": "Network interface",
+            "value": "Integrated Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Small form factor"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 125 v2 Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP 125 Wired Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 M.2 2230; 2 M.2 2280; 1 PCIe 4 x16; 1 PCIe 4 x1 4 (1 M.2 2230 slot for WLAN and 2 M.2 2280 slot for storage)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 1 USB Type-C® 10Gbps signaling rate; 3 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 5Gbps signaling rate; 1 HDMI 2.1; 1 RJ-45; 1 audio-out; 1 power connector; 3 USB Type-A 480Mbps signaling rate; 1 DisplayPort™ 2.1"
+          },
+          {
+            "key": "Internal drive bays",
+            "value": "1 slim ODD"
+          },
+          {
+            "key": "Power",
+            "value": "180 W external power adapter, up to 90% efficiency, active PFC 5"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Ocean-bound plastic in speaker enclosure and I/O strip; 60% post-consumer recycled plastic; 10% ITE-derived closed loop plastic; 80 Plus® Platinum power supplies available; 100% recycled rare earth elements in speaker 6 7 8 9"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/dmyixywtsl/png/dmyixywtsl.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/ut0neczkjf/png/ut0neczkjf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/xm6ql619mj/png/xm6ql619mj.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fybfbhcg0b/original/fybfbhcg0b.png",
+      "https://hp.widen.net/content/vrxojfhwcv/png/vrxojfhwcv.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  }
+]

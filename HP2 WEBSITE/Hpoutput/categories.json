@@ -1,0 +1,231 @@
+{
+      "Computing": {
+    "subCategories": [
+      {
+        "id": 145,
+        "name": "Laptops",
+        "slug": "laptops",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10282701?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:00",
+        "products_count": 318,
+        "subCategories": [
+          { "id": 146, "name": "All laptops", "slug": "all_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:00", "products_count": 0, "subCategories": [] },
+          { "id": 147, "name": "Windows laptops", "slug": "windows_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 148, "name": "MacBook", "slug": "macbook", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 149, "name": "Chromebooks", "slug": "chromebooks", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 150, "name": "Microsoft Surface", "slug": "microsoft_surface", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:02", "products_count": 0, "subCategories": [] },
+          { "id": 151, "name": "2 in 1 laptops", "slug": "2_in_1_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:02", "products_count": 0, "subCategories": [] },
+          { "id": 152, "name": "AI laptops", "slug": "ai_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:03", "products_count": 0, "subCategories": [] },
+          { "id": 472, "name": "Workstations", "slug": "laptops-workstations", "image": null, "is_active": true, "created_at": "2026-04-15T16:54:50", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Laptops", "name": "Windows laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AI laptops", "type": "AI laptops" },
+            { "sub_category": "Laptops", "name": "Student laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Copilot+ PCs", "type": "AI laptops" },
+            { "sub_category": "Laptops", "name": "Touchscreen laptops", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "Macbook", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "2 in 1 laptops", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "OLED laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Chromebooks", "type": "Chromebooks" },
+            { "sub_category": "Laptops", "name": "Gaming laptops", "type": "Gaming laptops" }
+          ],
+          "brands": [
+            { "sub_category": "Laptops", "name": "APPLE", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "ASUS", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "LENOVO", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "HP", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "ACER", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "MICROSOFT", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "SAMSUNG", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "MSI", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "DELL", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "RAZER", "type": "Gaming laptops" }
+          ],
+          "memory": [
+            { "sub_category": "Laptops", "name": "4 GB", "type": "Chromebooks" },
+            { "sub_category": "Laptops", "name": "8 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "16 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "32 GB", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "64 GB", "type": "Gaming laptops" }
+          ],
+          "processor": [
+            { "sub_category": "Laptops", "name": "Intel Core Ultra 7", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Apple M5", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "Intel Core i5", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AMD Ryzen 5", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AMD Ryzen 7", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Snapdragon X Elite", "type": "AI laptops" }
+          ],
+          "screen_size": [
+            { "sub_category": "Laptops", "name": "13", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "14", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "15", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "16", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "17", "type": "Gaming laptops" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "Laptops", "name": "256 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "512 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "1 TB", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "2 TB", "type": "Gaming laptops" }
+          ],
+          "operating_system": [
+            { "sub_category": "Laptops", "name": "Windows 11 Home", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Windows 11 Pro", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "macOS", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "Chrome OS", "type": "Chromebooks" }
+          ]
+        }
+      },
+    
+      {
+        "id": 160,
+        "name": "Computer Monitors",
+        "slug": "pc_monitors",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10286594?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:06",
+        "products_count": 111,
+        "subCategories": [
+          { "id": 161, "name": "PC monitors", "slug": "pc_monitors_sub", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:06", "products_count": 0, "subCategories": [] },
+          { "id": 162, "name": "Gaming monitors", "slug": "gaming_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:06", "products_count": 0, "subCategories": [] },
+          { "id": 163, "name": "4K monitors", "slug": "4k_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:07", "products_count": 0, "subCategories": [] },
+          { "id": 164, "name": "Curved monitors", "slug": "curved_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:07", "products_count": 0, "subCategories": [] },
+          { "id": 165, "name": "Under 22", "slug": "under_22_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:08", "products_count": 0, "subCategories": [] },
+          { "id": 166, "name": "23 - 24", "slug": "23_24_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:08", "products_count": 0, "subCategories": [] },
+          { "id": 167, "name": "25 - 26", "slug": "25_26_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:09", "products_count": 0, "subCategories": [] },
+          { "id": 168, "name": "27 - 31", "slug": "27_31_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:09", "products_count": 0, "subCategories": [] },
+          { "id": 169, "name": "32 or more", "slug": "32_inch_or_more", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:10", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Computer Monitors", "name": "PC monitors", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "Gaming monitors", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "4K monitors", "type": "4K monitors" },
+            { "sub_category": "Computer Monitors", "name": "Curved monitors", "type": "Curved monitors" },
+            { "sub_category": "Computer Monitors", "name": "Dual mode monitors", "type": "Dual mode monitors" }
+          ],
+          "brands": [
+            { "sub_category": "Computer Monitors", "name": "LG", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "ASUS", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "PHILIPS", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "MSI", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "SAMSUNG", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "ACER", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "HP", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "DELL", "type": "4K monitors" }
+          ],
+          "screen_size": [
+            { "sub_category": "Computer Monitors", "name": "Up to 21", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "22 - 24", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "25 - 26", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "27 - 31", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "32 - 34", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "35 and above", "type": "Gaming monitors" }
+          ],
+          "panel_type": [
+            { "sub_category": "Computer Monitors", "name": "IPS", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "VA", "type": "Curved monitors" },
+            { "sub_category": "Computer Monitors", "name": "TN", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "OLED", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "Mini-LED", "type": "Gaming monitors" }
+          ],
+          "refresh_rate": [
+            { "sub_category": "Computer Monitors", "name": "60 Hz", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "75 Hz", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "144 Hz", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "240 Hz", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "360 Hz", "type": "Gaming monitors" }
+          ]
+        }
+      },
+      {
+        "id": 170,
+        "name": "Desktop PCs",
+        "slug": "desktop_pcs",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10273294?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:10",
+        "products_count": 251,
+        "subCategories": [
+          { "id": 171, "name": "All desktops", "slug": "all_desktops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:10", "products_count": 0, "subCategories": [] },
+          { "id": 172, "name": "All-in-one PCs", "slug": "all_in_one_pcs", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:11", "products_count": 0, "subCategories": [] },
+          { "id": 173, "name": "Tower PCs", "slug": "tower_pcs", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:11", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Desktop PCs", "name": "All-in-one PCs", "type": "All-in-one PCs" },
+            { "sub_category": "Desktop PCs", "name": "Tower PCs", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Gaming PCs", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "iMac / Mac mini", "type": "iMac / Mac mini" }
+          ],
+          "brands": [
+            { "sub_category": "Desktop PCs", "name": "APPLE", "type": "iMac / Mac mini" },
+            { "sub_category": "Desktop PCs", "name": "HP", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "DELL", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "LENOVO", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "ACER", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "MSI", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "ASUS", "type": "Gaming PCs" }
+          ],
+          "processor": [
+            { "sub_category": "Desktop PCs", "name": "Intel Core i5", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Intel Core i7", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Intel Core i9", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "AMD Ryzen 5", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "AMD Ryzen 7", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Apple M4", "type": "iMac / Mac mini" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "Desktop PCs", "name": "256 GB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "512 GB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "1 TB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "2 TB", "type": "Gaming PCs" }
+          ]
+        }
+      },
+      {
+        "id": 174,
+        "name": "Printers, Scanners and Ink",
+        "slug": "printers_scanners_ink",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10286817?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:12",
+        "products_count": 604,
+        "subCategories": [
+          { "id": 175, "name": "All printers", "slug": "all_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:12", "products_count": 0, "subCategories": [] },
+          { "id": 176, "name": "Inkjet printers", "slug": "inkjet_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:12", "products_count": 0, "subCategories": [] },
+          { "id": 177, "name": "Laser printers", "slug": "laser_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 178, "name": "Printer ink cartridges", "slug": "printer_ink_cartridges", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 179, "name": "Scanners", "slug": "scanners", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 180, "name": "Enterprise Print", "slug": "enterprise-print", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:14", "products_count": 0, "subCategories": [] },
+          { "id": 181, "name": "Printer paper", "slug": "printer_paper", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:14", "products_count": 0, "subCategories": [] },
+          { "id": 476, "name": "Ink and Toner", "slug": "scanner-printer-ink-toner", "image": null, "is_active": true, "created_at": "2026-04-17T08:23:11", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Printers, Scanners and Ink", "name": "Inkjet printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Laser printers", "type": "Laser printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "All-in-one printers", "type": "All-in-one printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Photo printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Portable printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Printer ink cartridges", "type": "Printer ink cartridges" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Scanners", "type": "Scanners" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Ink and Toner", "type": "Ink and Toner" }
+          ],
+          "brands": [
+            { "sub_category": "Printers, Scanners and Ink", "name": "EPSON", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "CANON", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "HP", "type": "Laser printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "BROTHER", "type": "Laser printers" }
+          ]
+        }
+      }
+
+     
+    ]
+  }
+}

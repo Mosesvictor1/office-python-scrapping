@@ -1,0 +1,1430 @@
+[
+  {
+    "title": "HP Z2 SFF G1i Workstation Desktop PC (B76QWET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B76QWET",
+    "product_id": "2103201643",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103201643",
+    "category": "Workstations",
+    "overview": "Re-engineered to get all the power of a full-size tower at a fraction of the size.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 7 265 (up to 5.3 GHz with Intel® Turbo Boost Technology, 30 MB L3 cache, 20 cores, 20 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® W880"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Graphics",
+            "value": "Discrete,\n\nNVIDIA RTX™ A1000 (8 GB GDDR6 dedicated)"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (2 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "4 UDIMM"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "10 x 30.8 x 30.3 cm (Standard desktop orientation.)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 4.0 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Wireless",
+            "value": "Intel® Wi-Fi 7 BE200 (2x2) and Bluetooth® 5.4 wireless card, non-vPro®"
+          },
+          {
+            "key": "Network interface",
+            "value": "Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Small form factor"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP USB 320K v2 Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3252 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP Wired 320M Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "2 M.2 2280 PCIe 4 x4; 1 M.2 2230 for WLAN; 1 PCIe 5 x16; 1 M.2 2280 PCIe 5 x4; 1 PCIe 4 x4"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 2 USB Type-C® 20Gbps signaling rate; 4 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 10Gbps signaling rate; 2 DisplayPort™ 1.4; 1 RJ-45; 1 audio line-in/line-out; 3 USB Type-A 480Mbps signaling rate"
+          },
+          {
+            "key": "External drive bays",
+            "value": "One slim ODD"
+          },
+          {
+            "key": "Power",
+            "value": "400 W external power adapter, up to 92% efficiency, active PFC"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "EPEAT® registered"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; 10% ITE-derived closed loop plastic; 80 Plus® Platinum power supplies available; Product Carbon Footprint; Contains at least 20% post-industrial recycled steel; At least 25% ocean-bound plastic in system fans; System has a QR code enabled experience where the user has access to a product portal – beginning December 2025, this is complete with product feature highlights, sustainability information, getting started guides, and direct setup and support options; New Energy Consumption dashboard available to customers providing timely carbon usage including recommended actions users can take to decrease carbon footprint 4 5 6 7"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/1) limited warranty includes 1 year of parts, labor and on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/7npnaqvtcy/png/7npnaqvtcy.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/zahenk6yln/png/zahenk6yln.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/sj8mvqepst/png/sj8mvqepst.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/mzqvr2aovg/png/mzqvr2aovg.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hbskha9bnn/png/hbskha9bnn.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "processor": [
+        {
+          "name": "Intel Core i7",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP Z2 Tower G1i Workstation Desktop PC (B76QTET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B76QTET",
+    "product_id": "2103201647",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103201647",
+    "category": "Workstations",
+    "overview": "Reengineered to support high-end graphics and seamlessly run both single and multi-threaded apps.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 7 265 (up to 5.3 GHz with Intel® Turbo Boost Technology, 30 MB L3 cache, 20 cores, 20 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® W880"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (2 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "4 DRR5"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "512 GB PCIe® Gen4 M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "17.5 x 42.6 x 38.8 cm (Standard desktop orientation.)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 8.6 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Wireless",
+            "value": "Intel® Wi-Fi 7 BE200 (2x2) and Bluetooth® 5.4 wireless card, non-vPro®"
+          },
+          {
+            "key": "Network interface",
+            "value": "Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Tower"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 320K Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3205 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP Wired 320M Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 PCIe Gen5 x16; 1 PCIe Gen4 x1 - with x4 connector; 1 PCIe Gen4 x4 - with x16 connector; 1 PCIe Gen4 x4; 1 PCIe 4 x1 electrical (x4 mechanical); 1 PCIe 4 x4 electrical (x16 mechanical)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 2 USB Type-C® 20Gbps signaling rate; 4 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 10Gbps signaling rate; 2 DisplayPort™ 1.4; 1 RJ-45; 1 audio line-in/line-out; 3 USB Type-A 480Mbps signaling rate"
+          },
+          {
+            "key": "External drive bays",
+            "value": "One slim ODD; One 5.25\""
+          },
+          {
+            "key": "Power",
+            "value": "500 W internal power adapter, up to 92% efficiency, active PFC"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; 10% ITE-derived closed loop plastic; 25% ocean-bound plastic in system fans; Product Carbon Footprint; Contains at least 60% post-consumer recycled plastic; System has a QR code enabled experience where the user has access to a product portal – beginning December 2025, this is complete with product feature highlights, sustainability information, getting started guides, and direct setup and support options; New Energy Consumption dashboard available to customers providing timely carbon usage including recommended actions users can take to decrease carbon footprint 4 5 6 7"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/1) limited warranty includes 1 year of parts, labor and on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/zansv3yslk/png/zansv3yslk.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/acvzyjhejr/png/acvzyjhejr.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/jeyn48aw2p/png/jeyn48aw2p.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/v7vswyafje/png/v7vswyafje.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/3kebkomwfy/png/3kebkomwfy.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "processor": [
+        {
+          "name": "Intel Core i7",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP Z2 Tower G1i Workstation Desktop PC (B76RQET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B76RQET",
+    "product_id": "2103201699",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103201699",
+    "category": "Workstations",
+    "overview": "Reengineered to support high-end graphics and seamlessly run both single and multi-threaded apps.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 7 265 (up to 5.3 GHz with Intel® Turbo Boost Technology, 30 MB L3 cache, 20 cores, 20 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® W880"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "16 GB DDR5-5600 MT/s (2 x 8 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "4 DRR5"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "17.5 x 42.6 x 38.8 cm (Standard desktop orientation.)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 8.6 kg (Exact weight depends on configuration.)"
+          },
+          {
+            "key": "Wireless",
+            "value": "Intel® Wi-Fi 7 BE200 (2x2) and Bluetooth® 5.4 wireless card, non-vPro®"
+          },
+          {
+            "key": "Network interface",
+            "value": "Intel® I219-LM GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Tower"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP 320K Wired Keyboard"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3205 codec, universal audio jack with CTIA and OMTP headset support"
+          },
+          {
+            "key": "Pointing device",
+            "value": "HP Wired 320M Mouse"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "1 PCIe Gen5 x16; 1 PCIe Gen4 x1 - with x4 connector; 1 PCIe Gen4 x4 - with x16 connector; 1 PCIe Gen4 x4; 1 PCIe 4 x1 electrical (x4 mechanical); 1 PCIe 4 x4 electrical (x16 mechanical)"
+          },
+          {
+            "key": "Ports",
+            "value": "Front 2 USB Type-C® 20Gbps signaling rate; 4 USB Type-A 10Gbps signaling rate; 1 headphone/microphone combo\n\nRear 2 USB Type-A 10Gbps signaling rate; 2 DisplayPort™ 1.4; 1 RJ-45; 1 audio line-in/line-out; 3 USB Type-A 480Mbps signaling rate"
+          },
+          {
+            "key": "External drive bays",
+            "value": "One slim ODD; One 5.25\""
+          },
+          {
+            "key": "Power",
+            "value": "500 W internal power adapter, up to 92% efficiency, active PFC"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; 10% ITE-derived closed loop plastic; 25% ocean-bound plastic in system fans; Product Carbon Footprint; Contains at least 60% post-consumer recycled plastic; System has a QR code enabled experience where the user has access to a product portal – beginning December 2025, this is complete with product feature highlights, sustainability information, getting started guides, and direct setup and support options; New Energy Consumption dashboard available to customers providing timely carbon usage including recommended actions users can take to decrease carbon footprint 4 5 6 7"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/1) limited warranty includes 1 year of parts, labor and on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/zansv3yslk/png/zansv3yslk.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/acvzyjhejr/png/acvzyjhejr.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/jeyn48aw2p/png/jeyn48aw2p.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/v7vswyafje/png/v7vswyafje.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/3kebkomwfy/png/3kebkomwfy.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "processor": [
+        {
+          "name": "Intel Core i7",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP ZBook 8 G1as 14 inch Mobile Workstation PC (B72STET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B72STET",
+    "product_id": "2103153235",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103153235",
+    "category": "Workstations",
+    "overview": "Pro-level performance combines with true mobility in this sleek and powerful AI PC mobile workstation.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "AMD Ryzen™ AI 9 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "AMD Ryzen™ AI 9 HX 375 (up to 5.1 GHz max boost clock, 24 MB L3 cache, 12 cores, 24 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "AMD integrated SoC"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nAMD Radeon™ 890M Graphics 4 5 6"
+          },
+          {
+            "key": "Memory",
+            "value": "64 GB DDR5-5600 MT/s (2 x 32 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM; supports dual channel"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ TLC SSD"
+          },
+          {
+            "key": "Display",
+            "value": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Display",
+            "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Touchscreen",
+            "value": "Yes"
+          },
+          {
+            "key": "Color gamut",
+            "value": "100% sRGB"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "31.56 x 22.2 x 1.89 cm (Dimensions vary by configuration)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 1.44 kg (Weight varies by configuration and components.)"
+          },
+          {
+            "key": "Battery type",
+            "value": "HP Long Life 3-cell, 62 Wh Li-ion polymer"
+          },
+          {
+            "key": "Battery recharge time",
+            "value": "Supports battery fast charge: approximately 50% in 30 minutes 10"
+          },
+          {
+            "key": "Wireless",
+            "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Mobile broadband",
+            "value": "HP R15 5G Solution"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP Premium Keyboard – spill-resistant, backlit keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP IR AI camera"
+          },
+          {
+            "key": "Audio",
+            "value": "Audio by Poly Studio, dual stereo speakers, HP World Facing Microphone dual array digital microphones, functions keys for volume up and down, combo microphone/headphone jack, HD audio"
+          },
+          {
+            "key": "Pointing device",
+            "value": "Clickpad with multi-touch gesture support, taps enabled as default"
+          },
+          {
+            "key": "Ports",
+            "value": "Left side 1 HDMI 2.1; 1 headphone/microphone combo; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) 11 12 13\n\nRight side 1 security lock slot; 1 RJ-45 Ethernet port; 1 USB Type-A 5Gbps signaling rate (powered); 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4)"
+          },
+          {
+            "key": "Power",
+            "value": "HP 140 W USB Type-C® slim adapter 3"
+          },
+          {
+            "key": "Fingerprint reader",
+            "value": "Fingerprint reader"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; External power supply 90% efficiency; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable; 60% post-consumer recycled plastic 14 15 16 17"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/go6eei5prf/png/go6eei5prf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/rnk4hdqtyn/png/rnk4hdqtyn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/zhtctrdchf/png/zhtctrdchf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/g7wt1toamo/png/g7wt1toamo.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fpuxpaib3s/png/fpuxpaib3s.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP ZBook 8 G1as 14 inch Mobile Workstation PC (B72T6ET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B72T6ET",
+    "product_id": "2103154734",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103154734",
+    "category": "Workstations",
+    "overview": "Pro-level performance combines with true mobility in this sleek and powerful AI PC mobile workstation.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "AMD Ryzen™ AI 9 HX PRO processor"
+          },
+          {
+            "key": "Processor",
+            "value": "AMD Ryzen™ AI 9 HX PRO 375 (up to 5.1 GHz max boost clock, 24 MB L3 cache, 12 cores, 24 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "AMD integrated SoC"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nAMD Radeon™ 890M Graphics 4 5 6"
+          },
+          {
+            "key": "Memory",
+            "value": "64 GB DDR5-5600 MT/s (2 x 32 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM; supports dual channel"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ TLC SSD"
+          },
+          {
+            "key": "Display",
+            "value": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Display",
+            "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Touchscreen",
+            "value": "Yes"
+          },
+          {
+            "key": "Color gamut",
+            "value": "100% sRGB"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "31.56 x 22.2 x 1.89 cm (Dimensions vary by configuration)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 1.44 kg (Weight varies by configuration and components.)"
+          },
+          {
+            "key": "Battery type",
+            "value": "HP Long Life 3-cell, 62 Wh Li-ion polymer"
+          },
+          {
+            "key": "Battery recharge time",
+            "value": "Supports battery fast charge: approximately 50% in 30 minutes 10"
+          },
+          {
+            "key": "Wireless",
+            "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Realtek RTL8111EPP-CG GbE"
+          },
+          {
+            "key": "Mobile broadband",
+            "value": "HP R15 5G Solution"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP Premium Keyboard – spill-resistant, backlit keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP IR AI camera"
+          },
+          {
+            "key": "Audio",
+            "value": "Audio by Poly Studio, dual stereo speakers, HP World Facing Microphone dual array digital microphones, functions keys for volume up and down, combo microphone/headphone jack, HD audio"
+          },
+          {
+            "key": "Pointing device",
+            "value": "Clickpad with multi-touch gesture support, taps enabled as default"
+          },
+          {
+            "key": "Memory card device",
+            "value": "1 smart card reader"
+          },
+          {
+            "key": "Ports",
+            "value": "Left side 1 HDMI 2.1; 1 headphone/microphone combo; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) 11 12 13\n\nRight side 1 security lock slot; 1 RJ-45 Ethernet port; 1 USB Type-A 5Gbps signaling rate (powered); 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4)"
+          },
+          {
+            "key": "Power",
+            "value": "HP 100 W USB Type-C® slim adapter 3"
+          },
+          {
+            "key": "Fingerprint reader",
+            "value": "Fingerprint reader"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; External power supply 90% efficiency; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable; 60% post-consumer recycled plastic 14 15 16 17"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          },
+          {
+            "key": "Support service included",
+            "value": "HP 3y Onsite w/Predictive Detection Alerts/TRV MWS. For terms and conditions, please visit https://h20195.www2.hp.com/v2/GetPDF.aspx/4AA7-8543EEE & https://www8.hp.com/h20195/v2/getpdf.aspx/4AA5-7123EENG.pdf"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/go6eei5prf/png/go6eei5prf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/rnk4hdqtyn/png/rnk4hdqtyn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/zhtctrdchf/png/zhtctrdchf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/sfaorrhoah/png/sfaorrhoah.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/g7wt1toamo/png/g7wt1toamo.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP ZBook 8 G1as 14 inch Mobile Workstation PC Wolf Pro Security Edition (B72XHET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B72XHET",
+    "product_id": "2103251145",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103251145",
+    "category": "Workstations",
+    "overview": "Pro-level performance combines with true mobility in this sleek and powerful AI PC mobile workstation.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "AMD Ryzen™ AI 9 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "AMD Ryzen™ AI 9 HX 375 (up to 5.1 GHz max boost clock, 24 MB L3 cache, 12 cores, 24 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "AMD integrated SoC"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nAMD Radeon™ 890M Graphics 4 5 6"
+          },
+          {
+            "key": "Memory",
+            "value": "64 GB DDR5-5600 MT/s (2 x 32 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM; supports dual channel"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ TLC SSD"
+          },
+          {
+            "key": "Display",
+            "value": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Display",
+            "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Touchscreen",
+            "value": "Yes"
+          },
+          {
+            "key": "Color gamut",
+            "value": "100% sRGB"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "31.56 x 22.2 x 1.89 cm (Dimensions vary by configuration)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 1.44 kg (Weight varies by configuration and components.)"
+          },
+          {
+            "key": "Security Software Licenses",
+            "value": "HP Wolf Pro Security Edition (1 year) 10"
+          },
+          {
+            "key": "Battery type",
+            "value": "HP Long Life 3-cell, 62 Wh Li-ion polymer"
+          },
+          {
+            "key": "Battery recharge time",
+            "value": "Supports battery fast charge: approximately 50% in 30 minutes 11"
+          },
+          {
+            "key": "Wireless",
+            "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP Premium Keyboard – spill-resistant, backlit keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP IR AI camera"
+          },
+          {
+            "key": "Audio",
+            "value": "Audio by Poly Studio, dual stereo speakers, HP World Facing Microphone dual array digital microphones, functions keys for volume up and down, combo microphone/headphone jack, HD audio"
+          },
+          {
+            "key": "Pointing device",
+            "value": "Clickpad with multi-touch gesture support, taps enabled as default"
+          },
+          {
+            "key": "Ports",
+            "value": "Left side 1 HDMI 2.1; 1 headphone/microphone combo; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) 12 13 14\n\nRight side 1 security lock slot; 1 RJ-45 Ethernet port; 1 USB Type-A 5Gbps signaling rate (powered); 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4)"
+          },
+          {
+            "key": "Power",
+            "value": "HP 140 W USB Type-C® slim adapter 3"
+          },
+          {
+            "key": "Fingerprint reader",
+            "value": "Fingerprint reader"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; External power supply 90% efficiency; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable; 60% post-consumer recycled plastic 15 16 17 18"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/go6eei5prf/png/go6eei5prf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/rnk4hdqtyn/png/rnk4hdqtyn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/zhtctrdchf/png/zhtctrdchf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/g7wt1toamo/png/g7wt1toamo.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fpuxpaib3s/png/fpuxpaib3s.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP ZBook 8 G1as 14 inch Mobile Workstation PC Wolf Pro Security Edition (B72XJET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "B72XJET",
+    "product_id": "2103251141",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103251141",
+    "category": "Workstations",
+    "overview": "Pro-level performance combines with true mobility in this sleek and powerful AI PC mobile workstation.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "AMD Ryzen™ AI 9 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "AMD Ryzen™ AI 9 HX 375 (up to 5.1 GHz max boost clock, 24 MB L3 cache, 12 cores, 24 threads) 2 3"
+          },
+          {
+            "key": "Chipset",
+            "value": "AMD integrated SoC"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nAMD Radeon™ 890M Graphics 4 5 6"
+          },
+          {
+            "key": "Memory",
+            "value": "64 GB DDR5-5600 MT/s (2 x 32 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM; supports dual channel"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ TLC SSD"
+          },
+          {
+            "key": "Display",
+            "value": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Display",
+            "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 800 nits, 100% sRGB, HP Sure View Reflect integrated privacy screen 7 8 9"
+          },
+          {
+            "key": "Touchscreen",
+            "value": "Yes"
+          },
+          {
+            "key": "Color gamut",
+            "value": "100% sRGB"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "31.56 x 22.2 x 1.89 cm (Dimensions vary by configuration)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 1.44 kg (Weight varies by configuration and components.)"
+          },
+          {
+            "key": "Security Software Licenses",
+            "value": "HP Wolf Pro Security Edition (1 year) 10"
+          },
+          {
+            "key": "Battery type",
+            "value": "HP Long Life 3-cell, 62 Wh Li-ion polymer"
+          },
+          {
+            "key": "Battery recharge time",
+            "value": "Supports battery fast charge: approximately 50% in 30 minutes 11"
+          },
+          {
+            "key": "Wireless",
+            "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP Premium Keyboard – spill-resistant, backlit keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP IR AI camera"
+          },
+          {
+            "key": "Audio",
+            "value": "Audio by Poly Studio, dual stereo speakers, HP World Facing Microphone dual array digital microphones, functions keys for volume up and down, combo microphone/headphone jack, HD audio"
+          },
+          {
+            "key": "Pointing device",
+            "value": "Clickpad with multi-touch gesture support, taps enabled as default"
+          },
+          {
+            "key": "Ports",
+            "value": "Left side 1 HDMI 2.1; 1 headphone/microphone combo; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) 12 13 14\n\nRight side 1 security lock slot; 1 RJ-45 Ethernet port; 1 USB Type-A 5Gbps signaling rate (powered); 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4)"
+          },
+          {
+            "key": "Power",
+            "value": "HP 140 W USB Type-C® slim adapter 3"
+          },
+          {
+            "key": "Fingerprint reader",
+            "value": "Fingerprint reader"
+          },
+          {
+            "key": "Ecolabels",
+            "value": "TCO Certified"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; Bulk packaging available; External power supply 90% efficiency; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable; 60% post-consumer recycled plastic 15 16 17 18"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/go6eei5prf/png/go6eei5prf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/rnk4hdqtyn/png/rnk4hdqtyn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/zhtctrdchf/png/zhtctrdchf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/fpuxpaib3s/png/fpuxpaib3s.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/sfaorrhoah/png/sfaorrhoah.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP Z2 Mini G1a Workstation Desktop PC (A40MXET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "A40MXET",
+    "product_id": "2103118686",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103118686",
+    "category": "Workstations",
+    "overview": "Unlock workflows previously not possible on a mini workstation to take on complex AI accelerated work.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro 1"
+          },
+          {
+            "key": "Processor family",
+            "value": "AMD Ryzen™ AI Max PRO processor"
+          },
+          {
+            "key": "Processor",
+            "value": "AMD Ryzen™ AI MAX PRO 390 (up to 5.0 GHz max boost clock, 64 MB L3 cache, 12 cores, 24 threads) 2 3"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nAMD Radeon™ 8050S Graphics"
+          },
+          {
+            "key": "Memory",
+            "value": "32 GB LPDDR5x-8533 MT/s (onboard)"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® Gen4 NVMe™ TLC M.2 SSD"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "8.55 x 16.8 x 20 cm (Standard desktop orientation.)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 2.3 kg (Exact weights depend upon configuration (System weight only))"
+          },
+          {
+            "key": "Wireless",
+            "value": "MediaTek Wi-Fi 7 MT7925 (2x2) and Bluetooth® 5.4 wireless card"
+          },
+          {
+            "key": "Network interface",
+            "value": "Realtek RTL8125BPH-CG GbE"
+          },
+          {
+            "key": "Form factor",
+            "value": "Mini"
+          },
+          {
+            "key": "Audio",
+            "value": "Realtek ALC3205-VA2-CG, 2.0W internal mono speaker"
+          },
+          {
+            "key": "Expansion slots",
+            "value": "2 M.2 2280 PCIe 4 x4; 1 M.2 2230 for WLAN"
+          },
+          {
+            "key": "Ports",
+            "value": "Side 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1); 1 headphone/microphone combo; 1 USB Type-A 10Gbps signaling rate (1 charging)\n\nRear 2 USB Type-A 10Gbps signaling rate; 1 RJ-45; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1); 2 USB Type-A 480Mbps signaling rate; 2 Mini DisplayPort™ 2.1"
+          },
+          {
+            "key": "Power",
+            "value": "300 W internal power adapter, up to 92% efficiency, active PFC"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Bulk packaging available; 10% ITE-derived closed loop plastic; Product Carbon Footprint; Contains at least 65% post-consumer recycled plastic; Contains at least 20% post-industrial recycled steel; System has a QR code enabled experience where the user has access to a product portal – beginning December 2025, this is complete with product feature highlights, sustainability information, getting started guides, and direct setup and support options; New Energy Consumption dashboard available to customers providing timely carbon usage including recommended actions users can take to decrease carbon footprint 4 5 6"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/1) limited warranty includes 1 year of parts, labor and on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          },
+          {
+            "key": "Support service included",
+            "value": "HP 3y NBD Onsite WS Bundling. For terms and conditions, please visit https://h20195.www2.hp.com/v2/GetPDF.aspx/4AA5-6385EEE & https://www8.hp.com/h20195/v2/getpdf.aspx/4AA5-7123EENG.pdf"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/yy8jblaeka/png/yy8jblaeka.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/0jnrmxo6jw/png/0jnrmxo6jw.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/kap9178vht/png/kap9178vht.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/du5oeu8ycn/png/du5oeu8ycn.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  },
+  {
+    "title": "HP ZBook 8 G1i 14 inch Mobile Workstation PC Wolf Pro Security Edition (A3ZX2ET)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "A3ZX2ET",
+    "product_id": "2103130990",
+    "url": "https://www.hp.com/ng-en/products/workstations/product-details/2103130990",
+    "category": "Workstations",
+    "overview": "Pro-level performance combines with true mobility in this sleek and powerful AI workstation.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Operating system",
+            "value": "Windows 11 Pro"
+          },
+          {
+            "key": "Processor family",
+            "value": "Intel® Core™ Ultra 7 processor"
+          },
+          {
+            "key": "Processor",
+            "value": "Intel® Core™ Ultra 7 255H (up to 5.1 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 16 cores, 16 threads) 1 2"
+          },
+          {
+            "key": "Chipset",
+            "value": "Intel® integrated SoC"
+          },
+          {
+            "key": "Graphics",
+            "value": "Integrated,\n\nIntel® Arc™ 140T GPU 3 4"
+          },
+          {
+            "key": "Graphics",
+            "value": "Discrete,\n\nNVIDIA RTX™ 500 Ada Generation Laptop GPU (4 GB GDDR6 dedicated) 5"
+          },
+          {
+            "key": "Memory",
+            "value": "32 GB DDR5-5600 MT/s (1 x 32 GB)"
+          },
+          {
+            "key": "Memory Slots",
+            "value": "2 SODIMM; supports dual channel"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "1 TB PCIe® NVMe™ M.2 SSD"
+          },
+          {
+            "key": "Display",
+            "value": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 400 nits, 100% sRGB"
+          },
+          {
+            "key": "Display",
+            "value": "35.6 cm (14\") diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 400 nits, 100% sRGB"
+          },
+          {
+            "key": "Color gamut",
+            "value": "100% sRGB"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "31.56 x 22.2 x 1.89 cm (Dimensions vary by configuration)"
+          },
+          {
+            "key": "Weight",
+            "value": "Starting at 1.45 kg (Weight varies by configuration and components.)"
+          },
+          {
+            "key": "Security Software Licenses",
+            "value": "HP Wolf Pro Security Edition (1 year) 6"
+          },
+          {
+            "key": "Battery type",
+            "value": "HP Long Life 8-cell, 77 Wh polymer"
+          },
+          {
+            "key": "Battery recharge time",
+            "value": "Supports battery fast charge: approximately 50% in 30 minutes 7"
+          },
+          {
+            "key": "Wireless",
+            "value": "Intel® Wi-Fi 7 BE201 (2x2) and Bluetooth® 5.4 wireless card, non-vPro®"
+          },
+          {
+            "key": "Network interface",
+            "value": "Intel® I219-V GbE, non-vPro®"
+          },
+          {
+            "key": "Keyboard",
+            "value": "HP Premium Keyboard – spill resistant, backlit keyboard"
+          },
+          {
+            "key": "Camera",
+            "value": "5 MP IR AI camera"
+          },
+          {
+            "key": "Audio",
+            "value": "Audio by Poly Studio, dual stereo speakers, HP World Facing Microphone dual array digital microphones, functions keys for volume up and down, combo microphone/headphone jack, HD audio"
+          },
+          {
+            "key": "Pointing device",
+            "value": "Clickpad with multi-touch gesture support"
+          },
+          {
+            "key": "Ports",
+            "value": "Left side 1 HDMI 2.1; 1 headphone/microphone combo; 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1) 8 9\n\nRight side 1 security lock slot; 1 RJ-45 Ethernet port; 1 USB Type-A 5Gbps signaling rate (powered); 1 USB Type-C® 20Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4)"
+          },
+          {
+            "key": "Power",
+            "value": "HP 140 W USB Type-C® slim adapter 10"
+          },
+          {
+            "key": "Fingerprint reader",
+            "value": "Fingerprint reader"
+          },
+          {
+            "key": "Sustainability specifications",
+            "value": "Low halogen; 40% post-consumer recycled plastic; Bulk packaging available; External power supply 90% efficiency; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable 11 12 13 14"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "1 year (1/1/0) limited warranty includes 1 year of parts and labor. No on-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply."
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/foardzq7p2/png/foardzq7p2.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://www.hp.com/content/dam/hp-com/product-catalog/copilot-color.svg",
+      "https://hp.widen.net/content/j0njk66yii/png/j0njk66yii.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/b1hluusakr/png/b1hluusakr.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/5hrubo1ee1/png/5hrubo1ee1.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/nzyviwp6jk/png/nzyviwp6jk.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true,
+    "filters": {
+      "types": [
+        {
+          "name": "Tower PCs",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "brands": [
+        {
+          "name": "HP",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "processor": [
+        {
+          "name": "Intel Core i7",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ],
+      "storage_capacity": [
+        {
+          "name": "256 GB",
+          "type": "Tower PCs",
+          "sub_category": "Desktop PCs"
+        }
+      ]
+    }
+  }
+]

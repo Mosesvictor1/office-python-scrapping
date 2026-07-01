@@ -1,0 +1,1678 @@
+{
+  "Stationery": {
+    "subCategories": [
+      {
+        "id": 2,
+        "name": "School Stationery",
+        "slug": "school-stationery",
+        "image": "https://i.pinimg.com/736x/23/84/8e/23848e4fe454fa0b6b5f8d96b17809ae.jpg",
+        "is_active": true,
+        "created_at": "2026-04-03T16:06:57",
+        "products_count": 2611,
+        "subCategories": [
+          { "id": 3, "name": "Bag", "slug": "school-stationery-bag", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:58", "products_count": 0, "subCategories": [] },
+          { "id": 4, "name": "Coloring Product", "slug": "school-stationery-coloring-product", "image": "https://www.deliworld.com/uploads/image/100142128-75515/1.jpg", "is_active": true, "created_at": "2026-04-03T16:06:58", "products_count": 0, "subCategories": [] },
+          { "id": 5, "name": "Kids Education", "slug": "school-stationery-kids-education", "image": "https://www.deliworld.com/uploads/image/100124623-74314/1.jpg", "is_active": true, "created_at": "2026-04-03T16:06:58", "products_count": 0, "subCategories": [] },
+          { "id": 6, "name": "Paper Product", "slug": "school-stationery-paper-product", "image": "https://www.deliworld.com/uploads/image/100001861-7602/1.jpg", "is_active": true, "created_at": "2026-04-03T16:06:58", "products_count": 0, "subCategories": [] },
+          { "id": 7, "name": "School Supplies", "slug": "school-stationery-school-supplies", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:58", "products_count": 0, "subCategories": [] },
+          { "id": 423, "name": "Eraser", "slug": "stationery-writing-school-eraser", "image": null, "is_active": true, "created_at": "2026-04-07T14:12:46", "products_count": 0, "subCategories": [] },
+          { "id": 424, "name": "Art Series", "slug": "stationery-writing-school-art-series", "image": null, "is_active": true, "created_at": "2026-04-07T14:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 425, "name": "Math Instrument", "slug": "stationery-writing-school-math-instrument", "image": null, "is_active": true, "created_at": "2026-04-07T14:14:05", "products_count": 0, "subCategories": [] },
+          { "id": 426, "name": "Pencil Lead", "slug": "stationery-writing-school-pencil-lead", "image": null, "is_active": true, "created_at": "2026-04-07T14:14:49", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "School Stationery", "name": "bagpack", "type": "Bag" },
+            { "sub_category": "School Stationery", "name": "storage bag", "type": "Bag" },
+            { "sub_category": "School Stationery", "name": "pencil pouch", "type": "Bag" },
+            { "sub_category": "School Stationery", "name": "pencil case", "type": "Bag" },
+            { "sub_category": "School Stationery", "name": "scholar wares", "type": "Coloring Product" },
+            { "sub_category": "School Stationery", "name": "pencil", "type": "Coloring Product" },
+            { "sub_category": "School Stationery", "name": "art supplies", "type": "Coloring Product" },
+            { "sub_category": "School Stationery", "name": "sketch marker", "type": "Coloring Product" },
+            { "sub_category": "School Stationery", "name": "educational toy", "type": "Kids Education" },
+            { "sub_category": "School Stationery", "name": "note pads", "type": "Paper Product" },
+            { "sub_category": "School Stationery", "name": "Eva cover notebook", "type": "Paper Product" },
+            { "sub_category": "School Stationery", "name": "Rotary Pencil Sharpener", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Correction Product", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Pencil Cap", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Book Cover", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Electric Rotary Pencil Sharpener", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Correction Tape", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "Sharpener", "type": "School Supplies" }
+          ],
+          "brands": [
+            { "sub_category": "School Stationery", "name": "Deli", "type": "Bag" },
+            { "sub_category": "School Stationery", "name": "Deli", "type": "Coloring Product" },
+            { "sub_category": "School Stationery", "name": "Deli", "type": "Kids Education" },
+            { "sub_category": "School Stationery", "name": "Deli", "type": "Paper Product" },
+            { "sub_category": "School Stationery", "name": "Deli", "type": "School Supplies" },
+            { "sub_category": "School Stationery", "name": "M&G", "type": "Eraser" },
+            { "sub_category": "School Stationery", "name": "M&G", "type": "Art Series" },
+            { "sub_category": "School Stationery", "name": "M&G", "type": "Math Instrument" },
+            { "sub_category": "School Stationery", "name": "M&G", "type": "Pencil Lead" }
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "Office Supplies",
+        "slug": "office-supplies",
+        "image": "https://res.cloudinary.com/decbrtduj/image/upload/v1775237039/q8vo3283rexlm3pkfex3.jpg",
+        "is_active": true,
+        "created_at": "2026-04-03T16:06:59",
+        "products_count": 1138,
+        "subCategories": [
+          { "id": 9, "name": "Stapler & Punches", "slug": "office-supplies-stapler-punches", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:59", "products_count": 0, "subCategories": [] },
+          { "id": 10, "name": "Office Life", "slug": "office-supplies-office-life", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:59", "products_count": 0, "subCategories": [] },
+          { "id": 11, "name": "Calculator", "slug": "office-supplies-calculator", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:59", "products_count": 0, "subCategories": [] },
+          { "id": 12, "name": "File & Folder", "slug": "office-supplies-file-folder", "image": null, "is_active": true, "created_at": "2026-04-03T16:06:59", "products_count": 0, "subCategories": [] },
+          { "id": 13, "name": "Office Paper", "slug": "office-supplies-office-paper", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:00", "products_count": 0, "subCategories": [] },
+          { "id": 14, "name": "Desktop Supplies", "slug": "office-supplies-desktop-supplies", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:00", "products_count": 0, "subCategories": [] },
+          { "id": 15, "name": "Organization", "slug": "office-supplies-organization", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:00", "products_count": 0, "subCategories": [] },
+          { "id": 427, "name": "Id card holder & lanyard", "slug": "stationery-office-supply", "image": null, "is_active": true, "created_at": "2026-04-07T15:28:31", "products_count": 0, "subCategories": [] },
+          { "id": 428, "name": "Pen Holder", "slug": "stationery-office-pen-holder", "image": null, "is_active": true, "created_at": "2026-04-07T15:29:27", "products_count": 0, "subCategories": [] },
+          { "id": 429, "name": "Utility Knife", "slug": "stationery-office-utility-pen", "image": null, "is_active": true, "created_at": "2026-04-07T15:30:17", "products_count": 0, "subCategories": [] },
+          { "id": 433, "name": "Staples", "slug": "stationery-office-staple", "image": null, "is_active": true, "created_at": "2026-04-07T17:37:40", "products_count": 0, "subCategories": [] },
+          { "id": 434, "name": "Paper Punches", "slug": "stationery-office-supplies-paper-punches", "image": null, "is_active": true, "created_at": "2026-04-07T17:41:31", "products_count": 0, "subCategories": [] },
+          { "id": 435, "name": "Staple Removers", "slug": "stationery-office-supplies-staple-removals", "image": null, "is_active": true, "created_at": "2026-04-07T17:42:12", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Office Supplies", "name": "staplers", "type": "Stapler & Punches" },
+            { "sub_category": "Office Supplies", "name": "punch", "type": "Stapler & Punches" },
+            { "sub_category": "Office Supplies", "name": "punch accessories", "type": "Stapler & Punches" },
+            { "sub_category": "Office Supplies", "name": "globe", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "map", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "cleaning", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "magnifier", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "wall clock", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "alarm clock", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "key management box", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "suggestion box", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "healthy work", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "box file", "type": "File & Folder" },
+            { "sub_category": "Office Supplies", "name": "folder", "type": "File & Folder" },
+            { "sub_category": "Office Supplies", "name": "copy paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "cash register paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "colored copy paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "inkjet photo paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "carbon paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "color ink jet paper", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "binder clip", "type": "Desktop Supplies" },
+            { "sub_category": "Office Supplies", "name": "file tray", "type": "Organization" },
+            { "sub_category": "Office Supplies", "name": "home living organizer", "type": "Organization" },
+            { "sub_category": "Office Supplies", "name": "desk organizer", "type": "Organization" }
+          ],
+          "brands": [
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Stapler & Punches" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Office Life" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Calculator" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "File & Folder" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Office Paper" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Organization" },
+            { "sub_category": "Office Supplies", "name": "Deli", "type": "Desktop Supplies" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "Stapler & Punches" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "Calculator" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "File & Folder" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "Id card holder & lanyard" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "Pen Holder" },
+            { "sub_category": "Office Supplies", "name": "M&G", "type": "Utility Knife" },
+            { "sub_category": "Office Supplies", "name": "Kangaro", "type": "Staples" },
+            { "sub_category": "Office Supplies", "name": "Kangaro", "type": "Paper Punches" },
+            { "sub_category": "Office Supplies", "name": "Kangaro", "type": "Staple Removers" }
+          ]
+        }
+      },
+      {
+        "id": 16,
+        "name": "Writing Instrument",
+        "slug": "writing-instrument",
+        "image": "https://i.pinimg.com/1200x/fd/78/f9/fd78f9b0e564154c2df438382b9e93ec.jpg",
+        "is_active": true,
+        "created_at": "2026-04-03T16:07:00",
+        "products_count": 1199,
+        "subCategories": [
+          { "id": 17, "name": "Gel Pen", "slug": "writing-instrument-gel-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:01", "products_count": 0, "subCategories": [] },
+          { "id": 18, "name": "Exam-Oriented Pen", "slug": "writing-instrument-exam-oriented-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:01", "products_count": 0, "subCategories": [] },
+          { "id": 19, "name": "Gel Pen Refill", "slug": "writing-instrument-gel-pen-refill", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:01", "products_count": 0, "subCategories": [] },
+          { "id": 20, "name": "Fountain Pen", "slug": "writing-instrument-fountain-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:01", "products_count": 0, "subCategories": [] },
+          { "id": 21, "name": "Desk Pen Stand", "slug": "writing-instrument-desk-pen-stand", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:02", "products_count": 0, "subCategories": [] },
+          { "id": 22, "name": "Ballpoint Pen", "slug": "writing-instrument-ballpoint-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:02", "products_count": 0, "subCategories": [] },
+          { "id": 23, "name": "Roller Pen", "slug": "writing-instrument-roller-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:02", "products_count": 0, "subCategories": [] },
+          { "id": 24, "name": "Permanent Marker", "slug": "writing-instrument-permanent-marker", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:02", "products_count": 0, "subCategories": [] },
+          { "id": 25, "name": "Dry Erase Marker", "slug": "writing-instrument-dry-erase-marker", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:02", "products_count": 0, "subCategories": [] },
+          { "id": 26, "name": "Highlighter", "slug": "writing-instrument-highlighter", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:03", "products_count": 0, "subCategories": [] },
+          { "id": 27, "name": "Paint Marker", "slug": "writing-instrument-paint-marker", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:03", "products_count": 0, "subCategories": [] },
+          { "id": 28, "name": "Mechanical Pencil & Leads", "slug": "writing-instrument-mechanical-pencil-leads", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:04", "products_count": 0, "subCategories": [] },
+          { "id": 29, "name": "Ink", "slug": "writing-instrument-ink", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:04", "products_count": 0, "subCategories": [] },
+          { "id": 30, "name": "Whiteboard Marker", "slug": "writing-instrument-whiteboard-marker", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:05", "products_count": 0, "subCategories": [] },
+          { "id": 31, "name": "Pigment Liner", "slug": "writing-instrument-pigment-liner", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:05", "products_count": 0, "subCategories": [] },
+          { "id": 32, "name": "Brush Pen", "slug": "writing-instrument-brush-pen", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:05", "products_count": 0, "subCategories": [] },
+          { "id": 421, "name": "Table pen", "slug": "stationery-writing-instrument-table-pen", "image": null, "is_active": true, "created_at": "2026-04-07T13:52:41", "products_count": 0, "subCategories": [] },
+          { "id": 422, "name": "Marker", "slug": "stationery-writing-marker", "image": null, "is_active": true, "created_at": "2026-04-07T14:05:29", "products_count": 0, "subCategories": [] },
+          { "id": 436, "name": "Begreen", "slug": "writing-instrument-begreen", "image": null, "is_active": true, "created_at": "2026-04-07T19:03:14", "products_count": 0, "subCategories": [] },
+          { "id": 437, "name": "Capless", "slug": "writing-instrument-capless", "image": null, "is_active": true, "created_at": "2026-04-07T19:03:32", "products_count": 0, "subCategories": [] },
+          { "id": 438, "name": "Frixion", "slug": "writing-instrument-frixion", "image": null, "is_active": true, "created_at": "2026-04-07T19:03:54", "products_count": 0, "subCategories": [] },
+          { "id": 439, "name": "Gel Ink Pen", "slug": "writing-instrument-gel-ink", "image": null, "is_active": true, "created_at": "2026-04-07T19:04:49", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Writing Instrument", "name": "Office Gel Pen", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "School Gel Pen", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "Erasable Gel Pen", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "Gel Pen", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "Color Gel Pen", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "Exam Gel Pen", "type": "Exam-Oriented Pen" },
+            { "sub_category": "Writing Instrument", "name": "refill", "type": "Gel Pen Refill" },
+            { "sub_category": "Writing Instrument", "name": "office gel pen", "type": "Gel Pen Refill" },
+            { "sub_category": "Writing Instrument", "name": "Pen/pearl pen", "type": "Fountain Pen" },
+            { "sub_category": "Writing Instrument", "name": "Mechanical pencil leads", "type": "Mechanical Pencil & Leads" },
+            { "sub_category": "Writing Instrument", "name": "Mechanical pencil", "type": "Mechanical Pencil & Leads" }
+          ],
+          "brands": [
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Exam-Oriented Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Gel Pen Refill" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Fountain Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Ballpoint Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Roller Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Permanent Marker" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Dry Erase Marker" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Highlighter" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Paint Marker" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Mechanical Pencil & Leads" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Ink" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Whiteboard Marker" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Pigment Liner" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Brush Pen" },
+            { "sub_category": "Writing Instrument", "name": "Deli", "type": "Marker" },
+            { "sub_category": "Writing Instrument", "name": "M&G", "type": "Gel Pen" },
+            { "sub_category": "Writing Instrument", "name": "M&G", "type": "Gel Pen Refill" },
+            { "sub_category": "Writing Instrument", "name": "M&G", "type": "Ballpoint Pen" },
+            { "sub_category": "Writing Instrument", "name": "M&G", "type": "Highlighter" },
+            { "sub_category": "Writing Instrument", "name": "M&G", "type": "Mechanical Pencil & Leads" },
+            { "sub_category": "Writing Instrument", "name": "Pilot", "type": "Ballpoint Pen" },
+            { "sub_category": "Writing Instrument", "name": "Pilot", "type": "Begreen" },
+            { "sub_category": "Writing Instrument", "name": "Pilot", "type": "Capless" },
+            { "sub_category": "Writing Instrument", "name": "Pilot", "type": "Frixion" },
+            { "sub_category": "Writing Instrument", "name": "Pilot", "type": "Gel Ink Pen" }
+          ]
+        }
+      },
+      {
+        "id": 33,
+        "name": "Stick Up",
+        "slug": "adhesives-and-tape",
+        "image": "https://i.pinimg.com/736x/16/72/cf/1672cf27c537d4eaab49e7e869d2d337.jpg",
+        "is_active": true,
+        "created_at": "2026-04-03T16:07:05",
+        "products_count": 494,
+        "subCategories": [
+          { "id": 34, "name": "Screen & Board Cleaner", "slug": "adhesives-screen-board-cleaner", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:05", "products_count": 0, "subCategories": [] },
+          { "id": 35, "name": "Sticky Notes", "slug": "adhesives-sticky-notes", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:06", "products_count": 0, "subCategories": [] },
+          { "id": 36, "name": "Tape Dispenser", "slug": "adhesives-tape-dispenser", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:06", "products_count": 0, "subCategories": [] },
+          { "id": 37, "name": "Carton Sealer", "slug": "adhesives-carton-sealer", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:06", "products_count": 0, "subCategories": [] },
+          { "id": 38, "name": "Adhesive Roller", "slug": "adhesives-adhesive-roller", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:06", "products_count": 0, "subCategories": [] },
+          { "id": 39, "name": "Tape", "slug": "adhesives-tape", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:06", "products_count": 0, "subCategories": [] },
+          { "id": 40, "name": "Glue Stick", "slug": "adhesives-glue-stick", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:07", "products_count": 0, "subCategories": [] },
+          { "id": 41, "name": "Liquid Glue", "slug": "adhesives-liquid-glue", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:07", "products_count": 0, "subCategories": [] },
+          { "id": 42, "name": "Super Glue", "slug": "adhesives-super-glue", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:07", "products_count": 0, "subCategories": [] },
+          { "id": 43, "name": "White Glue", "slug": "adhesives-white-glue", "image": null, "is_active": true, "created_at": "2026-04-03T16:07:07", "products_count": 0, "subCategories": [] },
+          { "id": 419, "name": "Correction series", "slug": "stationary-correction-series", "image": null, "is_active": true, "created_at": "2026-04-07T12:25:41", "products_count": 0, "subCategories": [] },
+          { "id": 420, "name": "Glue series", "slug": "stationary-glue-series", "image": null, "is_active": true, "created_at": "2026-04-07T12:27:37", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Stick Up", "name": "Packing Tape", "type": "Tape" },
+            { "sub_category": "Stick Up", "name": "Mounting Tape", "type": "Tape" },
+            { "sub_category": "Stick Up", "name": "Other Tapes", "type": "Tape" },
+            { "sub_category": "Stick Up", "name": "PVA Glue Stick", "type": "Glue Stick" },
+            { "sub_category": "Stick Up", "name": "PVP Glue Stick", "type": "Glue Stick" },
+            { "sub_category": "Stick Up", "name": "Transparent Glue Stick", "type": "Glue Stick" },
+            { "sub_category": "Stick Up", "name": "Other Glue Sticks", "type": "Glue Stick" },
+            { "sub_category": "Stick Up", "name": "Instant Dry Glue", "type": "Super Glue" },
+            { "sub_category": "Stick Up", "name": "Epoxy Glue", "type": "Super Glue" },
+            { "sub_category": "Stick Up", "name": "All Purpose Adhesive", "type": "Super Glue" }
+          ],
+          "brands": [
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Screen & Board Cleaner" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Sticky Notes" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Tape Dispenser" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Carton Sealer" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Adhesive Roller" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Tape" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Glue Stick" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Liquid Glue" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Super Glue" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "White Glue" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Correction series" },
+            { "sub_category": "Stick Up", "name": "Deli", "type": "Glue series" },
+            { "sub_category": "Stick Up", "name": "M&G", "type": "Glue series" },
+            { "sub_category": "Stick Up", "name": "M&G", "type": "Correction series" },
+            { "sub_category": "Stick Up", "name": "M&G", "type": "Sticky Notes" }
+          ]
+        }
+      },
+      {
+        "id": 51,
+        "name": "Office Equipment",
+        "slug": "office-equipment",
+        "image": "https://i.pinimg.com/736x/3b/5d/fe/3b5dfe6885edd8ef897dc7854dafaf1b.jpg",
+        "is_active": true,
+        "created_at": "2026-04-03T16:51:55",
+        "products_count": 445,
+        "subCategories": [
+          { "id": 52, "name": "Printing", "slug": "office-equipment-printing", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:04", "products_count": 0, "subCategories": [] },
+          { "id": 53, "name": "Paper Shredder", "slug": "office-equipment-paper-shredder", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:04", "products_count": 0, "subCategories": [] },
+          { "id": 54, "name": "Laminator", "slug": "office-equipment-laminator", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:04", "products_count": 0, "subCategories": [] },
+          { "id": 55, "name": "Safe Box", "slug": "office-equipment-safe-box", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:04", "products_count": 0, "subCategories": [] },
+          { "id": 56, "name": "Power Strip", "slug": "office-equipment-power-strip", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:04", "products_count": 0, "subCategories": [] },
+          { "id": 57, "name": "Smart Entrance Control", "slug": "office-equipment-smart-entrance", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:05", "products_count": 0, "subCategories": [] },
+          { "id": 58, "name": "Visual Communication", "slug": "office-equipment-visual-communication", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:05", "products_count": 0, "subCategories": [] },
+          { "id": 59, "name": "Access Control Equipment", "slug": "office-equipment-access-control", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:05", "products_count": 0, "subCategories": [] },
+          { "id": 60, "name": "Fingerprint Attendance Machine", "slug": "office-equipment-fingerprint-machine", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:05", "products_count": 0, "subCategories": [] },
+          { "id": 61, "name": "Household Label Printer", "slug": "office-equipment-label-printer", "image": null, "is_active": true, "created_at": "2026-04-03T16:57:06", "products_count": 0, "subCategories": [] },
+          { "id": 440, "name": "Shredder Accessories", "slug": "office-equipment-shredder-accessories", "image": null, "is_active": true, "created_at": "2026-04-08T15:10:25", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Office Equipment", "name": "Government", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Commercial", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Small Office", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Personal", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Supplies", "type": "Shredder Accessories" },
+            { "sub_category": "Office Equipment", "name": "All Paper Shredders", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Micro Cut Shredders", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Cross Cut Shredders", "type": "Paper Shredder" }
+          ],
+          "brands": [
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Printing" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Laminator" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Safe Box" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Power Strip" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Smart Entrance Control" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Visual Communication" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Access Control Equipment" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Fingerprint Attendance Machine" },
+            { "sub_category": "Office Equipment", "name": "Deli", "type": "Household Label Printer" },
+            { "sub_category": "Office Equipment", "name": "Fellowes", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Fellowes", "type": "Shredder Accessories" },
+            { "sub_category": "Office Equipment", "name": "HP", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Rexel", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "Rexel", "type": "Shredder Accessories" }
+          ],
+          "sheet_capacity": [
+            { "sub_category": "Office Equipment", "name": "10 sheets", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "15 sheets", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "20 sheets", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "30 sheets", "type": "Paper Shredder" },
+            { "sub_category": "Office Equipment", "name": "50+ sheets", "type": "Paper Shredder" }
+          ]
+        }
+      }
+    ]
+  },
+  "Computing": {
+    "subCategories": [
+      {
+        "id": 145,
+        "name": "Laptops",
+        "slug": "laptops",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10282701?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:00",
+        "products_count": 318,
+        "subCategories": [
+          { "id": 146, "name": "All laptops", "slug": "all_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:00", "products_count": 0, "subCategories": [] },
+          { "id": 147, "name": "Windows laptops", "slug": "windows_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 148, "name": "MacBook", "slug": "macbook", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 149, "name": "Chromebooks", "slug": "chromebooks", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:01", "products_count": 0, "subCategories": [] },
+          { "id": 150, "name": "Microsoft Surface", "slug": "microsoft_surface", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:02", "products_count": 0, "subCategories": [] },
+          { "id": 151, "name": "2 in 1 laptops", "slug": "2_in_1_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:02", "products_count": 0, "subCategories": [] },
+          { "id": 152, "name": "AI laptops", "slug": "ai_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:03", "products_count": 0, "subCategories": [] },
+          { "id": 472, "name": "Workstations", "slug": "laptops-workstations", "image": null, "is_active": true, "created_at": "2026-04-15T16:54:50", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Laptops", "name": "Windows laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AI laptops", "type": "AI laptops" },
+            { "sub_category": "Laptops", "name": "Student laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Copilot+ PCs", "type": "AI laptops" },
+            { "sub_category": "Laptops", "name": "Touchscreen laptops", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "Macbook", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "2 in 1 laptops", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "OLED laptops", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Chromebooks", "type": "Chromebooks" },
+            { "sub_category": "Laptops", "name": "Gaming laptops", "type": "Gaming laptops" }
+          ],
+          "brands": [
+            { "sub_category": "Laptops", "name": "APPLE", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "ASUS", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "LENOVO", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "HP", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "ACER", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "MICROSOFT", "type": "2-in-1 laptops" },
+            { "sub_category": "Laptops", "name": "SAMSUNG", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "MSI", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "DELL", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "RAZER", "type": "Gaming laptops" }
+          ],
+          "memory": [
+            { "sub_category": "Laptops", "name": "4 GB", "type": "Chromebooks" },
+            { "sub_category": "Laptops", "name": "8 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "16 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "32 GB", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "64 GB", "type": "Gaming laptops" }
+          ],
+          "processor": [
+            { "sub_category": "Laptops", "name": "Intel Core Ultra 7", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Apple M5", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "Intel Core i5", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AMD Ryzen 5", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "AMD Ryzen 7", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Snapdragon X Elite", "type": "AI laptops" }
+          ],
+          "screen_size": [
+            { "sub_category": "Laptops", "name": "13", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "14", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "15", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "16", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "17", "type": "Gaming laptops" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "Laptops", "name": "256 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "512 GB", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "1 TB", "type": "Gaming laptops" },
+            { "sub_category": "Laptops", "name": "2 TB", "type": "Gaming laptops" }
+          ],
+          "operating_system": [
+            { "sub_category": "Laptops", "name": "Windows 11 Home", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "Windows 11 Pro", "type": "Windows laptops" },
+            { "sub_category": "Laptops", "name": "macOS", "type": "MacBooks" },
+            { "sub_category": "Laptops", "name": "Chrome OS", "type": "Chromebooks" }
+          ]
+        }
+      },
+      {
+        "id": 153,
+        "name": "iPad, Tablets & eReaders",
+        "slug": "ipad_tablets_ereaders",
+        "image": "https://cdn.media.amplience.net/i/currysprod/M10277066_silver?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:03",
+        "products_count": 14,
+        "subCategories": [
+          { "id": 154, "name": "All tablets", "slug": "all_tablets", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:03", "products_count": 0, "subCategories": [] },
+          { "id": 155, "name": "Apple iPad", "slug": "apple_ipad", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:04", "products_count": 0, "subCategories": [] },
+          { "id": 156, "name": "Kids Tablets", "slug": "kids_tablets", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:04", "products_count": 0, "subCategories": [] },
+          { "id": 157, "name": "eReaders", "slug": "ereaders", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:04", "products_count": 0, "subCategories": [] },
+          { "id": 158, "name": "Tablet accessories", "slug": "tablet_accessories", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:05", "products_count": 0, "subCategories": [] },
+          { "id": 159, "name": "Tablet cases and keyboards", "slug": "tablet_cases_and_keyboards", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:05", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "iPad, Tablets & eReaders", "name": "Apple iPad", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "iPad mini", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "iPad Air", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "iPad Pro", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "Android tablets", "type": "Android tablets" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "Kids tablets", "type": "Kids tablets" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "eReaders", "type": "eReaders" }
+          ],
+          "brands": [
+            { "sub_category": "iPad, Tablets & eReaders", "name": "APPLE", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "SAMSUNG", "type": "Android tablets" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "AMAZON", "type": "eReaders" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "LENOVO", "type": "Android tablets" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "HONOR", "type": "Android tablets" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "iPad, Tablets & eReaders", "name": "64 GB", "type": "Android tablets" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "128 GB", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "256 GB", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "512 GB", "type": "Apple iPad" },
+            { "sub_category": "iPad, Tablets & eReaders", "name": "1 TB", "type": "Apple iPad" }
+          ]
+        }
+      },
+      {
+        "id": 160,
+        "name": "Computer Monitors",
+        "slug": "pc_monitors",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10286594?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:06",
+        "products_count": 111,
+        "subCategories": [
+          { "id": 161, "name": "PC monitors", "slug": "pc_monitors_sub", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:06", "products_count": 0, "subCategories": [] },
+          { "id": 162, "name": "Gaming monitors", "slug": "gaming_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:06", "products_count": 0, "subCategories": [] },
+          { "id": 163, "name": "4K monitors", "slug": "4k_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:07", "products_count": 0, "subCategories": [] },
+          { "id": 164, "name": "Curved monitors", "slug": "curved_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:07", "products_count": 0, "subCategories": [] },
+          { "id": 165, "name": "Under 22", "slug": "under_22_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:08", "products_count": 0, "subCategories": [] },
+          { "id": 166, "name": "23 - 24", "slug": "23_24_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:08", "products_count": 0, "subCategories": [] },
+          { "id": 167, "name": "25 - 26", "slug": "25_26_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:09", "products_count": 0, "subCategories": [] },
+          { "id": 168, "name": "27 - 31", "slug": "27_31_inch", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:09", "products_count": 0, "subCategories": [] },
+          { "id": 169, "name": "32 or more", "slug": "32_inch_or_more", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:10", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Computer Monitors", "name": "PC monitors", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "Gaming monitors", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "4K monitors", "type": "4K monitors" },
+            { "sub_category": "Computer Monitors", "name": "Curved monitors", "type": "Curved monitors" },
+            { "sub_category": "Computer Monitors", "name": "Dual mode monitors", "type": "Dual mode monitors" }
+          ],
+          "brands": [
+            { "sub_category": "Computer Monitors", "name": "LG", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "ASUS", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "PHILIPS", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "MSI", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "SAMSUNG", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "ACER", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "HP", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "DELL", "type": "4K monitors" }
+          ],
+          "screen_size": [
+            { "sub_category": "Computer Monitors", "name": "Up to 21", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "22 - 24", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "25 - 26", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "27 - 31", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "32 - 34", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "35 and above", "type": "Gaming monitors" }
+          ],
+          "panel_type": [
+            { "sub_category": "Computer Monitors", "name": "IPS", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "VA", "type": "Curved monitors" },
+            { "sub_category": "Computer Monitors", "name": "TN", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "OLED", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "Mini-LED", "type": "Gaming monitors" }
+          ],
+          "refresh_rate": [
+            { "sub_category": "Computer Monitors", "name": "60 Hz", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "75 Hz", "type": "PC monitors" },
+            { "sub_category": "Computer Monitors", "name": "144 Hz", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "240 Hz", "type": "Gaming monitors" },
+            { "sub_category": "Computer Monitors", "name": "360 Hz", "type": "Gaming monitors" }
+          ]
+        }
+      },
+      {
+        "id": 170,
+        "name": "Desktop PCs",
+        "slug": "desktop_pcs",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10273294?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:10",
+        "products_count": 251,
+        "subCategories": [
+          { "id": 171, "name": "All desktops", "slug": "all_desktops", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:10", "products_count": 0, "subCategories": [] },
+          { "id": 172, "name": "All-in-one PCs", "slug": "all_in_one_pcs", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:11", "products_count": 0, "subCategories": [] },
+          { "id": 173, "name": "Tower PCs", "slug": "tower_pcs", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:11", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Desktop PCs", "name": "All-in-one PCs", "type": "All-in-one PCs" },
+            { "sub_category": "Desktop PCs", "name": "Tower PCs", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Gaming PCs", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "iMac / Mac mini", "type": "iMac / Mac mini" }
+          ],
+          "brands": [
+            { "sub_category": "Desktop PCs", "name": "APPLE", "type": "iMac / Mac mini" },
+            { "sub_category": "Desktop PCs", "name": "HP", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "DELL", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "LENOVO", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "ACER", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "MSI", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "ASUS", "type": "Gaming PCs" }
+          ],
+          "processor": [
+            { "sub_category": "Desktop PCs", "name": "Intel Core i5", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Intel Core i7", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Intel Core i9", "type": "Gaming PCs" },
+            { "sub_category": "Desktop PCs", "name": "AMD Ryzen 5", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "AMD Ryzen 7", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "Apple M4", "type": "iMac / Mac mini" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "Desktop PCs", "name": "256 GB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "512 GB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "1 TB", "type": "Tower PCs" },
+            { "sub_category": "Desktop PCs", "name": "2 TB", "type": "Gaming PCs" }
+          ]
+        }
+      },
+      {
+        "id": 174,
+        "name": "Printers, Scanners and Ink",
+        "slug": "printers_scanners_ink",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10286817?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:12",
+        "products_count": 604,
+        "subCategories": [
+          { "id": 175, "name": "All printers", "slug": "all_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:12", "products_count": 0, "subCategories": [] },
+          { "id": 176, "name": "Inkjet printers", "slug": "inkjet_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:12", "products_count": 0, "subCategories": [] },
+          { "id": 177, "name": "Laser printers", "slug": "laser_printers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 178, "name": "Printer ink cartridges", "slug": "printer_ink_cartridges", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 179, "name": "Scanners", "slug": "scanners", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:13", "products_count": 0, "subCategories": [] },
+          { "id": 180, "name": "Enterprise Print", "slug": "enterprise-print", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:14", "products_count": 0, "subCategories": [] },
+          { "id": 181, "name": "Printer paper", "slug": "printer_paper", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:14", "products_count": 0, "subCategories": [] },
+          { "id": 476, "name": "Ink and Toner", "slug": "scanner-printer-ink-toner", "image": null, "is_active": true, "created_at": "2026-04-17T08:23:11", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Printers, Scanners and Ink", "name": "Inkjet printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Laser printers", "type": "Laser printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "All-in-one printers", "type": "All-in-one printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Photo printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Portable printers", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Printer ink cartridges", "type": "Printer ink cartridges" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "Scanners", "type": "Scanners" }
+          ],
+          "brands": [
+            { "sub_category": "Printers, Scanners and Ink", "name": "EPSON", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "CANON", "type": "Inkjet printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "HP", "type": "Laser printers" },
+            { "sub_category": "Printers, Scanners and Ink", "name": "BROTHER", "type": "Laser printers" }
+          ]
+        }
+      },
+      {
+        "id": 182,
+        "name": "Networking",
+        "slug": "networking",
+        "image": "https://static.tp-link.com/upload/image-line/Deco_BE65-5G_US_1.0_F_normal_20230110030241z.jpg",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:14",
+        "products_count": 272,
+        "subCategories": [
+          { "id": 183, "name": "Mesh Wi-Fi Systems", "slug": "mesh_wifi_systems", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:15", "products_count": 0, "subCategories": [] },
+          { "id": 184, "name": "Access Points", "slug": "Access_Points", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:15", "products_count": 0, "subCategories": [] },
+          { "id": 185, "name": "Mobile wifi", "slug": "network_switches", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:16", "products_count": 0, "subCategories": [] },
+          { "id": 186, "name": "Powerline adapters", "slug": "powerline_adapters", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:16", "products_count": 0, "subCategories": [] },
+          { "id": 187, "name": "Routers", "slug": "routers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:16", "products_count": 0, "subCategories": [] },
+          { "id": 188, "name": "WiFi range extenders", "slug": "wifi_range_extenders", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:17", "products_count": 0, "subCategories": [] },
+          { "id": 189, "name": "Adapters", "slug": "wireless_adapters", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:17", "products_count": 0, "subCategories": [] },
+          { "id": 473, "name": "Modems / Gateways", "slug": "networkings-modems-gateways", "image": null, "is_active": true, "created_at": "2026-04-15T18:18:47", "products_count": 0, "subCategories": [] },
+          { "id": 474, "name": "Home Office Networking", "slug": "networkings-Home-Office-Networking", "image": null, "is_active": true, "created_at": "2026-04-15T18:19:20", "products_count": 0, "subCategories": [] },
+          { "id": 475, "name": "Accessories", "slug": "networkings-Accessories", "image": null, "is_active": true, "created_at": "2026-04-15T18:19:45", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Networking", "name": "Routers", "type": "Routers" },
+            { "sub_category": "Networking", "name": "Mesh Wi-Fi systems", "type": "Mesh Wi-Fi systems" },
+            { "sub_category": "Networking", "name": "WiFi range extenders", "type": "WiFi range extenders" },
+            { "sub_category": "Networking", "name": "5G routers", "type": "Routers" },
+            { "sub_category": "Networking", "name": "Wi-Fi 7 Routers", "type": "Routers" },
+            { "sub_category": "Networking", "name": "Wi-Fi 6/6E Routers", "type": "Routers" }
+          ],
+          "brands": [
+            { "sub_category": "Networking", "name": "TP-LINK", "type": "Routers" },
+            { "sub_category": "Networking", "name": "NETGEAR", "type": "Routers" },
+            { "sub_category": "Networking", "name": "ASUS", "type": "Mesh Wi-Fi systems" },
+            { "sub_category": "Networking", "name": "LINKSYS", "type": "Routers" },
+            { "sub_category": "Networking", "name": "HUAWEI", "type": "Routers" }
+          ],
+          "wifi_standard": [
+            { "sub_category": "Networking", "name": "WiFi 5 (802.11ac)", "type": "Routers" },
+            { "sub_category": "Networking", "name": "WiFi 6 (802.11ax)", "type": "Routers" },
+            { "sub_category": "Networking", "name": "WiFi 6E", "type": "Routers" },
+            { "sub_category": "Networking", "name": "WiFi 7", "type": "Routers" }
+          ]
+        }
+      },
+      {
+        "id": 190,
+        "name": "Computer Accessories",
+        "slug": "computer_accessories",
+        "image": "https://resource.logitech.com/w_800,h_800,ar_1,c_pad,q_auto,f_auto/content/dam/logitech/en/products/combos/wave-keys-and-lift-hard-combo/gallery/us/wave-keys-lift-mouse-combo-gallery-graphite-1.png",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:18",
+        "products_count": 375,
+        "subCategories": [
+          { "id": 193, "name": "Headsets & microphones", "slug": "headsets_and_microphones", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:19", "products_count": 0, "subCategories": [] },
+          { "id": 195, "name": "Mice & Keyboard Combo", "slug": "mice_keyboard_combo", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:19", "products_count": 0, "subCategories": [] },
+          { "id": 196, "name": "Speakers", "slug": "speakers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:20", "products_count": 0, "subCategories": [] },
+          { "id": 197, "name": "Power and cables", "slug": "power_and_cables", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:20", "products_count": 0, "subCategories": [] },
+          { "id": 198, "name": "Webcams", "slug": "webcams", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:21", "products_count": 0, "subCategories": [] },
+          { "id": 199, "name": "Laptop and monitor stands", "slug": "laptop_and_monitor_stands", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:21", "products_count": 0, "subCategories": [] },
+          { "id": 483, "name": "Earbuds", "slug": "computer-accessories-earbuds", "image": null, "is_active": true, "created_at": "2026-04-20T15:08:47", "products_count": 0, "subCategories": [] },
+          { "id": 484, "name": "Chargers", "slug": "computer-accessories-chargers", "image": null, "is_active": true, "created_at": "2026-04-20T15:08:58", "products_count": 0, "subCategories": [] },
+          { "id": 485, "name": "Earphones", "slug": "computer-accessories-earphones", "image": null, "is_active": true, "created_at": "2026-04-20T15:09:20", "products_count": 0, "subCategories": [] },
+          { "id": 486, "name": "Havit gamenote", "slug": "computer-accessories-havit-gamenote", "image": null, "is_active": true, "created_at": "2026-04-20T15:09:46", "products_count": 0, "subCategories": [] },
+          { "id": 488, "name": "Laptop stands", "slug": "computer-accessories-laptop-stands", "image": null, "is_active": true, "created_at": "2026-04-20T15:10:26", "products_count": 0, "subCategories": [] },
+          { "id": 489, "name": "Microphone speakers", "slug": "computer-accessories-microphone-speakers", "image": null, "is_active": true, "created_at": "2026-04-20T15:10:47", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Computer Accessories", "name": "Keyboards", "type": "Keyboards" },
+            { "sub_category": "Computer Accessories", "name": "Mice", "type": "Mice" },
+            { "sub_category": "Computer Accessories", "name": "Webcams", "type": "Webcams" },
+            { "sub_category": "Computer Accessories", "name": "Headsets & microphones", "type": "Headsets & microphones" },
+            { "sub_category": "Computer Accessories", "name": "PC speakers", "type": "PC speakers" },
+            { "sub_category": "Computer Accessories", "name": "Hubs & docking stations", "type": "Hubs & docking stations" }
+          ],
+          "brands": [
+            { "sub_category": "Computer Accessories", "name": "LOGITECH", "type": "Keyboards" },
+            { "sub_category": "Computer Accessories", "name": "MICROSOFT", "type": "Keyboards" },
+            { "sub_category": "Computer Accessories", "name": "CORSAIR", "type": "Keyboards" },
+            { "sub_category": "Computer Accessories", "name": "RAZER", "type": "Keyboards" },
+            { "sub_category": "Computer Accessories", "name": "JABRA", "type": "Headsets & microphones" },
+            { "sub_category": "Computer Accessories", "name": "ANKER", "type": "Webcams" }
+          ]
+        }
+      },
+      {
+        "id": 200,
+        "name": "Data Storage",
+        "slug": "data_storage",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:21",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 201, "name": "Cloud storage", "slug": "cloud_storage", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:22", "products_count": 0, "subCategories": [] },
+          { "id": 202, "name": "External hard drives", "slug": "external_hard_drives", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:22", "products_count": 0, "subCategories": [] },
+          { "id": 203, "name": "Hard drive enclosures", "slug": "hard_drive_enclosures", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:23", "products_count": 0, "subCategories": [] },
+          { "id": 204, "name": "Solid State Drives", "slug": "solid_state_drives", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:23", "products_count": 0, "subCategories": [] },
+          { "id": 205, "name": "USB flash drives", "slug": "usb_flash_drives", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:23", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Data Storage", "name": "External hard drives", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "External SSDs", "type": "Solid state hard drives" },
+            { "sub_category": "Data Storage", "name": "USB flash drives", "type": "USB flash drives" },
+            { "sub_category": "Data Storage", "name": "Internal SSDs", "type": "Solid state hard drives" },
+            { "sub_category": "Data Storage", "name": "Memory cards", "type": "Memory cards" },
+            { "sub_category": "Data Storage", "name": "NAS drives", "type": "NAS drives" }
+          ],
+          "brands": [
+            { "sub_category": "Data Storage", "name": "SEAGATE", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "WESTERN DIGITAL", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "SANDISK", "type": "USB flash drives" },
+            { "sub_category": "Data Storage", "name": "SAMSUNG", "type": "Solid state hard drives" },
+            { "sub_category": "Data Storage", "name": "KINGSTON", "type": "USB flash drives" }
+          ],
+          "storage_capacity": [
+            { "sub_category": "Data Storage", "name": "64 GB", "type": "USB flash drives" },
+            { "sub_category": "Data Storage", "name": "128 GB", "type": "Solid state hard drives" },
+            { "sub_category": "Data Storage", "name": "500 GB", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "1 TB", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "2 TB", "type": "External hard drives" },
+            { "sub_category": "Data Storage", "name": "4 TB", "type": "External hard drives" }
+          ]
+        }
+      },
+      {
+        "id": 206,
+        "name": "Components & Upgrades",
+        "slug": "components_upgrades",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:24",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 207, "name": "RAM", "slug": "ram", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:24", "products_count": 0, "subCategories": [] },
+          { "id": 208, "name": "Graphics cards", "slug": "graphics_cards", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:25", "products_count": 0, "subCategories": [] },
+          { "id": 209, "name": "Internal SSDs", "slug": "internal_ssds", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:25", "products_count": 0, "subCategories": [] },
+          { "id": 210, "name": "Motherboards", "slug": "motherboards", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:25", "products_count": 0, "subCategories": [] },
+          { "id": 211, "name": "PC fans and coolers", "slug": "pc_fans_and_coolers", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:26", "products_count": 0, "subCategories": [] },
+          { "id": 212, "name": "PC power supplies", "slug": "pc_power_supplies", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:26", "products_count": 0, "subCategories": [] },
+          { "id": 213, "name": "Processors", "slug": "processors", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:26", "products_count": 0, "subCategories": [] },
+          { "id": 214, "name": "PC cases", "slug": "pc_cases", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:27", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Components & Upgrades", "name": "RAM / Computer memory", "type": "RAM / Computer memory" },
+            { "sub_category": "Components & Upgrades", "name": "Graphics cards", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "Internal SSDs", "type": "Internal SSDs" },
+            { "sub_category": "Components & Upgrades", "name": "Processors (CPUs)", "type": "Processors (CPUs)" },
+            { "sub_category": "Components & Upgrades", "name": "Motherboards", "type": "Motherboards" },
+            { "sub_category": "Components & Upgrades", "name": "PC cases & cooling", "type": "PC cases & cooling" },
+            { "sub_category": "Components & Upgrades", "name": "Power supply units (PSU)", "type": "Power supply units (PSU)" }
+          ],
+          "brands": [
+            { "sub_category": "Components & Upgrades", "name": "INTEL", "type": "Processors (CPUs)" },
+            { "sub_category": "Components & Upgrades", "name": "AMD", "type": "Processors (CPUs)" },
+            { "sub_category": "Components & Upgrades", "name": "NVIDIA", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "CORSAIR", "type": "RAM / Computer memory" },
+            { "sub_category": "Components & Upgrades", "name": "SAMSUNG", "type": "Internal SSDs" }
+          ],
+          "gpu_series": [
+            { "sub_category": "Components & Upgrades", "name": "NVIDIA GeForce RTX 4060", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "NVIDIA GeForce RTX 4070", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "NVIDIA GeForce RTX 5070", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "NVIDIA GeForce RTX 5090", "type": "Graphics cards" },
+            { "sub_category": "Components & Upgrades", "name": "AMD Radeon RX 9070 XT", "type": "Graphics cards" }
+          ]
+        }
+      },
+      {
+        "id": 224,
+        "name": "Laptop Bags and Cases",
+        "slug": "laptop_bags_and_cases",
+        "image": "https://yunpan.cdn.site.joinf.com/5275060314768347/eWpQ2twhRd.jpg",
+        "is_active": true,
+        "created_at": "2026-04-04T16:13:31",
+        "products_count": 37,
+        "subCategories": [
+          { "id": 225, "name": "Laptop bags and cases", "slug": "laptop_bags_cases", "image": null, "is_active": true, "created_at": "2026-04-04T16:13:31", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Laptop Bags and Cases", "name": "Laptop bags", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "Backpacks", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "Laptop sleeves", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "Laptop cases", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "Slipcases", "type": "Laptop bags and cases" }
+          ],
+          "brands": [
+            { "sub_category": "Laptop Bags and Cases", "name": "KENSINGTON", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "TARGUS", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "HP", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "DELL", "type": "Laptop bags and cases" },
+            { "sub_category": "Laptop Bags and Cases", "name": "ASUS", "type": "Laptop bags and cases" }
+          ]
+        }
+      },
+      {
+        "id": 479,
+        "name": "Smart Boards",
+        "slug": "tv-smart-boards",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-20T12:56:21",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 480, "name": "Horion", "slug": "tv-smart-boards-horion", "image": null, "is_active": true, "created_at": "2026-04-20T12:59:42", "products_count": 0, "subCategories": [] },
+          { "id": 481, "name": "Huawei", "slug": "tv-smart-boards-huawei", "image": null, "is_active": true, "created_at": "2026-04-20T12:59:56", "products_count": 0, "subCategories": [] },
+          { "id": 482, "name": "Sharp", "slug": "tv-smart-boards-sharp", "image": null, "is_active": true, "created_at": "2026-04-20T13:00:13", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "brands": [
+            { "sub_category": "Smart Boards", "name": "Horion", "type": "Smart Boards" },
+            { "sub_category": "Smart Boards", "name": "Huawei", "type": "Smart Boards" },
+            { "sub_category": "Smart Boards", "name": "Sharp", "type": "Smart Boards" }
+          ]
+        }
+      }
+    ]
+  },
+  "Gaming": {
+    "subCategories": [
+      {
+        "id": 227,
+        "name": "Consoles",
+        "slug": "consoles",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10281815?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:36:51",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 228, "name": "All consoles", "slug": "all_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:51", "products_count": 0, "subCategories": [] },
+          { "id": 229, "name": "PS5 consoles", "slug": "ps5_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:52", "products_count": 0, "subCategories": [] },
+          { "id": 230, "name": "PS5 Pro consoles", "slug": "ps5_pro_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:53", "products_count": 0, "subCategories": [] },
+          { "id": 231, "name": "Xbox Series X consoles", "slug": "xbox_series_x_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:54", "products_count": 0, "subCategories": [] },
+          { "id": 232, "name": "Xbox Series S consoles", "slug": "xbox_series_s_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:55", "products_count": 0, "subCategories": [] },
+          { "id": 233, "name": "Nintendo Switch consoles", "slug": "nintendo_switch_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:56", "products_count": 0, "subCategories": [] },
+          { "id": 234, "name": "Nintendo Switch 2 consoles", "slug": "nintendo_switch_2_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:57", "products_count": 0, "subCategories": [] },
+          { "id": 235, "name": "Handheld consoles", "slug": "handheld_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:57", "products_count": 0, "subCategories": [] },
+          { "id": 236, "name": "Refurbished consoles", "slug": "refurbished_consoles", "image": null, "is_active": true, "created_at": "2026-04-04T16:36:58", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Consoles", "name": "PS5 consoles", "type": "PS5 consoles" },
+            { "sub_category": "Consoles", "name": "PS5 Pro consoles", "type": "PS5 Pro consoles" },
+            { "sub_category": "Consoles", "name": "Xbox Series X consoles", "type": "Xbox Series X consoles" },
+            { "sub_category": "Consoles", "name": "Xbox Series S consoles", "type": "Xbox Series S consoles" },
+            { "sub_category": "Consoles", "name": "Nintendo Switch consoles", "type": "Nintendo Switch consoles" },
+            { "sub_category": "Consoles", "name": "Nintendo Switch 2 consoles", "type": "Nintendo Switch 2 consoles" },
+            { "sub_category": "Consoles", "name": "Handheld consoles", "type": "Handheld consoles" }
+          ],
+          "brands": [
+            { "sub_category": "Consoles", "name": "SONY", "type": "PS5 consoles" },
+            { "sub_category": "Consoles", "name": "MICROSOFT", "type": "Xbox consoles" },
+            { "sub_category": "Consoles", "name": "NINTENDO", "type": "Nintendo Switch consoles" }
+          ]
+        }
+      },
+      {
+        "id": 237,
+        "name": "Console Games",
+        "slug": "console_games",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-04T16:36:59",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 238, "name": "All console games", "slug": "all_console_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:00", "products_count": 0, "subCategories": [] },
+          { "id": 239, "name": "PS5 games", "slug": "ps5_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:01", "products_count": 0, "subCategories": [] },
+          { "id": 240, "name": "Xbox games", "slug": "xbox_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:02", "products_count": 0, "subCategories": [] },
+          { "id": 241, "name": "Nintendo Switch games", "slug": "nintendo_switch_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:03", "products_count": 0, "subCategories": [] },
+          { "id": 242, "name": "Nintendo Switch 2 games", "slug": "nintendo_switch_2_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:03", "products_count": 0, "subCategories": [] },
+          { "id": 243, "name": "Upcoming games", "slug": "upcoming_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:04", "products_count": 0, "subCategories": [] },
+          { "id": 244, "name": "Digital games", "slug": "digital_games", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:05", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Console Games", "name": "PS5 games", "type": "PS5 games" },
+            { "sub_category": "Console Games", "name": "Xbox games", "type": "Xbox games" },
+            { "sub_category": "Console Games", "name": "Nintendo Switch games", "type": "Nintendo Switch games" },
+            { "sub_category": "Console Games", "name": "Nintendo Switch 2 games", "type": "Nintendo Switch 2 games" },
+            { "sub_category": "Console Games", "name": "Digital games", "type": "Digital games" }
+          ],
+          "brands": [
+            { "sub_category": "Console Games", "name": "SONY", "type": "PS5 games" },
+            { "sub_category": "Console Games", "name": "MICROSOFT", "type": "Xbox games" },
+            { "sub_category": "Console Games", "name": "NINTENDO", "type": "Nintendo Switch games" }
+          ]
+        }
+      },
+      {
+        "id": 245,
+        "name": "Controllers",
+        "slug": "controllers",
+        "image": "https://cdn.media.amplience.net/i/currysprod/M10211929_white?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:05",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 246, "name": "All gaming controllers", "slug": "all_gaming_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:06", "products_count": 0, "subCategories": [] },
+          { "id": 247, "name": "PS5 controllers", "slug": "ps5_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:07", "products_count": 0, "subCategories": [] },
+          { "id": 248, "name": "Xbox controllers", "slug": "xbox_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:07", "products_count": 0, "subCategories": [] },
+          { "id": 249, "name": "Nintendo Switch controllers", "slug": "nintendo_switch_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:07", "products_count": 0, "subCategories": [] },
+          { "id": 250, "name": "Nintendo Switch 2 controllers", "slug": "nintendo_switch_2_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:08", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Controllers", "name": "PS5 controllers", "type": "PS5 controllers" },
+            { "sub_category": "Controllers", "name": "Xbox controllers", "type": "Xbox controllers" },
+            { "sub_category": "Controllers", "name": "Nintendo Switch controllers", "type": "Nintendo Switch controllers" },
+            { "sub_category": "Controllers", "name": "Nintendo Switch 2 controllers", "type": "Nintendo Switch 2 controllers" }
+          ],
+          "brands": [
+            { "sub_category": "Controllers", "name": "SONY", "type": "PS5 controllers" },
+            { "sub_category": "Controllers", "name": "MICROSOFT", "type": "Xbox controllers" },
+            { "sub_category": "Controllers", "name": "NINTENDO", "type": "Nintendo Switch controllers" },
+            { "sub_category": "Controllers", "name": "RAZER", "type": "Gaming controllers" },
+            { "sub_category": "Controllers", "name": "LOGITECH", "type": "Gaming controllers" }
+          ]
+        }
+      },
+      {
+        "id": 251,
+        "name": "Digital Downloads",
+        "slug": "digital_downloads",
+        "image": "https://cdn.media.amplience.net/i/currysprod/21776896?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:08",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 252, "name": "All digital downloads", "slug": "all_digital_downloads", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:08", "products_count": 0, "subCategories": [] },
+          { "id": 253, "name": "PlayStation gift cards", "slug": "playstation_gift_cards", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:09", "products_count": 0, "subCategories": [] },
+          { "id": 254, "name": "Xbox gift cards", "slug": "xbox_gift_cards", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:10", "products_count": 0, "subCategories": [] },
+          { "id": 255, "name": "Nintendo eShop cards", "slug": "nintendo_eshop_cards", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:10", "products_count": 0, "subCategories": [] },
+          { "id": 256, "name": "Steam gift cards", "slug": "steam_gift_cards", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:11", "products_count": 0, "subCategories": [] },
+          { "id": 257, "name": "PlayStation Plus", "slug": "playstation_plus", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:11", "products_count": 0, "subCategories": [] },
+          { "id": 258, "name": "Xbox Game Pass", "slug": "xbox_game_pass", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:12", "products_count": 0, "subCategories": [] },
+          { "id": 259, "name": "Nintendo Switch Online", "slug": "nintendo_switch_online", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:12", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Digital Downloads", "name": "PlayStation gift cards", "type": "PlayStation gift cards" },
+            { "sub_category": "Digital Downloads", "name": "Xbox gift cards", "type": "Xbox gift cards" },
+            { "sub_category": "Digital Downloads", "name": "Nintendo eShop cards", "type": "Nintendo eShop cards" },
+            { "sub_category": "Digital Downloads", "name": "Steam gift cards", "type": "Steam gift cards" },
+            { "sub_category": "Digital Downloads", "name": "PlayStation Plus", "type": "PlayStation Plus" },
+            { "sub_category": "Digital Downloads", "name": "Xbox Game Pass", "type": "Xbox Game Pass" },
+            { "sub_category": "Digital Downloads", "name": "Nintendo Switch Online", "type": "Nintendo Switch Online" }
+          ],
+          "brands": [
+            { "sub_category": "Digital Downloads", "name": "PLAYSTATION", "type": "PlayStation" },
+            { "sub_category": "Digital Downloads", "name": "XBOX", "type": "Xbox" },
+            { "sub_category": "Digital Downloads", "name": "NINTENDO", "type": "Nintendo" },
+            { "sub_category": "Digital Downloads", "name": "STEAM", "type": "Steam" }
+          ]
+        }
+      },
+      {
+        "id": 260,
+        "name": "PC Gaming",
+        "slug": "pc_gaming",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:13",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 261, "name": "Gaming laptops", "slug": "gaming_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:13", "products_count": 0, "subCategories": [] },
+          { "id": 262, "name": "Gaming desktops", "slug": "gaming_desktops", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:13", "products_count": 0, "subCategories": [] },
+          { "id": 263, "name": "Gaming monitors", "slug": "gaming_monitors", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:14", "products_count": 0, "subCategories": [] },
+          { "id": 264, "name": "Refurbished gaming laptops", "slug": "refurbished_gaming_laptops", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:14", "products_count": 0, "subCategories": [] },
+          { "id": 265, "name": "PC Gaming controllers", "slug": "pc_gaming_controllers", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:15", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "PC Gaming", "name": "Gaming laptops", "type": "Gaming laptops" },
+            { "sub_category": "PC Gaming", "name": "Gaming desktops", "type": "Gaming desktops" },
+            { "sub_category": "PC Gaming", "name": "Gaming monitors", "type": "Gaming monitors" }
+          ],
+          "brands": [
+            { "sub_category": "PC Gaming", "name": "MSI", "type": "Gaming laptops" },
+            { "sub_category": "PC Gaming", "name": "ASUS", "type": "Gaming laptops" },
+            { "sub_category": "PC Gaming", "name": "RAZER", "type": "Gaming laptops" },
+            { "sub_category": "PC Gaming", "name": "PCSPECIALIST", "type": "Gaming desktops" }
+          ]
+        }
+      },
+      {
+        "id": 266,
+        "name": "Virtual Reality",
+        "slug": "virtual_reality",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10270713?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:15",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 267, "name": "VR", "slug": "vr", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:16", "products_count": 0, "subCategories": [] },
+          { "id": 268, "name": "Virtual reality headsets", "slug": "virtual_reality_headsets", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:16", "products_count": 0, "subCategories": [] },
+          { "id": 269, "name": "Virtual reality accessories", "slug": "virtual_reality_accessories", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:16", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Virtual Reality", "name": "Virtual reality headsets", "type": "Virtual reality headsets" },
+            { "sub_category": "Virtual Reality", "name": "Virtual reality accessories", "type": "Virtual reality accessories" }
+          ],
+          "brands": [
+            { "sub_category": "Virtual Reality", "name": "META", "type": "VR" },
+            { "sub_category": "Virtual Reality", "name": "SONY", "type": "PS VR" },
+            { "sub_category": "Virtual Reality", "name": "HTC", "type": "VR" }
+          ]
+        }
+      },
+      {
+        "id": 270,
+        "name": "Simulation",
+        "slug": "simulation",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10257430?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:17",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 271, "name": "Flight simulator controls", "slug": "flight_simulator_controls", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:17", "products_count": 0, "subCategories": [] },
+          { "id": 272, "name": "Joysticks", "slug": "joysticks", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:18", "products_count": 0, "subCategories": [] },
+          { "id": 273, "name": "Gaming steering wheels", "slug": "gaming_steering_wheels", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:18", "products_count": 0, "subCategories": [] },
+          { "id": 274, "name": "Sim racing cockpits", "slug": "sim_racing_cockpits", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:19", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "brands": [
+            { "sub_category": "Simulation", "name": "LOGITECH", "type": "Simulation" },
+            { "sub_category": "Simulation", "name": "THRUSTMASTER", "type": "Simulation" }
+          ]
+        }
+      },
+      {
+        "id": 286,
+        "name": "Gaming Accessories",
+        "slug": "gaming_accessories",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10181330?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-04T16:37:25",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 287, "name": "Gaming headsets", "slug": "gaming_headsets", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:25", "products_count": 0, "subCategories": [] },
+          { "id": 288, "name": "Gaming keyboards", "slug": "gaming_keyboards", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:26", "products_count": 0, "subCategories": [] },
+          { "id": 289, "name": "Gaming mice", "slug": "gaming_mice", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:26", "products_count": 0, "subCategories": [] },
+          { "id": 290, "name": "Streaming equipment", "slug": "streaming_equipment", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:27", "products_count": 0, "subCategories": [] },
+          { "id": 291, "name": "Gaming mouse pads", "slug": "gaming_mouse_pads", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:27", "products_count": 0, "subCategories": [] },
+          { "id": 292, "name": "Gaming chairs", "slug": "gaming_chairs", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:28", "products_count": 0, "subCategories": [] },
+          { "id": 293, "name": "Gaming desks", "slug": "gaming_desks", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:28", "products_count": 0, "subCategories": [] },
+          { "id": 294, "name": "Gaming merchandise", "slug": "gaming_merchandise", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:29", "products_count": 0, "subCategories": [] },
+          { "id": 295, "name": "Chargers & cables", "slug": "chargers_and_cables", "image": null, "is_active": true, "created_at": "2026-04-04T16:37:30", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Gaming Accessories", "name": "Gaming headsets", "type": "Gaming headsets" },
+            { "sub_category": "Gaming Accessories", "name": "Gaming keyboards", "type": "Gaming keyboards" },
+            { "sub_category": "Gaming Accessories", "name": "Gaming mice", "type": "Gaming mice" },
+            { "sub_category": "Gaming Accessories", "name": "Gaming chairs", "type": "Gaming chairs" },
+            { "sub_category": "Gaming Accessories", "name": "Gaming desks", "type": "Gaming desks" }
+          ],
+          "brands": [
+            { "sub_category": "Gaming Accessories", "name": "RAZER", "type": "Gaming Accessories" },
+            { "sub_category": "Gaming Accessories", "name": "LOGITECH", "type": "Gaming Accessories" },
+            { "sub_category": "Gaming Accessories", "name": "STEELSERIES", "type": "Gaming Accessories" },
+            { "sub_category": "Gaming Accessories", "name": "CORSAIR", "type": "Gaming Accessories" }
+          ]
+        }
+      }
+    ]
+  },
+  "Phones": {
+    "subCategories": [
+      {
+        "id": 298,
+        "name": "Mobile Phones",
+        "slug": "mobile_phones",
+        "image": "https://cdn.media.amplience.net/i/currysprod/M10290119_blue?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:29:58",
+        "products_count": 330,
+        "subCategories": [
+          { "id": 299, "name": "Apple", "slug": "apple", "image": null, "is_active": true, "created_at": "2026-04-05T12:29:58", "products_count": 0, "subCategories": [] },
+          { "id": 300, "name": "Samsung", "slug": "samsung", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:00", "products_count": 0, "subCategories": [] },
+          { "id": 301, "name": "Tecno", "slug": "tecno", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:00", "products_count": 0, "subCategories": [] },
+          { "id": 302, "name": "Infinix", "slug": "infinix", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:01", "products_count": 0, "subCategories": [] },
+          { "id": 303, "name": "Itel", "slug": "itel", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:01", "products_count": 0, "subCategories": [] },
+          { "id": 304, "name": "Xiaomi", "slug": "xiaomi", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:02", "products_count": 0, "subCategories": [] },
+          { "id": 305, "name": "Redmi", "slug": "redmi", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:03", "products_count": 0, "subCategories": [] },
+          { "id": 307, "name": "Oppo", "slug": "oppo", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:04", "products_count": 0, "subCategories": [] },
+          { "id": 308, "name": "Vivo", "slug": "vivo", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:05", "products_count": 0, "subCategories": [] },
+          { "id": 309, "name": "Huawei", "slug": "huawei", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:05", "products_count": 0, "subCategories": [] },
+          { "id": 311, "name": "Nokia", "slug": "nokia", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:06", "products_count": 0, "subCategories": [] },
+          { "id": 494, "name": "Google Pixel", "slug": "google-pixel-mobile-phones", "image": null, "is_active": true, "created_at": "2026-04-27T16:56:52", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Mobile Phones", "name": "All mobile phones", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "AI phones", "type": "AI phones" },
+            { "sub_category": "Mobile Phones", "name": "Foldable and flip phones", "type": "Foldable and flip phones" },
+            { "sub_category": "Mobile Phones", "name": "Galaxy S25", "type": "Samsung" },
+            { "sub_category": "Mobile Phones", "name": "Galaxy S26", "type": "Samsung" },
+            { "sub_category": "Mobile Phones", "name": "iPhone 17", "type": "Apple" },
+            { "sub_category": "Mobile Phones", "name": "iPhone Air", "type": "Apple" },
+            { "sub_category": "Mobile Phones", "name": "Pixel 10", "type": "Google Pixel" }
+          ],
+          "brands": [
+            { "sub_category": "Mobile Phones", "name": "Apple", "type": "Apple iPhone" },
+            { "sub_category": "Mobile Phones", "name": "Samsung", "type": "Samsung Galaxy" },
+            { "sub_category": "Mobile Phones", "name": "Tecno", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "Infinix", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "Xiaomi", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "Google", "type": "Google Pixel" }
+          ],
+          "storage": [
+            { "sub_category": "Mobile Phones", "name": "128 GB", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "256 GB", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "512 GB", "type": "All mobile phones" }
+          ],
+          "ram": [
+            { "sub_category": "Mobile Phones", "name": "4 GB", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "8 GB", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "12 GB", "type": "All mobile phones" },
+            { "sub_category": "Mobile Phones", "name": "16 GB", "type": "All mobile phones" }
+          ]
+        }
+      },
+      {
+        "id": 314,
+        "name": "Mobile Phone Accessories",
+        "slug": "mobile_phone_accessories",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10216759?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:30:08",
+        "products_count": 236,
+        "subCategories": [
+          { "id": 315, "name": "Phone chargers", "slug": "phone_chargers", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:09", "products_count": 0, "subCategories": [] },
+          { "id": 316, "name": "Data cables", "slug": "data_cables", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:09", "products_count": 0, "subCategories": [] },
+          { "id": 317, "name": "Wireless Chargers", "slug": "wireless_chargers", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:10", "products_count": 0, "subCategories": [] },
+          { "id": 318, "name": "Power banks", "slug": "power_banks", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:10", "products_count": 0, "subCategories": [] },
+          { "id": 319, "name": "Phone cases", "slug": "phone_cases", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:11", "products_count": 0, "subCategories": [] },
+          { "id": 320, "name": "Dock Station", "slug": "dock_station", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:12", "products_count": 0, "subCategories": [] },
+          { "id": 321, "name": "Holder", "slug": "holder", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:12", "products_count": 0, "subCategories": [] },
+          { "id": 322, "name": "In Car accessories", "slug": "in_car_accessories", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:12", "products_count": 0, "subCategories": [] },
+          { "id": 323, "name": "Power strip", "slug": "power_strip_phones", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:13", "products_count": 0, "subCategories": [] },
+          { "id": 324, "name": "Mobile broadband", "slug": "mobile_broadband", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:13", "products_count": 0, "subCategories": [] },
+          { "id": 325, "name": "Phone straps", "slug": "phone_straps", "image": null, "is_active": true, "created_at": "2026-04-05T12:30:14", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Mobile Phone Accessories", "name": "Phone chargers", "type": "Phone chargers" },
+            { "sub_category": "Mobile Phone Accessories", "name": "Wall Charger", "type": "Phone chargers" },
+            { "sub_category": "Mobile Phone Accessories", "name": "Wireless Charger", "type": "Phone chargers" },
+            { "sub_category": "Mobile Phone Accessories", "name": "GaN Super Fast Charger", "type": "Phone chargers" },
+            { "sub_category": "Mobile Phone Accessories", "name": "Data cables", "type": "Data cables" },
+            { "sub_category": "Mobile Phone Accessories", "name": "Power banks", "type": "Power banks" },
+            { "sub_category": "Mobile Phone Accessories", "name": "Phone cases", "type": "Phone cases" }
+          ],
+          "brands": [
+            { "sub_category": "Mobile Phone Accessories", "name": "LDNIO", "type": "Power banks" },
+            { "sub_category": "Mobile Phone Accessories", "name": "APPLE", "type": "Magsafe Chargers" },
+            { "sub_category": "Mobile Phone Accessories", "name": "ANKER", "type": "Power banks" },
+            { "sub_category": "Mobile Phone Accessories", "name": "BELKIN", "type": "Phone cases" },
+            { "sub_category": "Mobile Phone Accessories", "name": "SPIGEN", "type": "Phone cases" }
+          ]
+        }
+      }
+    ]
+  },
+  "Smart Tech": {
+    "subCategories": [
+      {
+        "id": 327,
+        "name": "Smart Watches and Fitness",
+        "slug": "smart-watches-and-fitness",
+        "image": "https://cdn.media.amplience.net/i/currysprod/M10290938_white-cream?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:38:59",
+        "products_count": 95,
+        "subCategories": [
+          { "id": 328, "name": "Smart watches", "slug": "smart-watches", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:00", "products_count": 0, "subCategories": [] },
+          { "id": 329, "name": "Apple watches", "slug": "apple-watches", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:01", "products_count": 0, "subCategories": [] },
+          { "id": 330, "name": "Fitness trackers", "slug": "fitness-trackers", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:01", "products_count": 0, "subCategories": [] },
+          { "id": 331, "name": "Smart rings", "slug": "smart-rings", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:02", "products_count": 0, "subCategories": [] },
+          { "id": 332, "name": "Smart fitness accessories", "slug": "smart-fitness-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:02", "products_count": 0, "subCategories": [] },
+          { "id": 333, "name": "Smart health", "slug": "smart-health", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:02", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Smart Watches and Fitness", "name": "Smart watches", "type": "Smart watches" },
+            { "sub_category": "Smart Watches and Fitness", "name": "Apple watches", "type": "Apple watches" },
+            { "sub_category": "Smart Watches and Fitness", "name": "Fitness trackers", "type": "Fitness trackers" },
+            { "sub_category": "Smart Watches and Fitness", "name": "Smart rings", "type": "Smart rings" },
+            { "sub_category": "Smart Watches and Fitness", "name": "AI glasses", "type": "AI glasses" },
+            { "sub_category": "Smart Watches and Fitness", "name": "Hybrid watches", "type": "Smart watches" }
+          ],
+          "brands": [
+            { "sub_category": "Smart Watches and Fitness", "name": "APPLE", "type": "Apple watches" },
+            { "sub_category": "Smart Watches and Fitness", "name": "SAMSUNG", "type": "Smart watches" },
+            { "sub_category": "Smart Watches and Fitness", "name": "GARMIN", "type": "Fitness trackers" },
+            { "sub_category": "Smart Watches and Fitness", "name": "HUAWEI", "type": "Smart watches" },
+            { "sub_category": "Smart Watches and Fitness", "name": "FITBIT", "type": "Fitness trackers" },
+            { "sub_category": "Smart Watches and Fitness", "name": "GOOGLE", "type": "Smart watches" }
+          ]
+        }
+      },
+      {
+        "id": 335,
+        "name": "AI Glasses",
+        "slug": "ai-glasses",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10291898?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:03",
+        "products_count": 34,
+        "subCategories": [
+          { "id": 336, "name": "AI glasses", "slug": "ai-glasses", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:03", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "brands": [
+            { "sub_category": "AI Glasses", "name": "OAKLEY", "type": "AI glasses" },
+            { "sub_category": "AI Glasses", "name": "GOOGLE", "type": "AI glasses" },
+            { "sub_category": "AI Glasses", "name": "RAY-BAN", "type": "AI glasses" }
+          ]
+        }
+      },
+      {
+        "id": 337,
+        "name": "Smart Home",
+        "slug": "smart-home",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:04",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 338, "name": "Smart doorbells", "slug": "smart-doorbells", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:04", "products_count": 0, "subCategories": [] },
+          { "id": 339, "name": "Home voice control", "slug": "home-voice-control", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:05", "products_count": 0, "subCategories": [] },
+          { "id": 340, "name": "Security cameras & CCTV", "slug": "security-cameras-cctv", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:05", "products_count": 0, "subCategories": [] },
+          { "id": 341, "name": "Smart home monitoring", "slug": "smart-home-monitoring", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:06", "products_count": 0, "subCategories": [] },
+          { "id": 342, "name": "Smart lighting", "slug": "smart-lighting", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:06", "products_count": 0, "subCategories": [] },
+          { "id": 343, "name": "Smart heating", "slug": "smart-heating", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:06", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Smart Home", "name": "Smart doorbells", "type": "Smart doorbells" },
+            { "sub_category": "Smart Home", "name": "Security cameras", "type": "Security cameras & CCTV" },
+            { "sub_category": "Smart Home", "name": "Smart speakers", "type": "Smart speakers" },
+            { "sub_category": "Smart Home", "name": "Smart bulbs", "type": "Smart lighting" },
+            { "sub_category": "Smart Home", "name": "Thermostats", "type": "Smart heating" }
+          ],
+          "brands": [
+            { "sub_category": "Smart Home", "name": "RING", "type": "Smart doorbells" },
+            { "sub_category": "Smart Home", "name": "GOOGLE", "type": "Home voice control" },
+            { "sub_category": "Smart Home", "name": "AMAZON", "type": "Smart speakers" },
+            { "sub_category": "Smart Home", "name": "EUFY", "type": "Security cameras & CCTV" },
+            { "sub_category": "Smart Home", "name": "PHILIPS HUE", "type": "Smart lighting" }
+          ]
+        }
+      },
+      {
+        "id": 344,
+        "name": "Smart Sound",
+        "slug": "smart-sound",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10247701?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:07",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 345, "name": "Smart speakers", "slug": "smart-speakers", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:07", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "brands": [
+            { "sub_category": "Smart Sound", "name": "AMAZON", "type": "Smart speakers" },
+            { "sub_category": "Smart Sound", "name": "GOOGLE", "type": "Smart speakers" },
+            { "sub_category": "Smart Sound", "name": "SONOS", "type": "Smart speakers" }
+          ]
+        }
+      },
+      {
+        "id": 346,
+        "name": "Cameras",
+        "slug": "cameras",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10204844?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:07",
+        "products_count": 46,
+        "subCategories": [
+          { "id": 347, "name": "Interchangeable lens cameras", "slug": "interchangeable-lens-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:08", "products_count": 0, "subCategories": [] },
+          { "id": 348, "name": "DSLR cameras", "slug": "dslr-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:09", "products_count": 0, "subCategories": [] },
+          { "id": 349, "name": "Mirrorless cameras", "slug": "mirrorless-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:09", "products_count": 0, "subCategories": [] },
+          { "id": 350, "name": "Mirrorless vlogging cameras", "slug": "mirrorless-vlogging-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:10", "products_count": 0, "subCategories": [] },
+          { "id": 351, "name": "Bridge cameras", "slug": "bridge-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:10", "products_count": 0, "subCategories": [] },
+          { "id": 352, "name": "Compact digital cameras", "slug": "compact-digital-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:10", "products_count": 0, "subCategories": [] },
+          { "id": 353, "name": "Instant cameras", "slug": "instant-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:11", "products_count": 0, "subCategories": [] },
+          { "id": 491, "name": "Indoor Wi-Fi Cameras", "slug": "indoor-Wi-Fi-Cameras", "image": null, "is_active": true, "created_at": "2026-04-24T13:33:26", "products_count": 0, "subCategories": [] },
+          { "id": 492, "name": "Outdoor Wi-Fi Cameras", "slug": "Outdoor-Wi-Fi-Cameras", "image": null, "is_active": true, "created_at": "2026-04-24T13:33:44", "products_count": 0, "subCategories": [] },
+          { "id": 493, "name": "Wire-Free Cameras", "slug": "Wire-Free-Cameras", "image": null, "is_active": true, "created_at": "2026-04-24T13:34:14", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Cameras", "name": "DSLR cameras", "type": "DSLR cameras" },
+            { "sub_category": "Cameras", "name": "Mirrorless cameras", "type": "Mirrorless cameras" },
+            { "sub_category": "Cameras", "name": "Compact cameras", "type": "Compact digital cameras" },
+            { "sub_category": "Cameras", "name": "Instant cameras", "type": "Instant cameras" },
+            { "sub_category": "Cameras", "name": "Vlogging cameras", "type": "Mirrorless vlogging cameras" }
+          ],
+          "brands": [
+            { "sub_category": "Cameras", "name": "CANON", "type": "DSLR cameras" },
+            { "sub_category": "Cameras", "name": "SONY", "type": "Mirrorless cameras" },
+            { "sub_category": "Cameras", "name": "NIKON", "type": "DSLR cameras" }
+          ]
+        }
+      },
+      {
+        "id": 354,
+        "name": "Photography Accessories",
+        "slug": "photography-accessories",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:11",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 355, "name": "All camcorders", "slug": "all-camcorders", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:11", "products_count": 0, "subCategories": [] },
+          { "id": 356, "name": "Action cameras", "slug": "action-cameras", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:12", "products_count": 0, "subCategories": [] },
+          { "id": 357, "name": "Drones", "slug": "drones", "image": null, "is_active": true, "created_at": "2026-04-05T12:39:12", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Photography Accessories", "name": "Action cameras", "type": "Action cameras" },
+            { "sub_category": "Photography Accessories", "name": "Drones", "type": "Drones" },
+            { "sub_category": "Photography Accessories", "name": "Camcorders", "type": "All camcorders" }
+          ],
+          "brands": [
+            { "sub_category": "Photography Accessories", "name": "GO PRO", "type": "Action cameras" },
+            { "sub_category": "Photography Accessories", "name": "DJI", "type": "Drones" }
+          ]
+        }
+      },
+      {
+        "id": 358,
+        "name": "Projectors",
+        "slug": "projectors",
+        "image": "https://cdn-eu.aglty.io/epson/productimages/l720u_w_sa_03.png",
+        "is_active": true,
+        "created_at": "2026-04-05T12:39:13",
+        "products_count": 86,
+        "subCategories": [],
+        "filters": {}
+      }
+    ]
+  },
+  "Furniture": {
+    "subCategories": [
+      {
+        "id": 360,
+        "name": "Office",
+        "slug": "office",
+        "image": "https://cdn.media.amplience.net/i/currysprod/10236807?$l-large$&fmt=auto",
+        "is_active": true,
+        "created_at": "2026-04-05T12:54:27",
+        "products_count": 504,
+        "subCategories": [
+          { "id": 361, "name": "Office Chairs", "slug": "office-chairs", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:28", "products_count": 0, "subCategories": [] },
+          { "id": 362, "name": "Desks", "slug": "desks", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:29", "products_count": 0, "subCategories": [] },
+          { "id": 363, "name": "Home Office", "slug": "home-office", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:31", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Office", "name": "Office Chairs", "type": "Office Chairs" },
+            { "sub_category": "Office", "name": "Ergonomic Office Chairs", "type": "Office Chairs" },
+            { "sub_category": "Office", "name": "Executive Office Chairs", "type": "Office Chairs" },
+            { "sub_category": "Office", "name": "Mesh Office Chairs", "type": "Office Chairs" },
+            { "sub_category": "Office", "name": "Standing Desks", "type": "Desks" },
+            { "sub_category": "Office", "name": "Computer Desks", "type": "Desks" },
+            { "sub_category": "Office", "name": "Executive Desks", "type": "Desks" },
+            { "sub_category": "Office", "name": "Reception Desks", "type": "Desks" }
+          ]
+        }
+      },
+      {
+        "id": 364,
+        "name": "Living Room",
+        "slug": "living-room",
+        "image": "https://rainbow-hongqiao.com/wp-content/uploads/2021/04/SSCM-T179BS-2.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T12:54:31",
+        "products_count": 209,
+        "subCategories": [
+          { "id": 365, "name": "Lounge Furniture", "slug": "lounge-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:32", "products_count": 0, "subCategories": [] },
+          { "id": 366, "name": "Sofas & Sectionals", "slug": "sofas-sectionals", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:33", "products_count": 0, "subCategories": [
+            { "id": 367, "name": "Sofas", "slug": "sofas", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:35", "products_count": 0, "subCategories": [] },
+            { "id": 368, "name": "Sectionals", "slug": "sectionals", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:35", "products_count": 0, "subCategories": [] }
+          ]},
+          { "id": 369, "name": "Coffee & Side Tables", "slug": "coffee-side-tables", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:36", "products_count": 0, "subCategories": [
+            { "id": 370, "name": "Coffee Tables", "slug": "coffee-tables", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:37", "products_count": 0, "subCategories": [] },
+            { "id": 371, "name": "Side Tables", "slug": "side-tables", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:38", "products_count": 0, "subCategories": [] }
+          ]},
+          { "id": 372, "name": "Benches & Stools", "slug": "benches-stools", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:39", "products_count": 0, "subCategories": [] },
+          { "id": 373, "name": "Side Chairs", "slug": "side-chairs", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:40", "products_count": 0, "subCategories": [] },
+          { "id": 374, "name": "Living Room Storage", "slug": "living-room-storage", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:41", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Living Room", "name": "Sofas", "type": "Sofas & Sectionals" },
+            { "sub_category": "Living Room", "name": "Sectionals", "type": "Sofas & Sectionals" },
+            { "sub_category": "Living Room", "name": "Coffee Tables", "type": "Coffee & Side Tables" },
+            { "sub_category": "Living Room", "name": "Side Tables", "type": "Coffee & Side Tables" },
+            { "sub_category": "Living Room", "name": "Lounge chair", "type": "Lounge Furniture" },
+            { "sub_category": "Living Room", "name": "Lounge sofa", "type": "Lounge Furniture" }
+          ]
+        }
+      },
+      {
+        "id": 375,
+        "name": "Gaming Furniture",
+        "slug": "gaming",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-05T12:54:42",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 376, "name": "Gaming Chairs", "slug": "gaming-chairs", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:43", "products_count": 0, "subCategories": [] },
+          { "id": 377, "name": "Gaming Desks", "slug": "gaming-desks", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:43", "products_count": 0, "subCategories": [] },
+          { "id": 378, "name": "Gaming Accessories", "slug": "gaming-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:44", "products_count": 0, "subCategories": [] },
+          { "id": 379, "name": "Logitech G", "slug": "logitech-g", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:45", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {}
+      },
+      {
+        "id": 386,
+        "name": "Storage",
+        "slug": "storage",
+        "image": "https://cdn.shopify.com/s/files/1/0503/1293/7661/files/AJF24H-80A1.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T12:54:49",
+        "products_count": 28,
+        "subCategories": [
+          { "id": 387, "name": "Bookcases & Shelves", "slug": "bookcases-shelves", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:50", "products_count": 0, "subCategories": [] },
+          { "id": 388, "name": "Cabinets, Chests & Credenzas", "slug": "cabinets-chests-credenzas", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:50", "products_count": 0, "subCategories": [] },
+          { "id": 389, "name": "Home Office Storage", "slug": "home-office-storage", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:50", "products_count": 0, "subCategories": [] },
+          { "id": 390, "name": "Baskets & Storage Accessories", "slug": "baskets-storage-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:51", "products_count": 0, "subCategories": [] },
+          { "id": 391, "name": "Shelving & Storage", "slug": "shelving-storage", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:51", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {}
+      },
+      {
+        "id": 380,
+        "name": "Furniture",
+        "slug": "furniture-general",
+        "image": null,
+        "is_active": true,
+        "created_at": "2026-04-05T12:54:46",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 381, "name": "Office Furniture", "slug": "office-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:46", "products_count": 0, "subCategories": [] },
+          { "id": 382, "name": "Living Room Furniture", "slug": "living-room-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:47", "products_count": 0, "subCategories": [] },
+          { "id": 383, "name": "Dining Room Furniture", "slug": "dining-room-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:47", "products_count": 0, "subCategories": [] },
+          { "id": 384, "name": "Bedroom Furniture", "slug": "bedroom-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:48", "products_count": 0, "subCategories": [] },
+          { "id": 385, "name": "Outdoor Furniture", "slug": "outdoor-furniture", "image": null, "is_active": true, "created_at": "2026-04-05T12:54:48", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Furniture", "name": "Dining Tables", "type": "Dining Room Furniture" },
+            { "sub_category": "Furniture", "name": "Dining Chairs & Stools", "type": "Dining Room Furniture" },
+            { "sub_category": "Furniture", "name": "Buffets, Sideboards & Credenzas", "type": "Dining Room Furniture" },
+            { "sub_category": "Furniture", "name": "Beds", "type": "Bedroom Furniture" },
+            { "sub_category": "Furniture", "name": "Nightstands & Dressers", "type": "Bedroom Furniture" },
+            { "sub_category": "Furniture", "name": "Outdoor Chairs", "type": "Outdoor Furniture" },
+            { "sub_category": "Furniture", "name": "Outdoor Tables", "type": "Outdoor Furniture" },
+            { "sub_category": "Furniture", "name": "House Numbers & Outdoor Decor", "type": "Outdoor Furniture" }
+          ]
+        }
+      },
+      {
+        "id": 442,
+        "name": "Seating",
+        "slug": "furniture-seating",
+        "image": "https://rainbow-hongqiao.com/wp-content/uploads/2021/04/CV-K017BS.jpg",
+        "is_active": true,
+        "created_at": "2026-04-13T10:06:46",
+        "products_count": 300,
+        "subCategories": [
+          { "id": 443, "name": "Guest Seating", "slug": "furniture-seating-guest", "image": null, "is_active": true, "created_at": "2026-04-13T10:30:38", "products_count": 0, "subCategories": [] },
+          { "id": 444, "name": "Leisure Chairs", "slug": "furniture-seating-leisure-chairs", "image": null, "is_active": true, "created_at": "2026-04-13T10:31:05", "products_count": 0, "subCategories": [] },
+          { "id": 445, "name": "Lounge Seating", "slug": "furniture-seating-lounge", "image": null, "is_active": true, "created_at": "2026-04-13T10:31:30", "products_count": 0, "subCategories": [] },
+          { "id": 446, "name": "Airport Seating", "slug": "furniture-seating-airport", "image": null, "is_active": true, "created_at": "2026-04-13T10:31:46", "products_count": 0, "subCategories": [] },
+          { "id": 447, "name": "Arm Chairs", "slug": "furniture-seating-arm-chairs", "image": null, "is_active": true, "created_at": "2026-04-13T10:32:08", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {}
+      },
+      {
+        "id": 448,
+        "name": "Cabinets",
+        "slug": "furniture-cabinents",
+        "image": "https://highmoon.ae/wp-content/uploads/2023/08/H1199_white-2-3-600x749.jpg",
+        "is_active": true,
+        "created_at": "2026-04-13T10:06:46",
+        "products_count": 122,
+        "subCategories": [
+          { "id": 449, "name": "Steel Mobile Pedestals", "slug": "furniture-cabinents-steel-mobile-pedestals", "image": null, "is_active": true, "created_at": "2026-04-13T10:07:38", "products_count": 0, "subCategories": [] },
+          { "id": 450, "name": "Wooden Mobile Pedestals", "slug": "furniture-cabinents-wooden-mobile-pedestals", "image": null, "is_active": true, "created_at": "2026-04-13T10:08:07", "products_count": 0, "subCategories": [] },
+          { "id": 451, "name": "Steel Full Height Cabinets", "slug": "furniture-cabinents-steel-mobile-pedestals", "image": null, "is_active": true, "created_at": "2026-04-13T10:09:24", "products_count": 0, "subCategories": [] },
+          { "id": 452, "name": "Wooden Full Height Cabinet", "slug": "furniture-cabinents-wooden-height-pedestals", "image": null, "is_active": true, "created_at": "2026-04-13T10:09:50", "products_count": 0, "subCategories": [] },
+          { "id": 453, "name": "Steel Hanging File Drawer", "slug": "furniture-cabinents-steel-hanging-file-drawer", "image": null, "is_active": true, "created_at": "2026-04-13T10:10:27", "products_count": 0, "subCategories": [] },
+          { "id": 454, "name": "Steel Locker", "slug": "furniture-cabinents-steel-locker", "image": null, "is_active": true, "created_at": "2026-04-13T10:10:59", "products_count": 0, "subCategories": [] },
+          { "id": 455, "name": "Credenza", "slug": "furniture-cabinents-credenza", "image": null, "is_active": true, "created_at": "2026-04-13T10:11:19", "products_count": 0, "subCategories": [] },
+          { "id": 456, "name": "Display Cabinets", "slug": "furniture-cabinents-display", "image": null, "is_active": true, "created_at": "2026-04-13T10:11:32", "products_count": 0, "subCategories": [] },
+          { "id": 457, "name": "Low Height Cabinets", "slug": "furniture-cabinents-low-height", "image": null, "is_active": true, "created_at": "2026-04-13T10:11:52", "products_count": 0, "subCategories": [] },
+          { "id": 458, "name": "Medium Height Cabinets", "slug": "furniture-cabinents-medium-height", "image": null, "is_active": true, "created_at": "2026-04-13T10:12:08", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {}
+      },
+      {
+        "id": 460,
+        "name": "Collections",
+        "slug": "furniture-collections",
+        "image": "https://highmoon.ae/wp-content/uploads/2023/08/2-217-600x759.jpg",
+        "is_active": true,
+        "created_at": "2026-04-13T10:24:47",
+        "products_count": 265,
+        "subCategories": [
+          { "id": 461, "name": "Cube Series", "slug": "furniture-collections-cube-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:25:14", "products_count": 0, "subCategories": [] },
+          { "id": 462, "name": "Eco Series", "slug": "furniture-collections-eco-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:26:03", "products_count": 0, "subCategories": [] },
+          { "id": 463, "name": "Flat Series", "slug": "furniture-collections-flat-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:26:17", "products_count": 0, "subCategories": [] },
+          { "id": 464, "name": "Jade Series", "slug": "furniture-collections-jade-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:26:30", "products_count": 0, "subCategories": [] },
+          { "id": 465, "name": "Keep Series", "slug": "furniture-collections-keep-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:26:42", "products_count": 0, "subCategories": [] },
+          { "id": 466, "name": "Nade Series", "slug": "furniture-collections-nade-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:26:55", "products_count": 0, "subCategories": [] },
+          { "id": 467, "name": "Orange Series", "slug": "furniture-collections-orange-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:27:16", "products_count": 0, "subCategories": [] },
+          { "id": 468, "name": "Quad Series", "slug": "furniture-collections-quad-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:27:32", "products_count": 0, "subCategories": [] },
+          { "id": 469, "name": "Snow Series", "slug": "furniture-collections-snow-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:27:47", "products_count": 0, "subCategories": [] },
+          { "id": 470, "name": "Sync Series", "slug": "furniture-collections-sync-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:28:04", "products_count": 0, "subCategories": [] },
+          { "id": 471, "name": "Viol Series", "slug": "furniture-collections-viol-series", "image": null, "is_active": true, "created_at": "2026-04-13T10:28:20", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {}
+      }
+    ]
+  },
+  "Wall Panels & Foam Boards": {
+    "subCategories": [
+      {
+        "id": 393,
+        "name": "Acoustic Slat Wall Panels",
+        "slug": "acoustic-slat-wall-panels",
+        "image": "https://i.pinimg.com/736x/65/b6/6b/65b66be19ca635ae2d0543f8cca84b12.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:31",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 394, "name": "Acoustic Slat Wall Panels by Type", "slug": "acoustic-slat-wall-panels-by-type", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:32", "products_count": 0, "subCategories": [] },
+          { "id": 395, "name": "Acoustic Slat Wall Panels By Veneer", "slug": "acoustic-slat-wall-panels-by-veneer", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:33", "products_count": 0, "subCategories": [] },
+          { "id": 396, "name": "Acoustic Slat Wall Panels by Range", "slug": "acoustic-slat-wall-panels-by-range", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:34", "products_count": 0, "subCategories": [] },
+          { "id": 397, "name": "Acoustic Slat Wall Accessories", "slug": "acoustic-slat-wall-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:35", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Full Height Slat Wall Panels", "type": "Acoustic Slat Wall Panels by Type" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Half Height Slat Wall Panels", "type": "Acoustic Slat Wall Panels by Type" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Wide-Slat Slat Wall Panels", "type": "Acoustic Slat Wall Panels by Type" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Oak Slat Wall Panels", "type": "Acoustic Slat Wall Panels By Veneer" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Walnut Slat Wall Panels", "type": "Acoustic Slat Wall Panels By Veneer" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Classic SlatWall", "type": "Acoustic Slat Wall Panels by Range" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Acoustic Slat Wall LED Light Kits", "type": "Acoustic Slat Wall Accessories" },
+            { "sub_category": "Acoustic Slat Wall Panels", "name": "Slat Wall Top Trims", "type": "Acoustic Slat Wall Accessories" }
+          ]
+        }
+      },
+      {
+        "id": 398,
+        "name": "MDF Panels",
+        "slug": "mdf-panels",
+        "image": "https://i.pinimg.com/1200x/a0/76/f6/a076f6e10083bc8d44142dfc437475fe.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:36",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 399, "name": "MDF Panels by Type", "slug": "mdf-panels-by-type", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:37", "products_count": 0, "subCategories": [] },
+          { "id": 400, "name": "MDF Panels by Range", "slug": "mdf-panels-by-range", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:39", "products_count": 0, "subCategories": [] },
+          { "id": 401, "name": "MDF Panel Accessories", "slug": "mdf-panel-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:40", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "MDF Panels", "name": "Tongue and Groove MDF Panels", "type": "MDF Panels by Type" },
+            { "sub_category": "MDF Panels", "name": "Fluted MDF Panels", "type": "MDF Panels by Type" },
+            { "sub_category": "MDF Panels", "name": "Reeded MDF Panels", "type": "MDF Panels by Type" },
+            { "sub_category": "MDF Panels", "name": "Wall Panelling Kits", "type": "MDF Panels by Type" },
+            { "sub_category": "MDF Panels", "name": "Legacy", "type": "MDF Panels by Range" },
+            { "sub_category": "MDF Panels", "name": "MDF Accessories and Trims", "type": "MDF Panel Accessories" }
+          ]
+        }
+      },
+      {
+        "id": 402,
+        "name": "Shower Panels",
+        "slug": "shower-panels",
+        "image": "https://i.pinimg.com/736x/46/68/8b/46688ba16573c2a96d29e30f8dc74e37.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:40",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 403, "name": "Shower Panels by Type", "slug": "shower-panels-by-type", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:41", "products_count": 0, "subCategories": [] },
+          { "id": 404, "name": "Shower Panels by Range", "slug": "shower-panels-by-range", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:42", "products_count": 0, "subCategories": [] },
+          { "id": 405, "name": "Shower Panel Accessories", "slug": "shower-panel-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:43", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Shower Panels", "name": "SPC Shower Panels", "type": "Shower Panels by Type" },
+            { "sub_category": "Shower Panels", "name": "PVC Shower Panels", "type": "Shower Panels by Type" },
+            { "sub_category": "Shower Panels", "name": "Stone Effect Shower Panels", "type": "Shower Panels by Type" },
+            { "sub_category": "Shower Panels", "name": "Marble Effect Shower Panels", "type": "Shower Panels by Type" },
+            { "sub_category": "Shower Panels", "name": "Elemence", "type": "Shower Panels by Range" },
+            { "sub_category": "Shower Panels", "name": "Sivara", "type": "Shower Panels by Range" }
+          ]
+        }
+      },
+      {
+        "id": 406,
+        "name": "Bathroom Panels",
+        "slug": "bathroom-panels",
+        "image": "https://i.pinimg.com/1200x/3c/0b/e0/3c0be086ead063301873224bcf7f056e.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:43",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 407, "name": "Waterproof Panels by Type", "slug": "waterproof-panels-by-type", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:45", "products_count": 0, "subCategories": [] },
+          { "id": 408, "name": "Bathroom Panels by Range", "slug": "bathroom-panels-by-range", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:46", "products_count": 0, "subCategories": [] },
+          { "id": 409, "name": "Bathroom Panel Accessories", "slug": "bathroom-panel-accessories", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:47", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Bathroom Panels", "name": "Waterproof SlatWall Panels", "type": "Waterproof Panels by Type" },
+            { "sub_category": "Bathroom Panels", "name": "Waterproof Reeded Panels", "type": "Waterproof Panels by Type" },
+            { "sub_category": "Bathroom Panels", "name": "Sivara", "type": "Bathroom Panels by Range" },
+            { "sub_category": "Bathroom Panels", "name": "Elemence", "type": "Bathroom Panels by Range" }
+          ]
+        }
+      },
+      {
+        "id": 410,
+        "name": "Wood Wall Panels",
+        "slug": "wood-wall-panels",
+        "image": "https://i.pinimg.com/736x/e6/c5/71/e6c571a56df1176770f84fd00dec59e8.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:48",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 411, "name": "Wood Wall Panels by Type", "slug": "wood-wall-panels-by-type", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:48", "products_count": 0, "subCategories": [] },
+          { "id": 412, "name": "Wood Wall Panels by Range", "slug": "wood-wall-panels-by-range", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:49", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "Wood Wall Panels", "name": "Fluted Panels", "type": "Wood Wall Panels by Type" },
+            { "sub_category": "Wood Wall Panels", "name": "Reeded Panels", "type": "Wood Wall Panels by Type" },
+            { "sub_category": "Wood Wall Panels", "name": "Acoustic Slat Wall Panels", "type": "Wood Wall Panels by Type" },
+            { "sub_category": "Wood Wall Panels", "name": "3D Wall Panels", "type": "Wood Wall Panels by Type" },
+            { "sub_category": "Wood Wall Panels", "name": "Arborelle", "type": "Wood Wall Panels by Range" },
+            { "sub_category": "Wood Wall Panels", "name": "Legacy", "type": "Wood Wall Panels by Range" }
+          ]
+        }
+      },
+      {
+        "id": 413,
+        "name": "By Room",
+        "slug": "by-room",
+        "image": "https://i.pinimg.com/736x/4d/af/4c/4daf4c5ef0a78fbbf5033bea22d1034d.jpg",
+        "is_active": true,
+        "created_at": "2026-04-05T13:06:51",
+        "products_count": 0,
+        "subCategories": [
+          { "id": 414, "name": "All Rooms", "slug": "all-rooms", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:52", "products_count": 0, "subCategories": [] },
+          { "id": 415, "name": "Around The Home", "slug": "around-the-home", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:53", "products_count": 0, "subCategories": [] },
+          { "id": 416, "name": "Trending Styles", "slug": "trending-styles", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:53", "products_count": 0, "subCategories": [] },
+          { "id": 417, "name": "Panels By Colour", "slug": "panels-by-colour", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:55", "products_count": 0, "subCategories": [] },
+          { "id": 418, "name": "Panels By Size", "slug": "panels-by-size", "image": null, "is_active": true, "created_at": "2026-04-05T13:06:56", "products_count": 0, "subCategories": [] }
+        ],
+        "filters": {
+          "types": [
+            { "sub_category": "By Room", "name": "Bedroom Wall Panels", "type": "All Rooms" },
+            { "sub_category": "By Room", "name": "Bathroom Wall Panels", "type": "All Rooms" },
+            { "sub_category": "By Room", "name": "Living Room Wall Panels", "type": "All Rooms" },
+            { "sub_category": "By Room", "name": "Kitchen Wall Panels", "type": "All Rooms" },
+            { "sub_category": "By Room", "name": "Office Wall Panels", "type": "All Rooms" },
+            { "sub_category": "By Room", "name": "Scandi Wall Panels", "type": "Trending Styles" },
+            { "sub_category": "By Room", "name": "Japandi Wall Panels", "type": "Trending Styles" },
+            { "sub_category": "By Room", "name": "Modern Wall Panels", "type": "Trending Styles" },
+            { "sub_category": "By Room", "name": "Black Wall Panels", "type": "Panels By Colour" },
+            { "sub_category": "By Room", "name": "White Wall Panels", "type": "Panels By Colour" },
+            { "sub_category": "By Room", "name": "Oak Wall Panels", "type": "Panels By Colour" },
+            { "sub_category": "By Room", "name": "Full Wall Panels", "type": "Panels By Size" },
+            { "sub_category": "By Room", "name": "Half Wall Panels", "type": "Panels By Size" }
+          ]
+        }
+      }
+    ]
+  },
+  "WPC Board": {
+    "subCategories": [],
+    "filters": {}
+  }
+}

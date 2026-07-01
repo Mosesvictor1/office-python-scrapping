@@ -1,0 +1,1763 @@
+[
+  {
+    "title": "HP ScanJet Enterprise Flow 9000 s1 Scanner (8Q4W0A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "8Q4W0A",
+    "product_id": "2102484771",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/2102484771",
+    "category": "Scanners",
+    "overview": "HP ScanJet Enterprise Flow 9000 s1 Scanner is ideal for scanning wide-format documents and handle through heavy workloads with ease.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "Sheetfed"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Scan to PC; Scan to USB Drive; Scan to Email; Scan to Network Folder; Scan to SharePoint; Scan to Shortcut; Scan to Cloud"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 dpi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 x 600 dpi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 1200 dpi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 30,000 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 48-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 80 ppm/160 ipm (b&w, color, 300 dpi) 1"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 80 ppm/160 ipm (b&w, color, 300 dpi) 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "297 x 5842 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "50.8 x 69 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 100 sheets"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "BMP; CSV; Excel (XLS); Excel ( XLSX); JPEG; JPG; PDF; PDF/A; PNG; RTF; Searchable PDF; TIFF; TXT; Word (DOC); Word (DOCX); XML; XPS"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Two scan modes (simplex/duplex) with 10.9 cm (4.3 inch) colour touchscreen on front-panel for HP scan in Win OS, HP Easy Scan/ICA in Mac OS and third parties applications via TWAIN, ISIS and WIA"
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "Will not perform any arbitrary scaling"
+          },
+          {
+            "key": "Scan technology",
+            "value": "ADF; CMOS CIS (Contact Image Sensor)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 240; 300; 400; 500; 600; 1200 ppi"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "Light Emitting Diode (LED)"
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "420 g/m²"
+          },
+          {
+            "key": "Document weight ADF (minimum)",
+            "value": "28 g/m²"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "US letter, US legal, US Executive, A3, A4, B5, A5, A6, A7, A8; 69 x 50.8 mm to 297 x 5842 mm"
+          },
+          {
+            "key": "Media types",
+            "value": "Cut Sheet Paper, Printed Paper (Laser and ink), Pre-Punched Paper, Bank Checks, Business Cards, Carbonless forms, Previously stapled media with staple removed, Carrier sheet purchased from HP"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "28 to 420 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Auto Document Classification; Manual Reduction; Multi Zonal OCR; Scan to Multi Destination; Auto Orientation; Blank Page Removal; Barcode Detection; Digitial Stamp; Batch Seperation; HP EveryPage Technology; Scan to USB."
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8.1; Windows Server; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; macOS 15 Sequoia; Linux"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "macOS Catalina v 10.15, macOS Big Sur v 11, macOS Monterrey v 12, macOS Ventura v 13, macOS Sonoma v 14; Internet Required; USB"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "Microsoft Windows 11, 10, 8.1, 2008 R2, 2012 R2, 2016, 2019; 2 GB available hard disk space, Internet Required, Web Browser, USB"
+          },
+          {
+            "key": "Twain version",
+            "value": "Version 2.4"
+          },
+          {
+            "key": "Processor speed",
+            "value": "666 MHz"
+          },
+          {
+            "key": "Memory",
+            "value": "1 GB"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Scan Premium Software, HP Scanner Tools Utility, HP Scan Assistant, HP WIA scan driver, HP TWAIN scan driver, ISIS driver  ICA driver, HP Easy Scan for Mac OS, HPUI Scan for Linux"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "1 SuperSpeed USB 3.0"
+          },
+          {
+            "key": "Display",
+            "value": "2-line 16 character per line LCD display"
+          },
+          {
+            "key": "Display",
+            "value": "2-line 16 character per line LCD display"
+          },
+          {
+            "key": "Power",
+            "value": "Input Voltage range: 90 - 264 VAC, Rated Frequency: 50 - 60HZ, Worldwide use"
+          },
+          {
+            "key": "Power supply type",
+            "value": "External power adapter"
+          },
+          {
+            "key": "Power consumption",
+            "value": "6.5 watts (ready), 1.2 watts (sleep), 0.08 watts (off)"
+          },
+          {
+            "key": "Control panel",
+            "value": "2-line 16 character per line LCD display, Simplex button, Duplex button, Cancel button, Power button with a LED and Tool button"
+          },
+          {
+            "key": "Security management",
+            "value": "Encrypted scan data, No non-volatile storage of scan data"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "15 to 80% RH (non-condensing)"
+          },
+          {
+            "key": "Recommended operating humidity range",
+            "value": "30 to 70% RH"
+          },
+          {
+            "key": "Non-Operating Humidity Range",
+            "value": "0 to 90% RH (non-condensing)"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "10 to 35°C"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "50 to 95°F"
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Enterprise Flow N9000 sn1 Scanner (8Q4W1A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "8Q4W1A",
+    "product_id": "2102484773",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/2102484773",
+    "category": "Scanners",
+    "overview": "HP ScanJet Enterprise Flow N9000 sn1 is ideal for scanning wide-format documents, handling heavy workloads with ease, and offering network connectivity for seamless integration into office environments.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "Sheetfed"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Scan to PC; Scan to USB Drive; Scan to Email; Scan to Network Folder; Scan to SharePoint; Scan to Shortcut; Scan to Cloud"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 dpi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 x 600 dpi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 1200 dpi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 30,000 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 48-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 80 ppm/160 ipm (b&w, color, 300 dpi) 1"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 80 ppm/160 ipm (b&w, color, 300 dpi) 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "297 x 5842 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "50.8 x 69 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 100 sheets"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "BMP; CSV; Excel (XLS); Excel ( XLSX); JPEG; JPG; PDF; PDF/A; PNG; RTF; Searchable PDF; TIFF; TXT; Word (DOC); Word (DOCX); XML; XPS"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Two scan modes (simplex/duplex) with 10.9 cm (4.3 inch) colour touchscreen on front-panel for HP scan in Win OS, HP Easy Scan/ICA in Mac OS and third parties applications via TWAIN, ISIS and WIA"
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "Will not perform any arbitrary scaling"
+          },
+          {
+            "key": "Scan technology",
+            "value": "ADF; CMOS CIS (Contact Image Sensor)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 240; 300; 400; 500; 600; 1200 ppi"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "Light Emitting Diode (LED)"
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "420 g/m²"
+          },
+          {
+            "key": "Document weight ADF (minimum)",
+            "value": "28 g/m²"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "US letter, US legal, US Executive, A3, A4, B5, A5, A6, A7, A8; 69 x 50.8 mm to 297 x 5842 mm"
+          },
+          {
+            "key": "Media types",
+            "value": "Cut Sheet Paper, Printed Paper (Laser and ink), Pre-Punched Paper, Bank Checks, Business Cards, Carbonless forms, Previously stapled media with staple removed, Carrier sheet purchased from HP"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "28 to 420 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Auto Document Classification; Manual Reduction; Multi Zonal OCR; Scan to Multi Destination; Auto Orientation; Blank Page Removal; Barcode Detection; Digitial Stamp; Batch Seperation; HP EveryPage Technology; Network Enabled Scanning; Scan to USB."
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8.1; Windows Server; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; macOS 15 Sequoia; Linux"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "macOS Catalina v 10.15, macOS Big Sur v 11, macOS Monterey v 12, macOS Ventura v 13, macOS Sonoma 14; Internet Required; USB"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "Microsoft Windows 11, 10, 8.1, 2008 R2, 2012 R2, 2016, 2019; 2 GB available hard disk space, Internet Required, Web Browser, USB"
+          },
+          {
+            "key": "Twain version",
+            "value": "Version 2.4"
+          },
+          {
+            "key": "Processor speed",
+            "value": "666 MHz"
+          },
+          {
+            "key": "Memory",
+            "value": "1 GB"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Scan Premium Software, HP Scanner Tools Utility, HP Scan Assistant, HP WIA scan driver, HP TWAIN scan driver, ISIS driver  ICA driver, HP Easy Scan for Mac OS, HPUI Scan for Linux"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "1 SuperSpeed USB 3.0; 1 Gigabit Ethernet 10/100/1000 Base-T network"
+          },
+          {
+            "key": "Display",
+            "value": "Resistive 4.3 in touch panel"
+          },
+          {
+            "key": "Display",
+            "value": "Resistive 10.9 cm touch panel"
+          },
+          {
+            "key": "Power",
+            "value": "Input Voltage range: 90 - 264 VAC, Rated Frequency: 50 - 60HZ, Worldwide use"
+          },
+          {
+            "key": "Power supply type",
+            "value": "External power adapter"
+          },
+          {
+            "key": "Power consumption",
+            "value": "6.8 watts (ready), 1.81 watts (sleep), 0.08 watts (off)"
+          },
+          {
+            "key": "Control panel",
+            "value": "Resistive 10.9 cm (4.3 in) touch panel with four buttons: sleep/power, home, back, help"
+          },
+          {
+            "key": "Security management",
+            "value": "Encrypted scan data, TLS server certificate validation, PIN-protected reserved scan jobs, Encrypted and password-protected device administration, User sign-in at the control panel using PIN codes, Access control for control panel apps based on the user PIN code, No non-volatile storage of scan data"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "15 to 80% RH (non-condensing)"
+          },
+          {
+            "key": "Recommended operating humidity range",
+            "value": "30 to 70% RH"
+          },
+          {
+            "key": "Non-Operating Humidity Range",
+            "value": "0 to 90% RH (non-condensing)"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "10 to 35°C"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "50 to 95°F"
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Enterprise Flow N6600 fnw1 (20G08A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "20G08A",
+    "product_id": "2100435117",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/2100435117",
+    "category": "Scanners",
+    "overview": "Boost productivity for professional scanning tasks with the fast, reliable, network connected HP ScanJet Enterprise, designed for scanning up-to 8,000 pages daily. Automate workflows with shortcuts and fast, two-sided scanning from the document feeder.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [],
+    "images": [
+      "https://hp.widen.net/content/znq7vfodth/png/znq7vfodth.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/bhzfsc4ums/png/bhzfsc4ums.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/kvop7zii7k/png/kvop7zii7k.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/cdqywruki3/png/cdqywruki3.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/sz2p16aqle/png/sz2p16aqle.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Enterprise Flow N7000 snw1 (6FW10A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "6FW10A",
+    "product_id": "28704137",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/28704137",
+    "category": "Scanners",
+    "overview": "Give your office high-volume scanning performance. HP Scan Premium helps you save time and capture confidently. Achieve black-and-white scan speeds up to 75 ppm/150 ipm. 1 Recommended for 7,500 pages per day.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "Sheetfed"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Scan to PC; Scan to USB Drive; Scan to Email; Scan to Network Folder; Scan to SharePoint; Scan to Shortcut; Scan to Cloud"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 dpi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "600 x 600 dpi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 7500 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 48-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 75 ppm/150 ipm 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "216 x 3100 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "50.8 x 50.8 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 80 sheets"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "For text & images: PDF, PDF/A, Encrypted PDF, JPEG, PNG, BMP, TIFF, Word, Excel, PowerPoint, Text (.txt), Rich Text (.rtf) and Searchable PDF"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Two scan modes (simplex/duplex) with 10.9 cm (4.3 inch) colour touchscreen on front-panel for HP scan in Win OS, HP Easy Scan/ICA in Mac OS and third parties applications via TWAIN, ISIS and WIA"
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Scan technology",
+            "value": "CMOS CIS (Contact Image Sensor)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 240; 300; 400; 500; 600; 1200 ppi"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "LED"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "ISO A4: 210 x 297 mm (8.3 x 11.7 in); JIS B5: 182 x 257 mm (7.2 x 10.1 in); ISO B5: 176 x 250 mm (7.0 x 9.9 in); ISO A5: 148 x 210 mm (5.8 x 8.3 in); ISO A6: 105 x 148 mm (5.8 x 4.1 in); ISO A7: 74 x 104 mm (2.9 x 4.1 in); ISO A8: 52 x 74 mm (2.0 x 2.9 in); Custom: 5.08 x 7.36 cm to 21.6 x 309.9 cm (2.0 x 2.9 in to 8.5 x 122 in)"
+          },
+          {
+            "key": "Media types",
+            "value": "Cut Sheet Paper; Printed Paper (Laser and ink); Pre-Punched Paper; Bank Checks; Business Cards; Freight Bills; Carbonless forms; Plastic Carrier sheets for easily damaged documents; Previously stapled media with staple removed; Plastic cards (up to 1.24 mm thickness)"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "43 to 350 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Auto exposure, Auto threshold, Auto detect color, Background smooth/removal, Auto detect size, Straighten content, Enhance content, Multi-streaming, Auto feed, Multi-feed detection sensor, Advanced multi-feed detection, Auto orient, Multi-color dropout, Channel color dropout, Edge erase, Delete blank page, Merge pages, Hole fill, Digital stamps, Metadata capture, PDF permissions, Document separation (Blank page, Barcode, Zonal barcode, Zonal OCR)"
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8.1; Windows 7; macOS 10.13 High Sierra; macOS 10.14 Mojave; macOS 10.15 Catalina; Linux; Citrix"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13; 1 GB available hard disk space; Internet required; USB"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "macOS Catalina 10.15, macOS Mojave 10.14, macOS High Sierra 10.13, Microsoft® Windows® 10, 8.1, 7, XP: 32/64-bit, 2008 R2, 2012 R2, 2016, 2019, 2 GB available hard disk space, CD-ROM/DVD drive or Internet connection, USB port, Microsoft® Internet Explorer"
+          },
+          {
+            "key": "Twain version",
+            "value": "Windows: 32-bit and 64-bit TWAIN version 2.1; Mac: n/a"
+          },
+          {
+            "key": "Processor speed",
+            "value": "ARM-1176 666 MHz"
+          },
+          {
+            "key": "Memory",
+            "value": "1 GB"
+          },
+          {
+            "key": "Software included",
+            "value": "Windows: HP WIA scan driver, HP TWAIN scan driver (32-bit and 64-bit), HP Scan, HP Scanner Tools Utility, OpenText ISIS"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "Ethernet 10/100/1000 Base-T, USB 3.0, Wi-Fi 802.11 b/g/n, Wi-Fi Direct"
+          },
+          {
+            "key": "Wireless capability",
+            "value": "Yes, Wi-Fi 802.11 b/g/n, Wi-Fi Direct"
+          },
+          {
+            "key": "Network protocols, supported",
+            "value": "ARP; ICMP; IGMP; UDP; TCP; DHCP; APIPA; DNS; mDNS; LLMNR; WSD; WS-Scan; SNTP; SMB; SNMP; FTP; SFTP; SMTP; HTTP Server Part; HTTPS"
+          },
+          {
+            "key": "Display",
+            "value": "Resistive, RGB colour and 10.9 cm (4.3 inch) touch panel with a resolution of 128 dpi (480 x 272 dots)."
+          },
+          {
+            "key": "Power",
+            "value": "Input Voltage range: 90 - 264 VAC, Rated Frequency: 50 - 60HZ, Worldwide use"
+          },
+          {
+            "key": "Power supply type",
+            "value": "External power adapter"
+          },
+          {
+            "key": "Power consumption",
+            "value": "5.8 Watts (ready), 38 Watts (scanning), 1.9 Watts (sleep), 0.1 Watts (auto-off), 0.1 Watts (off) 2 (Power requirements are based on the country/region where the printer is sold. Do not convert operating voltages. This will damage the printer and void the product warranty. Energy Star value typically based on measurement of 115V device. )"
+          },
+          {
+            "key": "Control panel",
+            "value": "Control panel with a total of four buttons on the right side of the resistive touch panel: sleep/power, home, back, help"
+          },
+          {
+            "key": "Security management",
+            "value": "Encrypted scan data, TLS server certificate validation, PIN-protected reserved scan jobs, Encrypted and password-protected device administration, User sign-in at the control panel using PIN codes, Access control for control panel apps based on the user PIN code, No non-volatile storage of scan data"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "15 to 80% RH"
+          },
+          {
+            "key": "Recommended operating humidity range",
+            "value": "30% to 70% relative humidity (RH)"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "10 to 35°C"
+          },
+          {
+            "key": "Recommended operating temperature range",
+            "value": "17.5 to 25ºC"
+          },
+          {
+            "key": "Storage temperature range",
+            "value": "-40 to 60°C"
+          },
+          {
+            "key": "Acoustic power emissions (active, printing)",
+            "value": "70 (dB), 7.0 (B)"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "310 x 198 x 190 mm"
+          },
+          {
+            "key": "Maximum dimensions (W x D x H)",
+            "value": "310 x 448 x 319 mm"
+          },
+          {
+            "key": "Weight",
+            "value": "4.0 kg"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/spsxtth5mf/png/spsxtth5mf.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/3gtnjedr76/png/3gtnjedr76.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/iakbhaunaw/png/iakbhaunaw.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/otmgxwmtub/png/otmgxwmtub.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/blif1pdcrn/png/blif1pdcrn.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP HD Pro 2 42-in Scanner (5EK00A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "5EK00A",
+    "product_id": "29378733",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/29378733",
+    "category": "Scanners",
+    "overview": "Produce high-quality HD results with CCD scanning technology. Streamline workflows with incredible scan and processing speeds. Improve efficiency and productivity with an enhanced feature set. Enjoy easy integration with HP large-format printers.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "CCD scanning technology and LED-based illumination system"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "1200 dpi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "9600 dpi"
+          },
+          {
+            "key": "Bit depth",
+            "value": "48-bit/16-bit"
+          },
+          {
+            "key": "Scan size, maximum",
+            "value": "1067 mm"
+          },
+          {
+            "key": "Scan size, minimum",
+            "value": "152 x 114 mm"
+          },
+          {
+            "key": "Scan file format",
+            "value": "PDF, PDF/A, TIFF, JPEG, JPEG2000, DWF, CALS (black and white), multi-page PDF generation"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "File, email, USB, HDD, network folder, FTP, print"
+          },
+          {
+            "key": "Media types",
+            "value": "Non-abrasive paper, vellum, Mylar, sepia, blueprints, plastic, film, plastic laminate, foam board, cardboard, newspaper, tracing paper. Varying condition documents: old, delicate, folded, creased, crumpled, damaged originals (no plywood, stone plates, metal plates or abrasive, dirty, rough, sharp edged, metal clamped, or burned surfaces or transparencies)"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "256 GB"
+          },
+          {
+            "key": "Memory",
+            "value": "8 GB"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "Gigabit Ethernet (1000Base-T), USB 3.1 gen 1 (3+1) and USB 2.0 (1) rear"
+          },
+          {
+            "key": "Network ready",
+            "value": "Standard"
+          },
+          {
+            "key": "Power",
+            "value": "Input voltage (auto ranging): 100-240 V (±10%), 50/60 Hz, 5 A max"
+          },
+          {
+            "key": "Power consumption",
+            "value": "130 W (scanning), 39 W (ready), < 1 W (sleep)"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "20 to 80% RH"
+          },
+          {
+            "key": "Non-Operating Humidity Range",
+            "value": "0 to 95% RH"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "5 to 35ºC"
+          },
+          {
+            "key": "Storage temperature range",
+            "value": "-25 to 55ºC"
+          },
+          {
+            "key": "Acoustic power emissions (active, printing)",
+            "value": "6.4 B(A) (operating), <3.9 B(A) (idle), <3.9 B(A) (sleep)"
+          },
+          {
+            "key": "Dimensions (W x D x H)",
+            "value": "1530 x 930 x 1660 mm"
+          },
+          {
+            "key": "Weight",
+            "value": "71 kg"
+          },
+          {
+            "key": "Weight",
+            "value": "71 kg"
+          },
+          {
+            "key": "Package dimensions (W x D x H)",
+            "value": "1910 x 680 x 800 mm"
+          },
+          {
+            "key": "Package weight",
+            "value": "118 kg"
+          },
+          {
+            "key": "Energy star certified",
+            "value": "Yes"
+          },
+          {
+            "key": "Electromagnetic compatibility",
+            "value": "Compliance for Class A ITE products: EU (EMC Directive), Russia (EAC)"
+          },
+          {
+            "key": "Safety",
+            "value": "EU: LVD and EN 60950-1 compliant; Russia: EAC"
+          },
+          {
+            "key": "What's in the box",
+            "value": "HP HD Pro 2 42-in Scanner, stand, touchscreen (panel PC), quick reference guide, media guides, setup poster, maintenance sheet, copy/scan software, documentation software, Ethernet cable, USB cable, power cords"
+          },
+          {
+            "key": "Manufacturer Warranty",
+            "value": "One-year limited hardware warranty"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/bo6krsqgxy/png/bo6krsqgxy.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/aygluquovd/png/aygluquovd.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/zizeatg2ei/png/zizeatg2ei.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06519564.png"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP Digital Sender Flow 8500 fn2 Document Capture Workstation (L2762A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "L2762A",
+    "product_id": "14121299",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/14121299",
+    "category": "Scanners",
+    "overview": "The fastest, most secure network scanner helps accelerate your business forward. Utilising high-performance features for a more productive office. 1",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "Flatbed, ADF"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Scan to e-mail; Save-to-Network Folder; Save-to-USB drive; Send to FTP; Send to LAN Fax; Send to Internet Fax; Local Address Book; SMTP over SSL"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 10,000 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 30-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 100 ppm/200 ipm (black and white); Up to 100 ppm/200 ipm (colour) 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "216 x 356 mm; Up to 216 x 864 mm when \"long scan size\" selected"
+          },
+          {
+            "key": "Scan size, maximum",
+            "value": "216 x 356 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "68 x 148 mm"
+          },
+          {
+            "key": "Scan size, minimum",
+            "value": "216 x 356 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 150 sheets at 75 g/m²"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "PDF, JPEG, TIFF, MTIFF, XPS, PDF/A, TEXT (OCR), Unicode TEXT (OCR), RTF (OCR), Searchable PDF (OCR), Searchable PDF/A (OCR), HTML (OCR), CSV (OCR); Scan to easy access USB: PDF, JPEG, TIFF, MTIFF, XPS, PDF/A, TEXT (OCR), Unicode TEXT (OCR), RTF (OCR), Searchable PDF (OCR), Searchable PDF/A (OCR), HTML (OCR), CSV (OCR); For HP Scan: PDF, JPEG, PNG, BMP, TIF, Text (.txt), Rich text (.rtf), Searchable PDF (.pdf), PDF/A (.pdf); For HP Easy Scan: TIFF, PNG, JPEG, JPEG-2000, PDF, PDF-Searchable, RTF, TXT; For Linux: JPEG, PDF, PNG, PNM, PostScript, TEXT, TIFF"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Front panel applications: E-mail; Save to Network Folder; Save to USB; Save to Device Memory; Open Extensibility Platform (OXP) applications; Software scan using HP Scan Software; User application via TWAIN (32/64-bit), ISIS, WIA or Kofax VirtualRescan (VRS) Professional drivers"
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "25 to 400% in 1% increments (flatbed)"
+          },
+          {
+            "key": "Scan technology",
+            "value": "Charge Coupled Device (CCD) Flatbed; Contact Image Sensor (CIS) ADF"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75, 150, 200, 300, 400, 600, 1200"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "LED"
+          },
+          {
+            "key": "Photographic format types",
+            "value": "Photos up the maximum size supported by the flatbed scanner. HP does not recommend feeding photos through the ADF. Slide and negative scanning are not supported."
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "199 g/m²"
+          },
+          {
+            "key": "Document weight ADF (minimum)",
+            "value": "45 g/m²"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "Executive, Statement, A4, A5, A6, RA4, B5, B6, 100 x 150 mm, 16K (195 x 270 mm), 16K (184 x 260 mm), 16K (197 x 273 mm), Postcard JIS, D Postcard JIS, Oficio (216 x 340 mm)"
+          },
+          {
+            "key": "Media types",
+            "value": "ADF: Paper (Plain, Inkjet, Inkjet Brochure/Glossy), Photo Paper; Flatbed: All ADF Media, Envelopes, Labels, Cards, Books"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "45 to 199 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Auto exposure, Auto threshold, Auto detect color, Background smooth/removal, Auto detect size, Straighten content, Enhance content, Multi-streaming, Auto feed, Multi-feed detection sensor, Auto orient, Multi-color dropout, Channel color dropout, Edge erase, Resize page, Delete blank page, Merge pages, Hole fill, PDF permissions, Document separation (Blank page, Barcode, Zonal barcode, Zonal OCR)"
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; macOS X 10.10 Yosemite; macOS 10.11 El Capitan; macOS 10.12 Sierra; Linux; UNIX\n\nFull solution software available only for Windows 7 and newer, UPD software available only for Windows 7 and newer HP Software for Mac and Windows is no longer included on the CD, but can be downloaded from http://www.hp.com, Legacy Windows Operating Systems (XP, Vista, and equivalent servers) get print and Scan drivers only, with a reduced feature set Windows RT OS for Tablets (32/64-bit) uses a simplified HP print driver built into the RT OS"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "1.3 GB available hard drive space; Internet; OS hardware requirements see  http://www.apple.com for more info"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "2 GB available hard disk space, OS hardware requirements see http://www.microsoft.com, or 1.3 GB available hard drive space, Internet; OS hardware requirements see http://www.apple.com for more info; For HP Scan: Windows® 10, 8.1, 8, 7: 32/64-bit, 2 GB available hard disk space, CD-ROM/DVD drive or Internet connection, USB port, Internet Explorer, 2 GHz processor, 1024 x 768 SVGA monitor"
+          },
+          {
+            "key": "System requirements, recommended",
+            "value": "Windows OS with 2 GB available hard disk space, OS hardware requirements see http://www.microsoft.com or Mac system with 1.3 GB available hard disk space; Internet; OS hardware requirements see http://www.apple.com for more info"
+          },
+          {
+            "key": "Twain version",
+            "value": "Windows: 32-bit and 64-bit TWAIN version 2.1; Mac: n/a"
+          },
+          {
+            "key": "Processor speed",
+            "value": "1.2 GHz"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "Standard, 500 GB, HP High Performance Secure Hard Disk"
+          },
+          {
+            "key": "Memory",
+            "value": "3584 MB (2560 MB on primary board, 1024 MB on scanner processor)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP browser, Mac OS Welcome Screen (Directs users to HP.com or OS App Source for printer software), Online user manuals. Download from hp.com Network TWAIN (32-bit and 64-bit), and USB TWAIN (32-bit and 64-bit) solution, WIA, Kofax VRS Pro"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "10/100/1000 Ethernet; 1 Hi-Speed USB Host (rear); 1 Hi-Speed USB Host (walk-up); 1 Hardware Integration Pocket (HIP) Hi-Speed USB; 1 USB-Device Port (Rear)"
+          },
+          {
+            "key": "Connectivity, optional",
+            "value": "HP Jetdirect 2900nw Print Server J8031A"
+          },
+          {
+            "key": "Network ready",
+            "value": "Standard (built-in Gigabit Ethernet)"
+          },
+          {
+            "key": "Wireless capability",
+            "value": "Optional"
+          },
+          {
+            "key": "Ports",
+            "value": "10/100/1000 Ethernet; 1 Hi-Speed USB Host (rear); 1 Hi-Speed USB Host (walk-up); 1 Hardware Integration Pocket (HIP) Hi-Speed USB; 1 USB-Device Port (Rear)"
+          },
+          {
+            "key": "Network protocols, supported",
+            "value": "Via built-in networking solution: TCP/IP, IPv4, IPv6; Scan: Network TWAIN, WebScan (eSCL); DISCOVERY: SLP, Bonjour, Web Services Discovery; IP CONFIG: IPv4 (BootP, DHCP, AutoIP, Manual, TFTP Config, ARP-Ping), IPv6 (Stateless Link-Local and via Router, Statefull via DHCPv6); Management: SNMPv2/v3, HTTP/HTTPS, Telnet, TFTP Config, FTP FW Download, Syslog; Security: SNMPv3, SSL Cert Management, Firewall, ACL, 802.1x"
+          },
+          {
+            "key": "Power",
+            "value": "Input voltage: 220 to 240 VAC, 50 Hz"
+          },
+          {
+            "key": "Power supply type",
+            "value": "Built-in power supply"
+          },
+          {
+            "key": "Power consumption",
+            "value": "22 watts (Ready), 1.2 watts (Sleep), 0.3 watts (Off)"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/bibsztuh1i/png/bibsztuh1i.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/yra5czw2v9/png/yra5czw2v9.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/w2vquakqyo/png/w2vquakqyo.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/euaouajvs4/png/euaouajvs4.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/xbewlcgjl8/png/xbewlcgjl8.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Enterprise Flow N9120 fn2 Document Scanner (L2763A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "L2763A",
+    "product_id": "15932723",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/15932723",
+    "category": "Scanners",
+    "overview": "The fastest, most secure A3 departmental scanner helps accelerate your business forward. Utilizing high-performance features for a more productive office. 1",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "Flatbed, ADF"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Scan to e-mail; Save-to-Network Folder; Save-to-USB drive; Send to FTP; Send to LAN Fax; Send to Internet Fax; Local Address Book; SMTP over SSL"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 600 ppi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 20,000 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 30-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 120 ppm/240 ipm (black and white); Up to 120 ppm/240 ipm (colour) 1 2"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "297 x 432 mm; Up to 297 x 864 mm when \"long scan size\" selected"
+          },
+          {
+            "key": "Scan size, maximum",
+            "value": "297 x 432 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "68 x 148 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 200 sheets at 75 g/m²"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "PDF, JPEG, TIFF, MTIFF, XPS, PDF/A, TEXT (OCR), Unicode TEXT (OCR), RTF (OCR), Searchable PDF (OCR), Searchable PDF/A (OCR), HTML (OCR), CSV (OCR); Scan to easy access USB: PDF, JPEG, TIFF, MTIFF, XPS, PDF/A, TEXT (OCR), Unicode TEXT (OCR), RTF (OCR), Searchable PDF (OCR), Searchable PDF/A (OCR), HTML (OCR), CSV (OCR); For HP Scan: PDF, JPEG, PNG, BMP, TIF, Text (.txt), Rich text (.rtf), Searchable PDF (.pdf), PDF/A (.pdf); For HP Easy Scan: TIFF, PNG, JPEG, JPEG-2000, PDF, PDF-Searchable, RTF, TXT; For Linux: JPEG, PDF, PNG, PNM, PostScript, TEXT, TIFF"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Front panel applications: E-mail; Save to Network Folder; Save to USB; Save to Device Memory; Open Extensibility Platform (OXP) applications; Software scan using HP Scan Software; User application via TWAIN (32/64-bit), ISIS, WIA or Kofax VirtualRescan (VRS) Professional drivers"
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "25 to 400% in 1% increments (flatbed)"
+          },
+          {
+            "key": "Scan technology",
+            "value": "Charge Coupled Device (CCD) & Contact Image Sensor (CIS)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 300; 400; 600; 1200"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "LED"
+          },
+          {
+            "key": "Photographic format types",
+            "value": "Photos up the maximum size supported by the flatbed scanner. HP does not recommend feeding photos through the ADF. Slide and negative scanning are not supported."
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "199 g/m²"
+          },
+          {
+            "key": "Document weight ADF (minimum)",
+            "value": "45 g/m²"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "A3, Ledger, B4-JIS, A4, B5-JIS, A5, B6-JIS, A6"
+          },
+          {
+            "key": "Media types",
+            "value": "ADF: Paper (Plain, Inkjet, Inkjet Brochure/Glossy), Photo Paper; Flatbed: All ADF Media, Envelopes, Labels, Cards, Books"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "45 to 199 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Auto exposure, Auto threshold, Auto detect color, Background smooth/removal, Auto detect size, Straighten content, Enhance content, Multi-streaming, Auto feed, Multi-feed detection sensor, Auto orient, Multi-color dropout, Channel color dropout, Edge erase, Resize page, Delete blank page, Merge pages, Hole fill, PDF permissions, Document separation (Blank page, Barcode, Zonal barcode, Zonal OCR)"
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; macOS X 10.10 Yosemite; macOS 10.11 El Capitan; macOS 10.12 Sierra; Linux; UNIX\n\nFull solution software available only for Windows 7 and newer, UPD software available only for Windows 7 and newer HP Software for Mac and Windows is no longer included on the CD, but can be downloaded from http://www.hp.com, Legacy Windows Operating Systems (XP, Vista, and equivalent servers) get print and Scan drivers only, with a reduced feature set Windows RT OS for Tablets (32/64-bit) uses a simplified HP print driver built into the RT OS"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "1.3 GB available hard disk space; Internet; OS hardware requirements see  http://www.apple.com for more info"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "2GB available hard disk space, OS hardware requirements see http://www.microsoft.com or 1.3 GB available hard drive space, Internet; OS hardware requirements see http://www.apple.com for more info; For HP Scan: Microsoft® Windows® 10, 8.1, 8, 7: 32/64-bit, 2 GB available hard disk space, CD-ROM/DVD drive or Internet connection, USB port, Microsoft® Internet Explorer, 2 GHz processor, 1024 x 768 SVGA monitor"
+          },
+          {
+            "key": "System requirements, recommended",
+            "value": "Windows OS with 2 GB available hard disk space, OS hardware requirements see http://www.microsoft.com or Mac system with 1.3 GB available hard disk space; Internet; OS hardware requirements see  http://www.apple.com for more info"
+          },
+          {
+            "key": "Twain version",
+            "value": "Windows: 32-bit and 64-bit TWAIN version 2.1; Mac: n/a"
+          },
+          {
+            "key": "Processor speed",
+            "value": "1.2 GHz"
+          },
+          {
+            "key": "Internal Storage",
+            "value": "Standard, 500 GB, HP High Performance Secure Hard Disk"
+          },
+          {
+            "key": "Memory",
+            "value": "3584 MB (2560 MB on primary board, 1024 MB on scanner processor)"
+          },
+          {
+            "key": "Software included",
+            "value": "HP browser, Mac OS Welcome Screen (Directs users to HP.com or OS App Source for printer software), Online user manuals . Download from hp.com Network TWAIN (32-bit and 64-bit), and USB TWAIN (32-bit and 64-bit) solution, WIA, Kofax VRS Pro."
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "10/100/1000 Ethernet; 1 Hi-Speed USB Host (rear); 1 Hi-Speed USB Host (walk-up); 1 Hardware Integration Pocket (HIP) Hi-Speed USB; 1 USB-Device Port (rear)"
+          },
+          {
+            "key": "Connectivity, optional",
+            "value": "HP Jetdirect 2900nw Print Server J8031A"
+          },
+          {
+            "key": "Network ready",
+            "value": "Standard (built-in Gigabit Ethernet)"
+          },
+          {
+            "key": "Wireless capability",
+            "value": "Optional"
+          },
+          {
+            "key": "Ports",
+            "value": "10/100/1000 Ethernet; 1 Hi-Speed USB Host (rear); 1 Hi-Speed USB Host (walk-up); 1 Hardware Integration Pocket (HIP) Hi-Speed USB; 1 USB-Device Port (rear)"
+          },
+          {
+            "key": "Network protocols, supported",
+            "value": "Via built-in networking solution: TCP/IP, IPv4, IPv6; Scan: Network TWAIN, WebScan (eSCL); DISCOVERY: SLP, Bonjour, Web Services Discovery; IP CONFIG: IPv4 (BootP, DHCP, AutoIP, Manual, TFTP Config, ARP-Ping), IPv6 (Stateless Link-Local and via Router, Statefull via DHCPv6); Management: SNMPv2/v3, HTTP/HTTPS, Telnet, TFTP Config, FTP FW Download, Syslog; Security: SNMPv3, SSL Cert Management, Firewall, ACL, 802.1x"
+          },
+          {
+            "key": "Power",
+            "value": "Input voltage: 220 to 240 VAC, 50 Hz"
+          },
+          {
+            "key": "Power supply type",
+            "value": "Internal power supply"
+          },
+          {
+            "key": "Power consumption",
+            "value": "21 watts (Ready), 1.2 watts (Sleep), 0.3 watt (Off) (Power requirements are based on the country/region where the printer is sold. Do not convert operating voltages. This will damage the printer and void the product warranty. Power consumption values typically based on measurement of 115V device.)"
+          },
+          {
+            "key": "Control panel",
+            "value": "XGA 1024 x 768 mm LCD display; Light touch technology that supports gesture based interactions; Screen brightness-adjustment control; Home icon for quick return to the UI Home Screen; Virtual keyboard and a physical keyboard"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/ne3diiolkh/png/ne3diiolkh.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/pmq4vmb6xn/png/pmq4vmb6xn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/2nkurkbxww/png/2nkurkbxww.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05785636.png",
+      "https://hp.widen.net/content/0onx0btxdz/png/0onx0btxdz.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Pro 4200 s1 Scanner (8Q4W2A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "8Q4W2A",
+    "product_id": "2102484767",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/2102484767",
+    "category": "Scanners",
+    "overview": "Stay ahead of the demands of your business using the HP ScanJet Pro 4200 s1. Zip through front-desk paperwork with workflow automation and scan a variety of documents from passports to invoices with exceptional clarity—all in a compact design.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "ADF; Sheetfed"
+          },
+          {
+            "key": "Digital sending standard features",
+            "value": "Send to PC"
+          },
+          {
+            "key": "Digital sending optional features",
+            "value": "Send to PC"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 dpi"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 x 600 dpi"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 1200 dpi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 4500 pages"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 48-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 40 ppm/80 ipm (b&w, color, 300 dpi); Up to 20 ppm/40 ipm (low-speed mode) 1"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 40 ppm/80 ipm (b&w, color, 300 dpi); Up to 20 ppm/40 ipm (low-speed mode) 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "216 x 5842 mm (ADF); 216 x 5842 mm (Front slot)"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "52 x 74 mm (ADF); 51 x 51 mm (Front Slot)"
+          },
+          {
+            "key": "Scan size, minimum",
+            "value": "52 x 74 mm (ADF); 51 x 51 mm (Front Slot)"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 50 sheets"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "BMP; CSV; Excel (XLS); Excel ( XLSX); JPEG; PDF; PDF/A; PNG; RTF; Searchable PDF; TIFF; TXT; Word (DOC); Word (DOCX)"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "One default scan mode on front-panel for HP scan in Win OS, HP Easy Scan/ICA in Mac OS and third parties applications via TWAIN."
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "Will not perform any arbitrary scaling"
+          },
+          {
+            "key": "Scan technology",
+            "value": "ADF; Contact Image Sensor (CIS)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass duplex"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "Yes"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 240; 300; 400; 500; 600; 1200 ppi"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "Light Emitting Diode (LED)"
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "120 g/m²"
+          },
+          {
+            "key": "Document weight ADF (minimum)",
+            "value": "45 g/m²"
+          },
+          {
+            "key": "Media types",
+            "value": "Paper (banner, brochure, inkjet, plain), photo paper (borderless, HP premium, panoramic, plus tab), envelopes, labels, cards (greeting, index), ID cards, passport"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "28 to 120 g/m² (ADF); 28 to 430 g/m² (Front slot)"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "Scan to USB 3.0; OCR; Intelligent scanning recognizing the difference of text, lines and images for multi-layer document storage; automatic scan calibration; automatic document; blank page removal; barcode detection; batch separation; document merge; HP Precision Feed technology; destination scanning"
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8.1; Windows Server; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; macOS 15 Sequoia; Linux"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; macOS 13 Ventura; macOS 14 Sonoma; Internet Required; USB"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "Microsoft Windows 11, 10, 8.1, 2008 R2, 2012 R2, 2016, 2019; 2 GB available hard disk space, Internet Required, Web Browser, USB"
+          },
+          {
+            "key": "Twain version",
+            "value": "Version 2.4"
+          },
+          {
+            "key": "Processor speed",
+            "value": "666 MHz"
+          },
+          {
+            "key": "Memory",
+            "value": "512 MB"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Scan Software, HP Scanner Tools Utility, HP Scan Assistant, HP WIA scan driver, HP TWAIN scan driver, ISIS driver  ICA driver, HP Easy Scan for Mac OS, HPUI Scan for Linux"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "1 SuperSpeed USB 3.0"
+          },
+          {
+            "key": "Power",
+            "value": "Input Voltage: 100 to 240 VAC, 50/60Hz"
+          },
+          {
+            "key": "Power supply type",
+            "value": "External power adapter"
+          },
+          {
+            "key": "Power consumption",
+            "value": "4.6 watts (ready), 1.15 watts (sleep), 0.065 watts (off)"
+          },
+          {
+            "key": "Control panel",
+            "value": "1 light (Error); 3 button (Power, Scan, Cancel)"
+          },
+          {
+            "key": "Security management",
+            "value": "Power button to on/off"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "15 to 80% RH (non-condensing)"
+          },
+          {
+            "key": "Recommended operating humidity range",
+            "value": "30 to 70% RH"
+          },
+          {
+            "key": "Non-Operating Humidity Range",
+            "value": "0 to 90% RH (non-condensing)"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "10 to 35°C"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "50 to 95°F"
+          },
+          {
+            "key": "Recommended operating temperature range",
+            "value": "17.5 to 25°C"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/npgsy7n8qb/png/npgsy7n8qb.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/qtpgx8x8tn/png/qtpgx8x8tn.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/scqvnqrrhk/png/scqvnqrrhk.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/y5aa7mt8mf/png/y5aa7mt8mf.png?w=800&h=600&dpi=72&color=ffffff00"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  },
+  {
+    "title": "HP ScanJet Pro 2600 f1 (20G05A)",
+    "subtitle": "",
+    "brand": "HP",
+    "sku": "20G05A",
+    "product_id": "2100435069",
+    "url": "https://www.hp.com/ng-en/products/scanners/product-details/2100435069",
+    "category": "Scanners",
+    "overview": "Boost productivity for professional scanning tasks with the compact, reliable HP ScanJet Pro, designed for scanning up to 1,500 pages daily. Automate workflows with one-click shortcuts and fast, two-sided scanning from the auto document feeder.",
+    "price": "N/A",
+    "currency": "NGN",
+    "key_features": [],
+    "specifications": [
+      {
+        "title": "Technical Specifications",
+        "specs": [
+          {
+            "key": "Scanner type",
+            "value": "ADF; CIS scanning technology; Flatbed"
+          },
+          {
+            "key": "Digital sending optional features",
+            "value": "Send to email; Send to PC"
+          },
+          {
+            "key": "Scan resolution, optical",
+            "value": "Up to 600 dpi (color and mono, ADF); Up to 1200 dpi (color and mono, flatbed)"
+          },
+          {
+            "key": "Scan resolution, hardware",
+            "value": "Up to 600 x 600 dpi (color and mono, ADF); Up to 1200 x 1200 dpi (color and mono, flatbed)"
+          },
+          {
+            "key": "Enhanced scanning resolution",
+            "value": "Up to 1200 dpi"
+          },
+          {
+            "key": "Duty cycle (daily)",
+            "value": "Recommended daily duty cycle: 1500 pages (ADF)"
+          },
+          {
+            "key": "Bit depth",
+            "value": "24-bit (external), 48-bit (internal)"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 25 ppm/50 ipm (b&w, gray and color, 300 dpi) 1"
+          },
+          {
+            "key": "Automatic document feeder scan speed",
+            "value": "Up to 25 ppm/50 ipm (b&w, gray and color, 300 dpi) 1"
+          },
+          {
+            "key": "Scan size (ADF), maximum",
+            "value": "216 x 3100 mm"
+          },
+          {
+            "key": "Scan size, maximum",
+            "value": "216 x 297 mm"
+          },
+          {
+            "key": "Scan size (ADF), minimum",
+            "value": "89 x 148 mm"
+          },
+          {
+            "key": "Automatic document feeder capacity",
+            "value": "Standard, 60 sheets"
+          },
+          {
+            "key": "Duplex ADF scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Scan file format",
+            "value": "For text and image pages: PDF, JPEG, PNG, BMP, TIF, Text(TXT), Rich Text(RTF), SEARCHABLE PDF, PDF/A, Word(DOC), Word(DOCX), Excel(XLS), Excel(XLSX), CSV"
+          },
+          {
+            "key": "Scan input modes",
+            "value": "Scan front-panel function : Save as PDF, Save as JPEG, E-mail as PDF and Send to Cloud. HP Scan in Win OS, HP Easy Scan/ICA in Mac OS and third parties applications via TWAIN."
+          },
+          {
+            "key": "Color scanning",
+            "value": "Yes"
+          },
+          {
+            "key": "Levels of grayscale",
+            "value": "256"
+          },
+          {
+            "key": "Image scaling or enlargement range",
+            "value": "Will not perform any arbitrary scaling"
+          },
+          {
+            "key": "Scan technology",
+            "value": "ADF; Flatbed; Contact Image Sensor (CIS)"
+          },
+          {
+            "key": "Scanning options (ADF)",
+            "value": "Single-pass Duplex scanning"
+          },
+          {
+            "key": "Multifeed detection",
+            "value": "No"
+          },
+          {
+            "key": "Output resolution dpi settings",
+            "value": "75; 150; 200; 240; 300; 400; 500; 600; 1200 ppi"
+          },
+          {
+            "key": "Light source (scanning)",
+            "value": "Light Emitting Diode (LED)"
+          },
+          {
+            "key": "Document weight ADF (maximum)",
+            "value": "105 g/m²"
+          },
+          {
+            "key": "Media size (ADF)",
+            "value": "Letter; Legal; Executive; A4; A5; A6; B5; B5 (JIS)"
+          },
+          {
+            "key": "Media types",
+            "value": "Paper (banner, inkjet, photo, plain), envelopes, labels, cards (greeting, index)"
+          },
+          {
+            "key": "Media weights, supported ADF",
+            "value": "60 to 105 g/m²"
+          },
+          {
+            "key": "Scanner advanced features",
+            "value": "One pass duplex scanning; Configurable Scan shortcuts with HP Scan (included): OCR; Auto exposure; Auto threshold; Auto detect colour; Background smooth/removal; Auto detect size; Straighten content; Enhance content; Auto orient; Multicolour dropout; Edge erase; Blank page options: Delete Blank Page, Blank Page Detection Sensitivity, Zonal Blank Detect; Merge pages; Document separation options: Zonal Text Separation, Barcode Separation, Blank Page Separation (Front/Back/Both/Any side selection), Add Page Separator Manually; Auto Feed; Show Viewer After Scan and Post Scan Operations are: Mark the image for Deletion, Rotate option, Move Left/Right, Create/Delete New Selection, Save as Scan Area, Manual Straighten option, Drag and Crop, Undo Options, image - Basic Zoom Slider, Open in Zoom Window(Zoom, Crop, Rotate); Background Clean-up options: Clean-up Background, Remove: make white, Smooth: make consistent, Remove Holes, Multi-Streaming; Single zone Selection for Zonal OCR, Barcode and QR Code; PDF options: PDF Security Settings (Applicable for PDF and Searchable PDF), Password Security & Document Permission Settings, PDF – iHQC compression, File Size/Quality Slider; TIFF Compression Options: for Gray or Color: Uncompressed/LZW/Jpeg-Tiff, for BW: Uncompressed/LZW/Tiff G3/Tiff G4; File Name Options: Base Name, Date, Time, Document Counter, Barcode Value, Zonal Text, File name sequence Settings, If File name already exists Actions - Overwrite/Append Date Time Stamp/Prompt for File Name, Intelligent File Naming; Destinations options: Email (Mail Clients, Save Local Copy Option, Local or NW), Folder, Save Folder path, Show Save as Dialog Box, After Saving the File(s) action, Printer/Fax, Plugins available if not already included: SMTP, SFTP, Box and Evernote, SharePoint,SharePoint365, Google Drive, Dropbox, OneDrive, One Drive for Business and more; Enable Book Scan (Flatbed); Vertical Streak Removal/Detection; Multi Document Scanning; Enable Desktop Icons creation for Scan Profiles/Shortcuts; Shortcut Management: Create new Scan Shortcut, Delete Shortcut, Rename Shortcut, Shortcut Move Up/Down, Shortcut – Save/Undo, Restore Shortcut Defaults-Factory Settings, Import/Export Shortcut; retrieve shortcuts from Scanner without accessing the software on the PC"
+          },
+          {
+            "key": "Compatible Operating Systems",
+            "value": "Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; Windows Server; macOS 10.14 Mojave; macOS 10.15 Catalina; macOS 11 Big Sur; macOS 12 Monterey; Linux"
+          },
+          {
+            "key": "Mac compatible",
+            "value": "Yes"
+          },
+          {
+            "key": "Minimum System Requirements for Macintosh",
+            "value": "macOS Mojave 10.14, macOS Catalina 10.15 and macOS Big Sur 11.x; Internet required"
+          },
+          {
+            "key": "Minimum System Requirements",
+            "value": "Microsoft® Windows® (11, 10, 8.1, 7 : 32-bit and 64-bit, 2008 R2, 2012 R2, 2016, 2019); 2 GB available hard disk space, Internet connection, Microsoft® Internet Explorer or any browser"
+          },
+          {
+            "key": "Twain version",
+            "value": "Version 2.4"
+          },
+          {
+            "key": "Processor speed",
+            "value": "666 MHz"
+          },
+          {
+            "key": "Memory",
+            "value": "256 MB"
+          },
+          {
+            "key": "Software included",
+            "value": "HP Scan Software, HP Scanner Device Driver, HP WIA scan driver, HP TWAIN scan driver, HP Scanner Tools Utility"
+          },
+          {
+            "key": "Connectivity, standard",
+            "value": "USB 2.0"
+          },
+          {
+            "key": "Power",
+            "value": "Input Voltage: 100 to 240 VAC"
+          },
+          {
+            "key": "Power supply type",
+            "value": "External power adapter"
+          },
+          {
+            "key": "Power consumption",
+            "value": "12.90 watts (Active - Scanning), 5 watts (Ready), 1.11 watts (Sleep), 0.06 (Auto-Off), 0.06 (Manual-Off) (Power requirements are based on the country/region where the printer is sold. Do not convert operating voltages. This will damage the printer and void the product warranty.)"
+          },
+          {
+            "key": "Control panel",
+            "value": "6 lights (Shortcut, Duplex, Error); 5 button (Power, Scan, Duplex, Shortcut Select, Cancel )"
+          },
+          {
+            "key": "Security management",
+            "value": "Power button to on/off"
+          },
+          {
+            "key": "Operating humidity range",
+            "value": "15 to 80% RH (non-condensing)"
+          },
+          {
+            "key": "Recommended operating humidity range",
+            "value": "30 to 70% RH"
+          },
+          {
+            "key": "Non-Operating Humidity Range",
+            "value": "0 to 90% RH (non-condensing)"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "10 to 35°C"
+          },
+          {
+            "key": "Operating temperature range",
+            "value": "50 to 95°F"
+          },
+          {
+            "key": "Recommended operating temperature range",
+            "value": "17.5 to 25°C"
+          },
+          {
+            "key": "Recommended operating temperature range",
+            "value": "63.5 to 77°F"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "https://hp.widen.net/content/zijsar8amq/png/zijsar8amq.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/hgvpzkryyi/png/hgvpzkryyi.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/eetiypqeae/png/eetiypqeae.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://hp.widen.net/content/h6ykw2zk63/png/h6ykw2zk63.png?w=800&h=600&dpi=72&color=ffffff00",
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08188119.png"
+    ],
+    "warranty": "N/A",
+    "is_active": true
+  }
+]
